@@ -22,7 +22,7 @@ except ImportError:
     # Not required for demo
     pass
 
-from qboost import QBoostClassifier, qboost_lambda_sweep
+from qboost import QBoostClassifier
 from datasets import make_blob_data, make_blob_data_orig
 
 
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
     if args.dataset == 'vanilla':
 
-        X_train, y_train, X_test, y_test = make_blob_data_orig()
+        X_train, y_train, X_test, y_test = make_blob_data()
 
         n_samples = X_train.shape[0]
         n_features = X_train.shape[1]
