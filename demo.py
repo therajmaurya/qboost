@@ -22,7 +22,7 @@ except ImportError:
     # Not required for demo
     pass
 
-from qboost import QBoostClassifier
+from qboost import QBoostClassifier, QBoostClassifierWithSquaredRootScaling, QBoostClassifierWithDepth2
 from datasets import make_blob_data, make_blob_data_orig
 
 
@@ -43,6 +43,8 @@ if __name__ == '__main__':
         title='dataset', description='dataset to use', dest='dataset')
 
     sp_blobs = subparsers.add_parser('vanilla', help='run vanilla implementation on the new data')
+    sp_blobs = subparsers.add_parser('sqrtscaling', help='run sqrtscaling implementation on the new data')
+    sp_blobs = subparsers.add_parser('weakClfDepth2', help='run weakClfDepth2 implementation on the new data')
 
     args = parser.parse_args()
 
@@ -55,6 +57,36 @@ if __name__ == '__main__':
         n_informative = X_train.shape[1] # keeping informative columns same as original number of columns
 
         qboost = QBoostClassifier(X_train, y_train, args.lam)
+
+        print('Informative features:', list(range(n_informative)))
+        print('Selected features:', qboost.get_selected_features())
+
+        print('Score on test set: {:.3f}'.format(qboost.score(X_test, y_test)))
+
+    elif args.dataset == 'sqrtscaling':
+
+        X_train, y_train, X_test, y_test = make_blob_data()
+
+        n_samples = X_train.shape[0]
+        n_features = X_train.shape[1]
+        n_informative = X_train.shape[1] # keeping informative columns same as original number of columns
+
+        qboost = QBoostClassifierWithSquaredRootScaling(X_train, y_train, args.lam)
+
+        print('Informative features:', list(range(n_informative)))
+        print('Selected features:', qboost.get_selected_features())
+
+        print('Score on test set: {:.3f}'.format(qboost.score(X_test, y_test)))
+
+    elif args.dataset == 'weakClfDepth2':
+
+        X_train, y_train, X_test, y_test = make_blob_data()
+
+        n_samples = X_train.shape[0]
+        n_features = X_train.shape[1]
+        n_informative = X_train.shape[1] # keeping informative columns same as original number of columns
+
+        qboost = QBoostClassifierWithDepth2(X_train, y_train, args.lam)
 
         print('Informative features:', list(range(n_informative)))
         print('Selected features:', qboost.get_selected_features())

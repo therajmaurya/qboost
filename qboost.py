@@ -13,6 +13,7 @@
 #    limitations under the License.
 
 import numpy as np
+import itertools
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
@@ -48,7 +49,7 @@ class DecisionStumpClassifier:
         self.i = feature_index
 
         self.clf = DecisionTreeClassifier(max_depth=1)
-        self.clf.fit(X[:, [feature_index]], y)
+        self.clf.fit(X[:, feature_index], y)
 
     def predict(self, X):
         """Predict class.
@@ -63,7 +64,7 @@ class DecisionStumpClassifier:
         Returns:
             Array of class labels.
         """
-        return self.clf.predict(X[:, [self.i]])
+        return self.clf.predict(X[:, self.i])
 
 
 def _build_H(classifiers, X, output_scale):
@@ -233,6 +234,64 @@ def _minimize_squared_loss_binary(H, y, lam):
     return weights, energy
 
 
+class QBoostClassifierWithDepth2(EnsembleClassifier):
+    """Construct an ensemble classifier using quadratic loss minimization.
+
+    """
+
+    def __init__(self, X, y, lam, weak_clf_scale=None, drop_unused=True):
+        """Initialize and fit QBoost classifier.
+
+        X should already include all candidate features (e.g., interactions).
+
+        Args:
+            X (array):
+                2D array of feature vectors.
+            y (array):
+                1D array of class labels (+/- 1).
+            lam (float):
+                regularization parameter.
+            weak_clf_scale (float or None):
+                scale factor to apply to weak classifier outputs.  If
+                None, scale by 1/num_classifiers.
+            drop_unused (bool):
+                if True, only retain the nonzero weighted classifiers.
+        """
+        if not all(np.isin(y, [-1, 1])):
+            raise ValueError("Class labels should be +/- 1")
+
+        num_features = np.size(X, 1)
+
+        if weak_clf_scale is None:
+            weak_clf_scale = 1 / (num_features ** 0.5) 
+
+        pair_order_list = itertools.permutations(range(num_features), 2)
+
+        wclf_candidates = [DecisionStumpClassifier(
+            X, y, i) for i in pair_order_list]
+
+        H = _build_H(wclf_candidates, X, weak_clf_scale)
+
+        # For reference, store individual weak classifier scores.
+        # Note: we don't check equality h==y here because H might be rescaled.
+        self.weak_scores = np.array([np.mean(np.sign(h) * y > 0) for h in H.T])
+
+        weights, self.energy = _minimize_squared_loss_binary(H, y, lam)
+
+        # Store only the selected classifiers
+        if drop_unused:
+            weak_classifiers = [wclf for wclf, w in zip(
+                wclf_candidates, weights) if w > 0]
+            weights = weights[weights > 0]
+        else:
+            weak_classifiers = wclf_candidates
+
+        super().__init__(weak_classifiers, weights, weak_clf_scale)
+        self.fit_offset(X)
+
+        # Save candidates so we can provide a baseline accuracy report.
+        self._wclf_candidates = wclf_candidates
+
 class QBoostClassifier(EnsembleClassifier):
     """Construct an ensemble classifier using quadratic loss minimization.
 
@@ -265,7 +324,7 @@ class QBoostClassifier(EnsembleClassifier):
             weak_clf_scale = 1 / num_features
 
         wclf_candidates = [DecisionStumpClassifier(
-            X, y, i) for i in range(num_features)]
+            X, y, [i]) for i in range(num_features)]
 
         H = _build_H(wclf_candidates, X, weak_clf_scale)
 
@@ -302,5 +361,62 @@ class QBoostClassifier(EnsembleClassifier):
 
         print('Accuracy of weak classifiers (score on test set):')
         print(tabulate(data, headers=headers, floatfmt='.3f'))
+
+
+class QBoostClassifierWithSquaredRootScaling(EnsembleClassifier):
+    """Construct an ensemble classifier using quadratic loss minimization.
+
+    """
+
+    def __init__(self, X, y, lam, weak_clf_scale=None, drop_unused=True):
+        """Initialize and fit QBoost classifier.
+
+        X should already include all candidate features (e.g., interactions).
+
+        Args:
+            X (array):
+                2D array of feature vectors.
+            y (array):
+                1D array of class labels (+/- 1).
+            lam (float):
+                regularization parameter.
+            weak_clf_scale (float or None):
+                scale factor to apply to weak classifier outputs.  If
+                None, scale by 1/num_classifiers.
+            drop_unused (bool):
+                if True, only retain the nonzero weighted classifiers.
+        """
+        if not all(np.isin(y, [-1, 1])):
+            raise ValueError("Class labels should be +/- 1")
+
+        num_features = np.size(X, 1)
+
+        if weak_clf_scale is None:
+            weak_clf_scale = 1 / (num_features ** 0.5) # squared root scaling of features
+
+        wclf_candidates = [DecisionStumpClassifier(
+            X, y, [i]) for i in range(num_features)]
+
+        H = _build_H(wclf_candidates, X, weak_clf_scale)
+
+        # For reference, store individual weak classifier scores.
+        # Note: we don't check equality h==y here because H might be rescaled.
+        self.weak_scores = np.array([np.mean(np.sign(h) * y > 0) for h in H.T])
+
+        weights, self.energy = _minimize_squared_loss_binary(H, y, lam)
+
+        # Store only the selected classifiers
+        if drop_unused:
+            weak_classifiers = [wclf for wclf, w in zip(
+                wclf_candidates, weights) if w > 0]
+            weights = weights[weights > 0]
+        else:
+            weak_classifiers = wclf_candidates
+
+        super().__init__(weak_classifiers, weights, weak_clf_scale)
+        self.fit_offset(X)
+
+        # Save candidates so we can provide a baseline accuracy report.
+        self._wclf_candidates = wclf_candidates
 
 
