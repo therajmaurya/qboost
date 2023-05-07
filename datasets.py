@@ -19,7 +19,7 @@ from sklearn.datasets import make_blobs
 from sklearn.datasets import load_digits
 
 
-def make_blob_data(n_samples=100, n_features=5, n_informative=2, delta=1):
+def make_blob_data():
     """Generate sample data based on isotropic Gaussians with a specified number of class-informative features.
 
     Args:
@@ -34,6 +34,46 @@ def make_blob_data(n_samples=100, n_features=5, n_informative=2, delta=1):
             between the two classes.  (Note that all features have a
             standard deviation of 1).
 
+    Returns:
+        X (array of shape (n_samples, n_features))
+            Feature vectors.
+        y (array of shape (n_samples,):
+            Class labels with values of +/- 1.
+    """
+    x_train = pd.read_csv("data/x_train.csv")
+    x_train = np.squeeze(x_train.to_numpy()) # .tolist()
+    y_train = pd.read_csv("data/y_train.csv")
+    y_train = np.squeeze(y_train.to_numpy()) # .tolist()
+    x_test = pd.read_csv("data/x_test.csv")
+    x_test = np.squeeze(x_test.to_numpy()) # .tolist()
+    y_test = pd.read_csv("data/y_test.csv")
+    y_test = np.squeeze(y_test.to_numpy()) # .tolist()
+    
+    # Convert class labels to +/- 1
+    y_train = y_train * 2 - 1
+    y_test = y_test * 2 - 1
+
+    print(x_train)
+    print(y_train)
+    print(x_test)
+    print(y_test)
+
+    return x_train, y_train, x_test, y_test
+
+
+def make_blob_data_orig(n_samples=100, n_features=5, n_informative=2, delta=1):
+    """Generate sample data based on isotropic Gaussians with a specified number of class-informative features.
+    Args:
+        n_samples (int):
+            Number of samples.
+        n_features (int):
+            Number of features.
+        n_informative (int):
+            Number of informative features.
+        delta (float):
+            Difference in mean values of the informative features
+            between the two classes.  (Note that all features have a
+            standard deviation of 1).
     Returns:
         X (array of shape (n_samples, n_features))
             Feature vectors.
@@ -55,7 +95,10 @@ def make_blob_data(n_samples=100, n_features=5, n_informative=2, delta=1):
     # Convert class labels to +/- 1
     y = y * 2 - 1
 
-    return X, y
+    print(X)
+    print(y)
+
+    return X, y, X, y
 
 
 def get_handwritten_digits_data(class1, class2):
