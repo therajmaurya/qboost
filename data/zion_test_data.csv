@@ -1,0 +1,2476 @@
+ID,Location,Mode_of_delivery,Calls_to_customer_care,Rating_of_customer,Cost_of_food,Prior_purchases,Gender_of_customer,Discount_offered,Weight_of_food_in_gms
+1,Gachibowli,Auto,4,2.0,265.5,3.0,F,44,1233
+4,Khairtabad,Auto,3,3.0,264.0,4.0,M,10,1177
+6,Hitech City,Auto,3,,243.0,3.0,F,12,1417
+8,Hitech City,Auto,4,1.0,349.5,2.0,F,48,2804
+10,Khairtabad,Auto,3,2.0,246.0,,F,29,1187
+20,Hitech City,Bike,4,,217.5,3.0,M,45,1059
+22,Khairtabad,Bike,3,,348.0,4.0,F,51,2899
+25,Gachibowli,Bike,4,5.0,376.5,2.0,F,28,3561
+26,Hitech City,Bike,3,1.0,337.5,4.0,M,29,3496
+35,Masab Tank,Bike,4,2.0,340.5,4.0,F,22,2460
+40,Khairtabad,Bike,4,2.0,403.5,5.0,F,45,2383
+48,Hitech City,Bike,5,1.0,240.0,2.0,M,32,1576
+55,Gachibowli,Bike,4,3.0,304.5,3.0,M,12,3539
+56,Hitech City,Bike,2,,369.0,,M,46,2437
+59,Masab Tank,Bike,5,,211.5,3.0,M,41,1367
+60,Hitech City,Bike,4,1.0,225.0,3.0,F,17,1923
+62,Hitech City,Bike,3,3.0,268.5,,M,52,1158
+63,Secunderabad,Bike,5,1.0,157.5,6.0,M,62,1292
+67,Gachibowli,Bike,3,2.0,163.5,3.0,F,15,1710
+68,Hitech City,Bike,3,3.0,237.0,3.0,F,6,1878
+73,Gachibowli,Bike,5,5.0,348.0,3.0,F,33,2998
+75,Secunderabad,Bike,6,1.0,357.0,6.0,F,13,2442
+76,Khairtabad,Bike,4,,399.0,3.0,F,23,3775
+79,Gachibowli,Bike,3,4.0,334.5,3.0,M,18,3959
+80,Hitech City,Bike,3,,385.5,2.0,F,56,3711
+84,Hitech City,Bike,5,5.0,243.0,3.0,F,31,1364
+89,Masab Tank,Bike,3,,343.5,3.0,M,49,2339
+91,Gachibowli,Bike,5,3.0,261.0,6.0,F,41,1085
+92,Hitech City,Bike,5,5.0,429.0,3.0,F,18,3163
+99,Secunderabad,Bike,3,5.0,216.0,4.0,M,5,1104
+100,Khairtabad,Bike,4,2.0,217.5,2.0,M,21,1617
+107,Masab Tank,Bike,3,1.0,357.0,,M,17,2624
+109,Gachibowli,Bike,4,5.0,357.0,,F,55,3257
+112,Khairtabad,Car,4,2.0,358.5,3.0,F,65,3679
+131,Masab Tank,Car,3,5.0,268.5,2.0,F,17,1364
+139,Gachibowli,Auto,4,,310.5,5.0,M,48,2399
+156,Hitech City,Bike,5,1.0,171.0,4.0,F,47,1443
+171,Secunderabad,Bike,4,3.0,277.5,,F,10,2263
+175,Gachibowli,Bike,3,3.0,363.0,3.0,F,51,3935
+178,Khairtabad,Bike,4,,174.0,3.0,M,54,1314
+181,Gachibowli,Bike,4,1.0,241.5,7.0,F,18,1294
+185,Masab Tank,Bike,3,3.0,219.0,2.0,M,50,1486
+187,Gachibowli,Bike,5,,201.0,,F,55,1386
+188,Hitech City,Bike,2,1.0,333.0,2.0,M,5,3778
+191,Masab Tank,Bike,2,,195.0,3.0,M,16,1092
+197,Masab Tank,Bike,2,,202.5,3.0,M,15,1339
+202,Khairtabad,Bike,2,3.0,240.0,3.0,F,43,1251
+211,Gachibowli,Bike,2,,190.5,3.0,F,15,1522
+214,Khairtabad,Bike,2,5.0,240.0,3.0,F,31,7401
+215,Masab Tank,Bike,2,,193.5,,F,48,1219
+220,Khairtabad,Bike,3,5.0,405.0,3.0,M,60,3885
+221,Masab Tank,Bike,3,4.0,363.0,3.0,M,29,2381
+223,Gachibowli,Bike,4,2.0,288.0,3.0,M,4,2061
+227,Masab Tank,Bike,4,3.0,241.5,7.0,M,63,1496
+229,Gachibowli,Bike,3,2.0,246.0,10.0,M,14,1375
+232,Khairtabad,Bike,3,4.0,313.5,3.0,F,60,2240
+233,Masab Tank,Bike,5,,201.0,2.0,M,53,1088
+236,Hitech City,Bike,2,2.0,201.0,3.0,M,38,1352
+239,Masab Tank,Bike,2,3.0,210.0,3.0,F,23,1372
+241,Gachibowli,Bike,4,,405.0,4.0,M,65,1818
+253,Gachibowli,Car,2,,235.5,3.0,M,58,1930
+254,Hitech City,Car,2,5.0,240.0,3.0,F,19,1399
+255,Secunderabad,Car,2,2.0,228.0,,F,61,1800
+257,Masab Tank,Car,2,2.0,190.5,,M,13,1128
+258,Hitech City,Car,2,2.0,193.5,3.0,F,22,6614
+269,Masab Tank,Car,3,5.0,361.5,3.0,F,21,3078
+270,Hitech City,Auto,4,5.0,312.0,3.0,M,23,2056
+271,Gachibowli,Auto,3,2.0,313.5,5.0,F,12,3054
+279,Secunderabad,Auto,4,,256.5,3.0,F,24,1304
+280,Khairtabad,Auto,3,1.0,226.5,2.0,M,60,1925
+283,Gachibowli,Auto,3,3.0,232.5,3.0,F,29,1712
+284,Hitech City,Auto,5,4.0,247.5,,F,20,1150
+285,Secunderabad,Auto,5,5.0,345.0,3.0,F,32,3249
+286,Khairtabad,Auto,2,4.0,271.5,4.0,M,13,2309
+287,Masab Tank,Auto,5,3.0,351.0,2.0,F,55,3308
+288,Hitech City,Auto,4,4.0,223.5,3.0,M,34,1977
+291,Secunderabad,Auto,4,4.0,405.0,3.0,M,12,3279
+292,Khairtabad,Bike,4,1.0,309.0,,M,23,3807
+301,Gachibowli,Bike,5,3.0,190.5,3.0,F,43,1446
+302,Hitech City,Bike,4,5.0,303.0,2.0,M,35,3695
+324,Hitech City,Bike,3,1.0,288.0,,M,33,2818
+327,Secunderabad,Bike,3,4.0,259.5,,M,52,1587
+331,Gachibowli,Bike,3,4.0,295.5,3.0,F,56,3427
+333,Secunderabad,Bike,3,5.0,322.5,3.0,F,22,2585
+336,Hitech City,Bike,3,1.0,291.0,4.0,M,64,2026
+349,Gachibowli,Bike,4,,349.5,4.0,F,44,2551
+353,Masab Tank,Bike,2,,400.5,3.0,M,15,2481
+356,Hitech City,Bike,5,1.0,399.0,3.0,F,31,3157
+359,Masab Tank,Bike,3,1.0,210.0,3.0,F,65,1291
+369,Secunderabad,Bike,3,5.0,154.5,3.0,M,3,1403
+370,Khairtabad,Bike,3,5.0,385.5,3.0,F,19,2173
+372,Hitech City,Bike,4,5.0,238.5,,M,18,1808
+377,Masab Tank,Bike,2,3.0,235.5,2.0,M,45,1965
+379,Gachibowli,Bike,3,5.0,228.0,3.0,M,43,1282
+382,Khairtabad,Bike,5,2.0,298.5,4.0,F,59,2885
+393,Secunderabad,Car,4,4.0,267.0,4.0,F,13,1614
+396,Hitech City,Car,4,4.0,274.5,3.0,M,29,3251
+397,Gachibowli,Car,3,4.0,307.5,3.0,F,10,2728
+398,Hitech City,Car,2,1.0,184.5,4.0,F,53,1036
+415,Gachibowli,Auto,2,,327.0,2.0,M,15,2745
+425,Masab Tank,Auto,4,1.0,304.5,,M,34,3813
+442,Khairtabad,Bike,5,3.0,285.0,3.0,M,45,2628
+448,Khairtabad,Bike,3,4.0,291.0,,M,3,2169
+456,Hitech City,Bike,4,,223.5,3.0,M,54,1178
+459,Secunderabad,Bike,3,2.0,268.5,5.0,F,52,1991
+462,Hitech City,Bike,3,4.0,330.0,,M,43,2620
+469,Gachibowli,Bike,3,5.0,291.0,3.0,F,10,2277
+472,Khairtabad,Bike,4,3.0,366.0,3.0,M,8,3318
+475,Gachibowli,Bike,4,3.0,412.5,10.0,M,10,2093
+477,Secunderabad,Bike,4,,223.5,3.0,M,26,1863
+482,Hitech City,Bike,4,5.0,303.0,3.0,F,46,3181
+483,Secunderabad,Bike,3,,330.0,7.0,M,25,2141
+489,Secunderabad,Bike,7,5.0,288.0,3.0,M,46,1550
+505,Gachibowli,Bike,5,3.0,243.0,2.0,F,14,1045
+508,Khairtabad,Bike,5,,345.0,3.0,F,3,2923
+510,Hitech City,Bike,5,2.0,352.5,3.0,M,14,2984
+514,Khairtabad,Bike,5,3.0,375.0,5.0,M,12,2722
+515,Masab Tank,Bike,4,2.0,261.0,3.0,M,9,1682
+521,Masab Tank,Bike,3,1.0,217.5,2.0,F,34,1773
+523,Gachibowli,Car,6,5.0,318.0,,M,38,2359
+525,Secunderabad,Car,5,2.0,231.0,3.0,M,40,1238
+526,Khairtabad,Car,3,,373.5,3.0,M,51,2173
+537,Secunderabad,Car,2,,231.0,4.0,F,17,1897
+540,Hitech City,Car,4,,399.0,,F,33,2701
+544,Khairtabad,Auto,3,,346.5,2.0,M,46,2962
+550,Khairtabad,Auto,3,4.0,264.0,3.0,F,8,1567
+560,Hitech City,Auto,5,,406.5,3.0,M,32,3785
+563,Masab Tank,Auto,3,2.0,205.5,2.0,M,17,1673
+574,Khairtabad,Bike,4,3.0,162.0,6.0,F,22,1745
+584,Hitech City,Bike,5,5.0,273.0,3.0,F,27,3039
+590,Hitech City,Bike,3,2.0,267.0,2.0,F,59,1933
+592,Khairtabad,Bike,3,,421.5,2.0,M,55,3047
+598,Khairtabad,Bike,3,4.0,201.0,3.0,F,31,1540
+599,Masab Tank,Bike,4,,405.0,2.0,F,34,2821
+600,Hitech City,Bike,4,1.0,210.0,3.0,F,1,1464
+603,Secunderabad,Bike,4,3.0,309.0,,M,58,2135
+608,Hitech City,Bike,3,1.0,250.5,2.0,F,34,1967
+609,Secunderabad,Bike,4,,336.0,3.0,M,60,3145
+614,Hitech City,Bike,4,5.0,370.5,2.0,F,18,2404
+620,Hitech City,Bike,3,5.0,336.0,2.0,M,13,3891
+623,Masab Tank,Bike,3,4.0,379.5,3.0,M,6,3788
+625,Gachibowli,Bike,4,3.0,397.5,3.0,F,65,3578
+626,Hitech City,Bike,3,2.0,357.0,3.0,F,54,3142
+631,Gachibowli,Bike,3,1.0,232.5,,F,27,1022
+634,Khairtabad,Bike,2,3.0,246.0,2.0,M,56,1491
+637,Gachibowli,Bike,3,4.0,288.0,,F,56,3765
+641,Masab Tank,Bike,4,,235.5,2.0,F,2,1087
+651,Secunderabad,Bike,3,4.0,246.0,3.0,M,13,1158
+655,Gachibowli,Bike,4,5.0,373.5,2.0,M,4,2725
+665,Masab Tank,Car,4,,295.5,3.0,F,34,3784
+669,Secunderabad,Car,5,1.0,268.5,3.0,F,62,1945
+672,Hitech City,Car,3,,399.0,2.0,M,46,3594
+676,Khairtabad,Car,4,4.0,340.5,3.0,F,1,2761
+677,Masab Tank,Car,4,,283.5,,F,15,2457
+678,Hitech City,Car,6,,240.0,2.0,F,31,1689
+688,Khairtabad,Auto,4,5.0,409.5,2.0,M,63,3516
+690,Hitech City,Auto,3,,207.0,3.0,F,37,1266
+692,Hitech City,Auto,5,5.0,210.0,3.0,F,42,1384
+693,Secunderabad,Auto,4,1.0,375.0,2.0,M,17,3544
+694,Khairtabad,Auto,3,3.0,310.5,7.0,M,19,2182
+696,Hitech City,Auto,4,1.0,268.5,3.0,M,63,1215
+701,Masab Tank,Auto,6,1.0,421.5,3.0,F,36,2536
+711,Secunderabad,Bike,3,4.0,175.5,3.0,M,23,1527
+713,Masab Tank,Bike,4,2.0,301.5,3.0,F,39,2066
+714,Hitech City,Bike,3,3.0,409.5,2.0,F,16,2466
+719,Masab Tank,Bike,4,5.0,280.5,2.0,M,44,3218
+724,Khairtabad,Bike,5,,210.0,3.0,F,56,1332
+725,Masab Tank,Bike,4,3.0,375.0,2.0,F,46,2878
+732,Hitech City,Bike,6,5.0,169.5,3.0,F,35,1402
+736,Khairtabad,Bike,4,1.0,388.5,3.0,M,39,2427
+739,Gachibowli,Bike,3,2.0,334.5,3.0,F,6,2127
+741,Secunderabad,Bike,4,5.0,208.5,3.0,F,65,1277
+743,Masab Tank,Bike,3,5.0,270.0,4.0,F,59,1481
+745,Gachibowli,Bike,2,4.0,420.0,4.0,M,48,1463
+746,Hitech City,Bike,7,5.0,364.5,5.0,M,28,1100
+755,Masab Tank,Bike,3,5.0,307.5,6.0,F,25,2232
+757,Gachibowli,Bike,4,,292.5,5.0,F,10,3537
+770,Hitech City,Bike,4,,171.0,3.0,F,9,1240
+771,Secunderabad,Bike,3,4.0,268.5,4.0,F,44,1004
+775,Gachibowli,Bike,3,5.0,165.0,3.0,M,55,1875
+783,Secunderabad,Bike,4,5.0,322.5,2.0,F,34,2258
+785,Masab Tank,Bike,3,,313.5,2.0,M,43,2237
+786,Hitech City,Bike,2,3.0,216.0,3.0,M,40,1500
+790,Khairtabad,Bike,3,2.0,207.0,3.0,F,34,1159
+792,Hitech City,Bike,5,4.0,199.5,2.0,M,30,1161
+794,Hitech City,Bike,4,3.0,385.5,,M,5,2489
+799,Gachibowli,Car,4,3.0,276.0,3.0,F,19,2774
+807,Secunderabad,Car,3,1.0,217.5,4.0,F,58,1751
+815,Masab Tank,Car,4,4.0,241.5,3.0,F,59,1165
+817,Gachibowli,Car,4,1.0,264.0,,F,36,1891
+822,Hitech City,Auto,2,,147.0,3.0,F,29,1806
+828,Hitech City,Auto,4,2.0,313.5,,F,23,2533
+832,Khairtabad,Auto,3,,336.0,3.0,F,20,2937
+836,Hitech City,Auto,3,5.0,327.0,4.0,M,60,3048
+837,Secunderabad,Auto,3,4.0,343.5,2.0,M,51,2628
+864,Hitech City,Bike,2,3.0,282.0,3.0,F,51,3191
+871,Gachibowli,Bike,4,5.0,220.5,3.0,F,46,1469
+872,Hitech City,Bike,4,2.0,312.0,3.0,M,17,2777
+873,Secunderabad,Bike,3,1.0,267.0,5.0,F,15,1242
+876,Hitech City,Bike,4,1.0,333.0,,M,45,3158
+879,Secunderabad,Bike,6,,307.5,,M,14,3213
+889,Gachibowli,Bike,3,5.0,318.0,3.0,M,6,2069
+890,Hitech City,Bike,5,3.0,297.0,4.0,M,65,3407
+899,Masab Tank,Bike,3,5.0,363.0,3.0,M,19,3753
+903,Secunderabad,Bike,3,,375.0,3.0,F,33,3463
+904,Khairtabad,Bike,4,1.0,214.5,2.0,M,3,1996
+908,Hitech City,Bike,5,,247.5,2.0,M,54,1190
+910,Khairtabad,Bike,4,5.0,279.0,10.0,F,42,3521
+912,Hitech City,Bike,2,,244.5,,F,37,1079
+917,Masab Tank,Bike,5,5.0,391.5,8.0,M,39,2103
+918,Hitech City,Bike,5,3.0,282.0,,M,3,3637
+921,Secunderabad,Bike,3,2.0,321.0,2.0,M,26,3503
+928,Khairtabad,Bike,3,3.0,268.5,2.0,F,60,1808
+931,Gachibowli,Bike,4,3.0,243.0,2.0,M,2,1714
+932,Hitech City,Bike,3,2.0,202.5,,M,27,1898
+936,Hitech City,Car,5,2.0,312.0,3.0,M,8,3442
+937,Gachibowli,Car,3,2.0,375.0,3.0,F,49,3798
+940,Khairtabad,Car,4,1.0,220.5,3.0,F,15,1956
+952,Khairtabad,Car,5,4.0,282.0,7.0,F,48,2466
+954,Hitech City,Car,3,1.0,240.0,10.0,F,29,1952
+955,Gachibowli,Auto,3,1.0,321.0,2.0,F,50,2720
+971,Masab Tank,Auto,6,,177.0,2.0,M,40,1014
+973,Gachibowli,Auto,4,5.0,364.5,2.0,M,23,2686
+975,Secunderabad,Auto,5,,144.0,4.0,F,12,1655
+980,Hitech City,Bike,4,,210.0,,F,47,1831
+983,Masab Tank,Bike,3,2.0,262.5,4.0,F,17,1276
+987,Secunderabad,Bike,5,4.0,385.5,,M,55,2257
+991,Gachibowli,Bike,3,2.0,351.0,,M,33,2789
+994,Khairtabad,Bike,4,3.0,315.0,3.0,F,6,2568
+996,Hitech City,Bike,4,,211.5,2.0,M,52,1012
+998,Hitech City,Bike,3,5.0,246.0,3.0,F,43,1423
+1004,Hitech City,Bike,3,3.0,381.0,3.0,M,3,2837
+1009,Gachibowli,Bike,4,1.0,397.5,,M,18,3327
+1011,Secunderabad,Bike,2,,342.0,2.0,F,49,3024
+1019,Masab Tank,Bike,3,2.0,250.5,2.0,M,2,1010
+1026,Hitech City,Bike,5,4.0,286.5,4.0,M,63,2039
+1028,Hitech City,Bike,3,1.0,219.0,3.0,M,16,1714
+1040,Hitech City,Bike,2,,412.5,2.0,M,41,2546
+1043,Masab Tank,Bike,5,,255.0,3.0,F,60,1883
+1044,Hitech City,Bike,4,2.0,376.5,2.0,M,53,2673
+1045,Gachibowli,Bike,3,3.0,307.5,,F,58,2187
+1055,Masab Tank,Bike,2,4.0,286.5,3.0,F,58,2586
+1056,Hitech City,Bike,3,,228.0,3.0,M,5,1385
+1059,Secunderabad,Bike,4,3.0,390.0,4.0,M,40,3668
+1061,Masab Tank,Bike,5,3.0,378.0,4.0,M,63,3729
+1071,Secunderabad,Car,3,4.0,375.0,2.0,M,61,3207
+1075,Gachibowli,Car,4,,402.0,3.0,F,3,2758
+1077,Secunderabad,Car,3,4.0,292.5,3.0,M,10,2021
+1081,Gachibowli,Car,3,1.0,336.0,3.0,F,45,3624
+1089,Secunderabad,Car,5,,294.0,,M,44,2085
+1094,Hitech City,Auto,2,,324.0,2.0,F,57,3807
+1095,Secunderabad,Auto,3,,277.5,,M,3,3051
+1096,Khairtabad,Auto,4,2.0,298.5,,M,23,2994
+1098,Hitech City,Auto,3,,394.5,3.0,F,57,2113
+1117,Gachibowli,Bike,4,2.0,273.0,3.0,M,58,3943
+1123,Gachibowli,Bike,4,1.0,271.5,4.0,F,46,2399
+1144,Khairtabad,Bike,3,,336.0,,F,37,3220
+1146,Hitech City,Bike,5,1.0,279.0,,M,64,2529
+1148,Hitech City,Bike,5,5.0,261.0,6.0,F,26,1184
+1152,Hitech City,Bike,2,2.0,264.0,5.0,F,55,1211
+1154,Hitech City,Bike,6,5.0,231.0,10.0,F,48,1990
+1163,Masab Tank,Bike,4,,280.5,4.0,M,37,2200
+1171,Gachibowli,Bike,5,1.0,297.0,5.0,F,49,3187
+1194,Hitech City,Bike,3,4.0,399.0,2.0,M,49,2643
+1195,Gachibowli,Bike,4,1.0,190.5,8.0,F,12,1519
+1199,Masab Tank,Bike,4,,237.0,4.0,F,13,1785
+1201,Gachibowli,Bike,4,2.0,357.0,,F,28,1915
+1202,Hitech City,Bike,6,1.0,319.5,3.0,M,63,1548
+1203,Secunderabad,Bike,4,,355.5,2.0,M,21,1495
+1204,Khairtabad,Bike,4,,385.5,3.0,M,47,1308
+1209,Secunderabad,Car,3,1.0,231.0,2.0,F,44,1994
+1211,Masab Tank,Car,5,,192.0,,M,34,1008
+1213,Gachibowli,Car,2,4.0,280.5,3.0,M,50,3878
+1230,Hitech City,Auto,3,2.0,178.5,,M,32,1791
+1231,Gachibowli,Auto,5,4.0,318.0,6.0,F,5,2041
+1240,Khairtabad,Auto,4,5.0,235.5,,M,28,1557
+1244,Hitech City,Auto,6,,256.5,,M,61,1947
+1249,Gachibowli,Auto,5,,325.5,3.0,M,27,2999
+1251,Secunderabad,Bike,4,,288.0,4.0,F,46,3599
+1253,Masab Tank,Bike,5,5.0,339.0,3.0,F,65,3840
+1258,Khairtabad,Bike,3,5.0,328.5,3.0,F,54,3145
+1259,Masab Tank,Bike,4,,399.0,2.0,F,15,3425
+1260,Hitech City,Bike,5,1.0,216.0,,F,20,1082
+1265,Masab Tank,Bike,4,3.0,213.0,2.0,F,63,1615
+1271,Masab Tank,Bike,4,4.0,237.0,3.0,M,63,1387
+1279,Gachibowli,Bike,3,,277.5,3.0,M,47,2467
+1281,Secunderabad,Bike,3,4.0,268.5,3.0,M,57,1582
+1284,Hitech City,Bike,4,1.0,400.5,3.0,M,37,2716
+1286,Hitech City,Bike,5,2.0,294.0,3.0,M,38,2211
+1291,Gachibowli,Bike,4,3.0,363.0,3.0,M,1,2808
+1292,Hitech City,Bike,3,4.0,318.0,2.0,M,13,2733
+1296,Hitech City,Bike,5,3.0,277.5,3.0,M,25,2503
+1297,Gachibowli,Bike,3,5.0,286.5,3.0,M,54,3890
+1303,Gachibowli,Bike,4,1.0,228.0,3.0,F,65,1706
+1312,Khairtabad,Bike,3,,241.5,,F,25,1048
+1316,Hitech City,Bike,5,3.0,279.0,4.0,M,23,3981
+1318,Khairtabad,Bike,4,4.0,166.5,6.0,M,8,1145
+1323,Secunderabad,Bike,2,3.0,211.5,2.0,F,28,1624
+1350,Hitech City,Car,2,4.0,385.5,6.0,M,5,3986
+1351,Gachibowli,Car,4,1.0,303.0,3.0,M,59,2563
+1352,Hitech City,Car,5,5.0,367.5,4.0,F,12,2225
+1354,Khairtabad,Car,3,2.0,237.0,3.0,F,39,1512
+1360,Khairtabad,Car,5,5.0,394.5,,M,59,3238
+1366,Khairtabad,Auto,3,1.0,250.5,3.0,M,1,1252
+1367,Masab Tank,Auto,4,5.0,207.0,,F,64,1708
+1370,Hitech City,Auto,3,2.0,228.0,,F,7,1674
+1371,Secunderabad,Auto,5,3.0,298.5,4.0,F,24,3473
+1372,Khairtabad,Auto,5,4.0,402.0,,M,6,2206
+1383,Secunderabad,Auto,6,2.0,337.5,6.0,M,44,2057
+1389,Secunderabad,Bike,5,1.0,345.0,3.0,F,43,2994
+1398,Hitech City,Bike,4,,357.0,3.0,F,28,1040
+1405,Gachibowli,Bike,4,3.0,225.0,2.0,M,51,1491
+1406,Hitech City,Bike,5,1.0,285.0,4.0,M,24,3446
+1413,Secunderabad,Bike,6,,177.0,,F,2,1744
+1414,Khairtabad,Bike,3,4.0,364.5,2.0,F,14,3693
+1426,Khairtabad,Bike,5,2.0,358.5,2.0,F,15,2471
+1432,Khairtabad,Bike,5,5.0,270.0,5.0,M,35,1725
+1433,Masab Tank,Bike,7,,343.5,3.0,F,43,1793
+1438,Khairtabad,Bike,4,3.0,229.5,3.0,M,2,1095
+1442,Hitech City,Bike,3,4.0,199.5,3.0,M,17,1187
+1443,Secunderabad,Bike,3,,232.5,4.0,M,54,1885
+1444,Khairtabad,Bike,5,3.0,276.0,4.0,F,2,3798
+1448,Hitech City,Bike,4,,231.0,3.0,M,52,1367
+1451,Masab Tank,Bike,3,4.0,427.5,6.0,F,27,2249
+1458,Hitech City,Bike,4,4.0,348.0,4.0,M,27,3436
+1459,Gachibowli,Bike,3,,346.5,,M,55,3952
+1465,Gachibowli,Bike,3,2.0,339.0,3.0,M,11,3708
+1469,Masab Tank,Bike,5,5.0,336.0,3.0,F,48,2298
+1476,Hitech City,Bike,4,3.0,406.5,3.0,M,59,2996
+1479,Secunderabad,Bike,3,4.0,205.5,3.0,F,17,1212
+1481,Masab Tank,Car,4,1.0,339.0,3.0,F,28,2211
+1485,Secunderabad,Car,3,1.0,270.0,2.0,F,65,1321
+1487,Masab Tank,Car,3,1.0,313.5,3.0,F,20,3181
+1492,Khairtabad,Car,5,5.0,339.0,3.0,M,23,2626
+1496,Hitech City,Car,4,3.0,298.5,,F,28,2607
+1503,Secunderabad,Auto,3,4.0,202.5,3.0,M,11,1740
+1515,Secunderabad,Auto,3,2.0,361.5,3.0,F,60,3922
+1516,Khairtabad,Auto,4,4.0,391.5,,F,33,3678
+1519,Gachibowli,Auto,3,5.0,235.5,4.0,M,26,1969
+1523,Masab Tank,Auto,3,1.0,234.0,3.0,F,1,1517
+1535,Masab Tank,Bike,3,,253.5,2.0,F,20,1021
+1539,Secunderabad,Bike,4,,213.0,,M,2,1461
+1547,Masab Tank,Bike,3,3.0,307.5,2.0,F,15,3231
+1570,Khairtabad,Bike,5,,193.5,,M,35,1458
+1573,Gachibowli,Bike,2,1.0,378.0,,F,12,2800
+1578,Hitech City,Bike,5,4.0,394.5,3.0,M,61,2606
+1579,Gachibowli,Bike,5,4.0,229.5,,M,35,1082
+1582,Khairtabad,Bike,5,1.0,250.5,2.0,M,62,1884
+1591,Gachibowli,Bike,4,,408.0,,M,49,2803
+1596,Hitech City,Bike,4,3.0,237.0,,F,27,1207
+1602,Hitech City,Bike,4,1.0,366.0,,M,59,3073
+1605,Secunderabad,Bike,2,,217.5,2.0,M,1,1126
+1606,Khairtabad,Bike,5,2.0,210.0,4.0,M,58,1175
+1608,Hitech City,Bike,3,3.0,349.5,3.0,M,35,2204
+1614,Hitech City,Bike,4,4.0,214.5,8.0,F,39,1345
+1617,Secunderabad,Bike,3,4.0,181.5,3.0,F,63,1611
+1622,Hitech City,Car,5,,390.0,,M,58,2018
+1624,Khairtabad,Car,3,4.0,235.5,,M,12,1694
+1629,Secunderabad,Car,4,2.0,210.0,,F,49,1820
+1631,Masab Tank,Car,6,2.0,429.0,,F,65,3362
+1632,Hitech City,Car,5,5.0,336.0,8.0,F,49,3282
+1637,Masab Tank,Car,2,1.0,217.5,,F,49,1177
+1648,Khairtabad,Auto,4,,297.0,,M,64,3787
+1651,Gachibowli,Auto,4,2.0,304.5,5.0,F,20,3098
+1652,Hitech City,Auto,4,1.0,250.5,3.0,F,57,1782
+1664,Hitech City,Bike,5,5.0,336.0,8.0,F,48,2627
+1665,Secunderabad,Bike,3,5.0,306.0,3.0,F,45,2513
+1667,Masab Tank,Bike,4,5.0,402.0,,F,59,2083
+1668,Hitech City,Bike,4,5.0,400.5,4.0,M,20,3132
+1673,Masab Tank,Bike,3,,390.0,3.0,M,52,2874
+1674,Hitech City,Bike,2,,205.5,5.0,F,3,1037
+1680,Hitech City,Bike,5,2.0,397.5,,M,24,2415
+1691,Masab Tank,Bike,3,,261.0,2.0,M,51,1430
+1709,Masab Tank,Bike,4,2.0,319.5,4.0,F,37,2184
+1721,Masab Tank,Bike,2,1.0,265.5,4.0,M,63,1058
+1756,Khairtabad,Car,5,,240.0,,M,25,1977
+1758,Hitech City,Car,4,3.0,325.5,3.0,M,51,3144
+1760,Hitech City,Car,5,4.0,292.5,2.0,M,4,3108
+1762,Khairtabad,Car,4,,267.0,3.0,F,23,1695
+1765,Gachibowli,Car,2,,250.5,2.0,M,46,1023
+1768,Khairtabad,Car,5,2.0,408.0,2.0,F,37,2226
+1773,Secunderabad,Car,5,3.0,306.0,2.0,M,40,2181
+1778,Hitech City,Auto,4,3.0,201.0,3.0,F,21,1955
+1782,Hitech City,Auto,4,,219.0,2.0,M,52,1459
+1788,Hitech City,Auto,4,2.0,202.5,2.0,M,54,1011
+1791,Secunderabad,Auto,6,2.0,307.5,,F,61,2018
+1794,Hitech City,Auto,3,1.0,244.5,3.0,M,59,1005
+1797,Secunderabad,Auto,4,1.0,363.0,,M,34,3966
+1798,Khairtabad,Auto,5,4.0,343.5,2.0,M,9,3667
+1799,Masab Tank,Bike,5,1.0,286.5,3.0,M,56,3538
+1800,Hitech City,Bike,3,,346.5,2.0,M,49,2341
+1804,Khairtabad,Bike,3,4.0,226.5,3.0,M,16,1020
+1815,Secunderabad,Bike,5,,390.0,3.0,M,43,2143
+1819,Gachibowli,Bike,5,2.0,421.5,4.0,F,5,3357
+1825,Gachibowli,Bike,4,,390.0,3.0,F,14,2071
+1827,Secunderabad,Bike,4,,282.0,3.0,F,6,3361
+1828,Khairtabad,Bike,4,4.0,319.5,3.0,M,11,2037
+1832,Hitech City,Bike,2,3.0,316.5,,F,12,3296
+1836,Hitech City,Bike,4,2.0,351.0,2.0,M,27,3393
+1837,Gachibowli,Bike,3,1.0,270.0,3.0,M,52,1838
+1838,Hitech City,Bike,4,5.0,325.5,4.0,M,37,2128
+1840,Khairtabad,Bike,3,,282.0,3.0,M,3,3837
+1841,Masab Tank,Bike,2,3.0,411.0,3.0,F,24,3829
+1849,Gachibowli,Bike,5,5.0,184.5,2.0,F,60,1653
+1860,Hitech City,Bike,2,,255.0,8.0,M,14,1396
+1862,Hitech City,Bike,5,1.0,384.0,7.0,F,50,3837
+1869,Secunderabad,Bike,2,,316.5,3.0,F,55,3842
+1870,Khairtabad,Bike,3,2.0,249.0,2.0,F,45,1741
+1871,Masab Tank,Bike,3,1.0,367.5,4.0,F,47,3111
+1872,Hitech City,Bike,5,5.0,351.0,2.0,F,43,3822
+1873,Gachibowli,Bike,4,4.0,351.0,2.0,M,2,2008
+1886,Hitech City,Bike,5,,184.5,2.0,F,30,1068
+1888,Khairtabad,Bike,3,5.0,304.5,3.0,F,58,3231
+1892,Hitech City,Car,4,5.0,357.0,10.0,F,44,3860
+1893,Secunderabad,Car,5,1.0,370.5,10.0,F,57,2377
+1901,Masab Tank,Car,4,4.0,288.0,3.0,M,39,2943
+1916,Hitech City,Auto,5,2.0,234.0,2.0,M,19,1311
+1923,Secunderabad,Auto,5,,241.5,3.0,F,59,1037
+1926,Hitech City,Auto,5,2.0,241.5,2.0,F,59,1859
+1934,Hitech City,Auto,4,2.0,328.5,3.0,M,2,3402
+1937,Masab Tank,Bike,3,5.0,298.5,2.0,M,46,2728
+1939,Gachibowli,Bike,3,2.0,330.0,3.0,M,22,2818
+1944,Hitech City,Bike,4,4.0,336.0,2.0,F,31,2084
+1945,Gachibowli,Bike,4,4.0,276.0,3.0,F,52,3128
+1949,Masab Tank,Bike,4,,255.0,4.0,M,39,1868
+1956,Hitech City,Bike,6,5.0,412.5,,M,51,3569
+1961,Masab Tank,Bike,3,3.0,310.5,3.0,F,62,3277
+1966,Khairtabad,Bike,3,4.0,339.0,3.0,F,26,2299
+1967,Masab Tank,Bike,4,1.0,292.5,3.0,M,43,2849
+1982,Hitech City,Bike,4,,264.0,3.0,F,12,1750
+1988,Hitech City,Bike,2,3.0,226.5,3.0,M,22,1024
+1995,Secunderabad,Bike,3,1.0,247.5,3.0,F,1,1417
+1998,Hitech City,Bike,6,2.0,258.0,2.0,M,41,1006
+1999,Gachibowli,Bike,4,4.0,252.0,3.0,F,35,1434
+2005,Gachibowli,Bike,5,,427.5,,M,63,3151
+2007,Secunderabad,Bike,3,2.0,313.5,2.0,F,24,2748
+2008,Khairtabad,Bike,4,3.0,231.0,3.0,M,52,1432
+2012,Hitech City,Bike,4,,414.0,6.0,F,36,2843
+2024,Hitech City,Bike,3,4.0,312.0,,F,37,2537
+2036,Hitech City,Car,5,,213.0,2.0,F,55,1758
+2047,Gachibowli,Car,5,2.0,393.0,,M,10,3164
+2050,Khairtabad,Car,4,4.0,372.0,3.0,M,59,2868
+2051,Masab Tank,Auto,5,4.0,270.0,2.0,M,52,1122
+2055,Secunderabad,Auto,3,1.0,217.5,2.0,M,28,1313
+2057,Masab Tank,Auto,3,4.0,294.0,3.0,M,47,2447
+2059,Gachibowli,Auto,5,2.0,322.5,,M,46,3942
+2060,Hitech City,Auto,5,2.0,397.5,3.0,F,33,2734
+2066,Hitech City,Auto,3,1.0,397.5,3.0,M,11,2194
+2069,Masab Tank,Auto,5,,267.0,7.0,F,36,1179
+2070,Hitech City,Auto,3,,285.0,,F,32,2064
+2072,Hitech City,Auto,3,,229.5,2.0,F,51,1841
+2077,Gachibowli,Bike,3,4.0,258.0,10.0,F,23,1875
+2079,Secunderabad,Bike,3,,406.5,4.0,F,10,1679
+2080,Khairtabad,Bike,5,4.0,342.0,3.0,M,42,3145
+2089,Gachibowli,Bike,3,,234.0,,F,26,1769
+2092,Khairtabad,Bike,2,,337.5,10.0,M,56,3384
+2094,Hitech City,Bike,3,3.0,285.0,10.0,M,4,3062
+2096,Hitech City,Bike,3,4.0,229.5,,M,37,1740
+2100,Hitech City,Bike,3,,264.0,3.0,F,29,1953
+2101,Gachibowli,Bike,3,1.0,258.0,10.0,F,30,1294
+2102,Hitech City,Bike,5,1.0,292.5,6.0,F,29,1039
+2104,Khairtabad,Bike,3,1.0,346.5,3.0,F,33,2755
+2105,Masab Tank,Bike,5,5.0,372.0,3.0,F,9,3873
+2111,Masab Tank,Bike,4,5.0,270.0,,F,24,1513
+2115,Secunderabad,Bike,4,1.0,214.5,3.0,F,28,1197
+2116,Khairtabad,Bike,3,,243.0,2.0,M,5,1202
+2126,Hitech City,Bike,3,1.0,228.0,2.0,F,25,1848
+2136,Hitech City,Bike,3,3.0,282.0,4.0,M,3,3075
+2159,Masab Tank,Bike,4,2.0,235.5,2.0,M,15,1724
+2168,Hitech City,Car,3,2.0,226.5,2.0,M,26,1793
+2173,Gachibowli,Car,2,,382.5,3.0,M,27,3484
+2176,Khairtabad,Car,3,5.0,345.0,3.0,F,49,3477
+2187,Secunderabad,Car,3,4.0,303.0,3.0,M,28,3707
+2188,Khairtabad,Auto,4,5.0,232.5,,M,41,1367
+2190,Hitech City,Auto,5,,276.0,3.0,F,19,2625
+2193,Secunderabad,Auto,4,,378.0,3.0,F,7,2477
+2197,Gachibowli,Auto,4,,321.0,,M,49,3416
+2198,Hitech City,Auto,3,3.0,244.5,3.0,F,65,1614
+2208,Hitech City,Auto,3,,240.0,2.0,F,32,1718
+2212,Khairtabad,Bike,4,2.0,306.0,3.0,M,14,3829
+2213,Masab Tank,Bike,6,1.0,157.5,5.0,F,57,1784
+2216,Hitech City,Bike,3,4.0,390.0,4.0,M,17,2666
+2222,Hitech City,Bike,3,,246.0,2.0,M,2,1304
+2237,Masab Tank,Bike,4,,412.5,3.0,M,26,2449
+2238,Hitech City,Bike,3,,208.5,2.0,M,45,1192
+2242,Khairtabad,Bike,4,1.0,226.5,2.0,M,42,1367
+2243,Masab Tank,Bike,3,,169.5,4.0,F,56,1154
+2245,Gachibowli,Bike,5,,244.5,4.0,M,57,1613
+2246,Hitech City,Bike,5,,309.0,2.0,F,59,3278
+2263,Gachibowli,Bike,3,3.0,171.0,,F,26,1825
+2272,Khairtabad,Bike,4,1.0,169.5,3.0,F,60,1200
+2274,Hitech City,Bike,3,3.0,271.5,2.0,M,58,3719
+2276,Hitech City,Bike,3,,232.5,3.0,M,49,1203
+2281,Gachibowli,Bike,4,4.0,334.5,10.0,M,24,3271
+2291,Masab Tank,Bike,4,2.0,409.5,,F,26,3223
+2292,Hitech City,Bike,5,,288.0,3.0,M,46,3709
+2294,Hitech City,Bike,3,5.0,337.5,3.0,F,12,2721
+2299,Gachibowli,Bike,4,5.0,198.0,4.0,F,28,1715
+2303,Masab Tank,Car,5,2.0,351.0,6.0,F,58,2448
+2310,Hitech City,Car,6,2.0,336.0,3.0,F,26,3247
+2316,Hitech City,Car,4,,202.5,2.0,F,22,1195
+2318,Hitech City,Car,3,,322.5,6.0,M,42,3715
+2326,Khairtabad,Auto,4,4.0,211.5,2.0,F,30,1130
+2337,Secunderabad,Auto,2,2.0,363.0,6.0,F,63,3144
+2339,Masab Tank,Auto,2,5.0,382.5,4.0,F,36,2093
+2340,Hitech City,Auto,5,1.0,297.0,2.0,F,37,3025
+2348,Hitech City,Bike,5,1.0,229.5,2.0,F,55,1414
+2358,Hitech City,Bike,4,3.0,400.5,3.0,F,42,2332
+2359,Gachibowli,Bike,3,2.0,319.5,2.0,M,22,3248
+2363,Masab Tank,Bike,3,4.0,246.0,3.0,F,55,1293
+2364,Hitech City,Bike,5,5.0,211.5,2.0,M,14,1114
+2366,Hitech City,Bike,3,3.0,267.0,2.0,M,4,1778
+2374,Khairtabad,Bike,5,,210.0,3.0,F,16,1969
+2376,Hitech City,Bike,3,2.0,274.5,,F,25,2023
+2383,Gachibowli,Bike,3,5.0,366.0,3.0,F,8,3154
+2384,Hitech City,Bike,4,3.0,244.5,5.0,M,29,1349
+2387,Masab Tank,Bike,5,2.0,250.5,3.0,F,7,1939
+2393,Masab Tank,Bike,4,,331.5,,F,3,2546
+2397,Secunderabad,Bike,3,2.0,348.0,3.0,F,64,3131
+2398,Khairtabad,Bike,3,3.0,208.5,2.0,M,9,1177
+2400,Hitech City,Bike,6,2.0,414.0,6.0,M,7,2437
+2401,Gachibowli,Bike,2,5.0,256.5,3.0,F,13,1101
+2404,Khairtabad,Bike,3,2.0,298.5,4.0,F,47,2208
+2417,Masab Tank,Bike,3,1.0,229.5,2.0,F,6,1314
+2422,Khairtabad,Bike,3,3.0,282.0,5.0,M,25,3992
+2423,Masab Tank,Bike,3,2.0,231.0,,F,4,1009
+2425,Gachibowli,Bike,5,3.0,375.0,2.0,F,14,2064
+2434,Khairtabad,Bike,3,2.0,367.5,3.0,M,13,3775
+2439,Secunderabad,Bike,2,5.0,175.5,3.0,M,44,1192
+2440,Khairtabad,Car,2,1.0,172.5,3.0,M,42,1247
+2442,Hitech City,Car,4,5.0,199.5,3.0,M,3,1403
+2445,Secunderabad,Car,3,5.0,208.5,2.0,M,64,1857
+2446,Khairtabad,Car,4,3.0,324.0,3.0,M,35,2567
+2449,Gachibowli,Car,5,3.0,204.0,3.0,F,13,1446
+2450,Hitech City,Car,4,5.0,337.5,4.0,M,48,2767
+2453,Masab Tank,Car,4,3.0,202.5,2.0,M,24,1292
+2468,Hitech City,Auto,5,1.0,255.0,3.0,F,48,1299
+2469,Secunderabad,Auto,4,2.0,222.0,3.0,M,2,1805
+2473,Gachibowli,Auto,4,,234.0,3.0,F,60,1553
+2478,Hitech City,Auto,5,2.0,313.5,4.0,M,15,3330
+2483,Masab Tank,Auto,3,5.0,312.0,4.0,M,12,3181
+2484,Hitech City,Bike,6,,250.5,6.0,F,15,1278
+2485,Gachibowli,Bike,3,5.0,399.0,3.0,M,16,2334
+2488,Khairtabad,Bike,5,2.0,198.0,2.0,M,8,1665
+2494,Khairtabad,Bike,4,,226.5,3.0,F,31,1365
+2496,Hitech City,Bike,3,5.0,343.5,,F,12,3049
+2500,Khairtabad,Bike,3,4.0,360.0,2.0,M,8,3883
+2502,Hitech City,Bike,2,,378.0,2.0,M,35,2526
+2505,Secunderabad,Bike,2,,285.0,8.0,M,33,3448
+2529,Secunderabad,Bike,2,3.0,208.5,8.0,M,21,1033
+2530,Khairtabad,Bike,2,1.0,382.5,3.0,M,19,1551
+2531,Masab Tank,Bike,4,,211.5,2.0,F,23,1689
+2533,Gachibowli,Bike,3,5.0,354.0,3.0,F,54,3976
+2540,Hitech City,Bike,2,,378.0,2.0,F,21,2070
+2545,Gachibowli,Bike,5,4.0,364.5,3.0,F,43,2866
+2551,Gachibowli,Bike,3,1.0,267.0,3.0,F,11,1481
+2557,Gachibowli,Bike,3,3.0,262.5,3.0,F,32,1848
+2559,Secunderabad,Bike,4,3.0,243.0,10.0,M,25,1764
+2564,Hitech City,Bike,4,5.0,234.0,,F,33,1836
+2571,Secunderabad,Bike,3,3.0,268.5,3.0,F,41,1892
+2573,Masab Tank,Bike,2,1.0,423.0,5.0,F,51,1362
+2575,Gachibowli,Bike,4,,283.5,2.0,F,63,3474
+2579,Masab Tank,Car,3,,225.0,2.0,M,64,1777
+2580,Hitech City,Car,4,2.0,192.0,5.0,F,28,1247
+2581,Gachibowli,Car,5,2.0,354.0,2.0,M,24,3679
+2582,Hitech City,Car,4,3.0,243.0,2.0,F,58,1708
+2586,Hitech City,Car,4,5.0,369.0,2.0,M,31,2415
+2589,Secunderabad,Car,3,1.0,295.5,2.0,M,4,3621
+2590,Khairtabad,Car,5,3.0,304.5,2.0,F,37,3531
+2598,Hitech City,Car,3,2.0,346.5,3.0,F,56,2714
+2606,Hitech City,Auto,3,5.0,387.0,3.0,M,21,3446
+2612,Hitech City,Auto,4,4.0,331.5,4.0,M,14,2932
+2618,Hitech City,Auto,4,2.0,409.5,2.0,F,9,3383
+2622,Hitech City,Bike,3,1.0,381.0,2.0,M,56,3463
+2623,Gachibowli,Bike,5,3.0,223.5,,F,43,1005
+2628,Hitech City,Bike,4,5.0,342.0,,M,63,3401
+2630,Hitech City,Bike,3,1.0,210.0,2.0,F,6,1435
+2633,Masab Tank,Bike,4,,366.0,3.0,F,49,3914
+2640,Hitech City,Bike,3,5.0,363.0,5.0,F,61,3688
+2641,Gachibowli,Bike,4,5.0,205.5,2.0,F,14,1796
+2642,Hitech City,Bike,4,,244.5,,F,41,1634
+2644,Khairtabad,Bike,4,,294.0,3.0,F,11,3244
+2646,Hitech City,Bike,4,1.0,325.5,3.0,M,2,2692
+2647,Gachibowli,Bike,3,3.0,186.0,3.0,M,59,1959
+2656,Khairtabad,Bike,6,3.0,231.0,5.0,F,57,1117
+2661,Secunderabad,Bike,4,,214.5,,F,5,1027
+2664,Hitech City,Bike,4,4.0,226.5,2.0,F,38,1001
+2670,Hitech City,Bike,3,1.0,309.0,,F,56,2069
+2683,Gachibowli,Bike,4,4.0,418.5,5.0,F,56,2697
+2689,Gachibowli,Bike,2,2.0,205.5,3.0,F,20,1823
+2692,Khairtabad,Bike,5,5.0,199.5,,F,18,1134
+2696,Hitech City,Bike,5,1.0,336.0,2.0,F,14,2959
+2702,Hitech City,Bike,3,2.0,198.0,2.0,M,6,1185
+2713,Gachibowli,Bike,3,3.0,355.5,5.0,M,48,2057
+2715,Secunderabad,Car,4,4.0,337.5,3.0,M,51,2892
+2720,Hitech City,Car,3,2.0,201.0,2.0,F,45,1946
+2728,Khairtabad,Car,4,4.0,312.0,,F,20,2759
+2729,Masab Tank,Car,4,,268.5,,M,48,1943
+2735,Masab Tank,Car,3,,216.0,5.0,M,43,1027
+2736,Hitech City,Auto,5,1.0,408.0,3.0,M,27,2415
+2740,Khairtabad,Auto,3,4.0,198.0,2.0,M,12,1493
+2745,Secunderabad,Auto,6,,373.5,5.0,M,43,3078
+2750,Hitech City,Auto,3,,288.0,,F,25,2152
+2757,Secunderabad,Auto,3,5.0,147.0,3.0,F,48,1635
+2761,Gachibowli,Bike,5,3.0,396.0,10.0,F,34,3441
+2762,Hitech City,Bike,3,,289.5,2.0,F,23,2728
+2766,Hitech City,Bike,5,5.0,339.0,3.0,M,50,2348
+2774,Hitech City,Bike,5,,256.5,3.0,M,14,1554
+2787,Secunderabad,Bike,3,,309.0,3.0,M,21,3746
+2792,Hitech City,Bike,5,4.0,289.5,3.0,M,55,2758
+2795,Masab Tank,Bike,2,1.0,238.5,2.0,F,44,1213
+2797,Gachibowli,Bike,3,2.0,217.5,,F,29,1690
+2801,Masab Tank,Bike,3,,277.5,2.0,F,36,3501
+2804,Hitech City,Bike,3,,211.5,4.0,F,35,1417
+2807,Masab Tank,Bike,3,1.0,280.5,4.0,M,42,3621
+2808,Hitech City,Bike,4,2.0,324.0,,F,26,2431
+2813,Masab Tank,Bike,3,2.0,259.5,3.0,F,37,1990
+2820,Hitech City,Bike,4,,261.0,2.0,F,11,1577
+2821,Gachibowli,Bike,2,,282.0,4.0,M,39,2424
+2823,Secunderabad,Bike,5,5.0,201.0,2.0,M,64,1785
+2827,Gachibowli,Bike,2,3.0,258.0,3.0,F,11,1522
+2830,Khairtabad,Bike,3,4.0,258.0,3.0,M,56,1103
+2837,Masab Tank,Bike,4,1.0,226.5,2.0,F,47,1682
+2840,Hitech City,Bike,4,1.0,265.5,2.0,F,22,1698
+2844,Hitech City,Bike,5,,240.0,3.0,M,44,1054
+2846,Hitech City,Bike,4,5.0,219.0,3.0,F,9,1685
+2858,Hitech City,Car,2,,267.0,3.0,M,6,1184
+2859,Secunderabad,Car,2,4.0,297.0,3.0,M,37,2555
+2867,Masab Tank,Car,3,3.0,411.0,2.0,F,59,3436
+2868,Hitech City,Car,5,4.0,235.5,4.0,F,65,1951
+2879,Masab Tank,Auto,3,2.0,336.0,3.0,M,63,2085
+2884,Khairtabad,Auto,3,,372.0,3.0,M,9,2616
+2886,Hitech City,Auto,4,1.0,379.5,3.0,M,36,2591
+2887,Gachibowli,Auto,3,1.0,346.5,4.0,F,60,3755
+2889,Secunderabad,Auto,3,3.0,264.0,3.0,M,14,1705
+2890,Khairtabad,Auto,4,3.0,223.5,,M,17,1990
+2891,Masab Tank,Auto,4,,280.5,5.0,M,16,3781
+2895,Secunderabad,Bike,3,4.0,147.0,2.0,F,32,1539
+2900,Hitech City,Bike,3,2.0,262.5,2.0,F,12,1817
+2906,Hitech City,Bike,4,2.0,348.0,3.0,M,46,2835
+2907,Secunderabad,Bike,2,,306.0,4.0,F,20,3135
+2914,Khairtabad,Bike,6,1.0,375.0,5.0,F,53,3352
+2915,Masab Tank,Bike,4,4.0,310.5,2.0,F,14,2945
+2918,Hitech City,Bike,4,4.0,264.0,3.0,M,53,1472
+2920,Khairtabad,Bike,4,1.0,220.5,3.0,M,32,1666
+2921,Masab Tank,Bike,5,3.0,235.5,4.0,M,1,1306
+2925,Secunderabad,Bike,2,,228.0,,F,48,1212
+2935,Gachibowli,Bike,4,3.0,202.5,3.0,F,15,1008
+2946,Hitech City,Bike,3,,318.0,,F,9,2521
+2954,Hitech City,Bike,4,2.0,276.0,3.0,F,63,3609
+2958,Hitech City,Bike,2,2.0,219.0,3.0,F,1,1162
+2959,Gachibowli,Bike,4,2.0,330.0,3.0,F,39,2459
+2968,Khairtabad,Bike,6,2.0,354.0,4.0,F,61,3140
+2974,Khairtabad,Bike,5,,319.5,2.0,F,27,2581
+2975,Masab Tank,Bike,2,3.0,219.0,3.0,M,18,1289
+2978,Hitech City,Bike,3,4.0,318.0,8.0,F,34,2750
+2991,Secunderabad,Car,4,1.0,216.0,4.0,M,5,1294
+2999,Masab Tank,Car,5,1.0,406.5,4.0,F,4,2718
+3003,Secunderabad,Car,3,1.0,411.0,3.0,M,4,2087
+3013,Gachibowli,Auto,5,,220.5,2.0,M,19,1936
+3016,Khairtabad,Auto,3,1.0,156.0,,M,1,1021
+3019,Gachibowli,Auto,4,5.0,328.5,2.0,F,21,3830
+3025,Gachibowli,Auto,6,1.0,346.5,4.0,F,23,2455
+3029,Masab Tank,Auto,5,2.0,258.0,,F,61,1161
+3037,Gachibowli,Bike,5,1.0,405.0,3.0,M,52,3908
+3048,Hitech City,Bike,3,3.0,207.0,2.0,F,40,1117
+3050,Hitech City,Bike,3,4.0,406.5,,F,16,2693
+3051,Secunderabad,Bike,6,,364.5,3.0,F,35,2374
+3056,Hitech City,Bike,4,2.0,370.5,5.0,F,17,3630
+3057,Secunderabad,Bike,3,4.0,264.0,3.0,F,4,1095
+3059,Masab Tank,Bike,3,,220.5,,M,18,1613
+3060,Hitech City,Bike,5,5.0,292.5,,F,6,3936
+3082,Khairtabad,Bike,4,3.0,201.0,,F,29,1010
+3083,Masab Tank,Bike,3,4.0,315.0,2.0,M,29,3142
+3085,Gachibowli,Bike,3,,220.5,2.0,F,52,1040
+3087,Secunderabad,Bike,3,2.0,334.5,,M,64,3595
+3102,Hitech City,Bike,3,2.0,337.5,3.0,F,59,3488
+3103,Gachibowli,Bike,3,,340.5,2.0,F,24,2749
+3116,Hitech City,Bike,4,4.0,201.0,3.0,F,14,1716
+3117,Secunderabad,Bike,3,5.0,292.5,2.0,F,42,3814
+3121,Gachibowli,Bike,3,5.0,357.0,,F,34,2726
+3124,Khairtabad,Bike,4,4.0,333.0,3.0,F,24,3503
+3130,Khairtabad,Car,3,4.0,372.0,2.0,F,15,2983
+3131,Masab Tank,Car,6,5.0,369.0,4.0,M,50,3618
+3133,Gachibowli,Car,3,,376.5,3.0,F,21,2476
+3139,Gachibowli,Car,4,5.0,337.5,4.0,M,5,4622
+3146,Hitech City,Car,3,,204.0,2.0,F,1,4971
+3151,Gachibowli,Auto,3,,357.0,8.0,F,3,4943
+3161,Masab Tank,Auto,3,3.0,184.5,5.0,F,5,4292
+3163,Gachibowli,Auto,3,1.0,319.5,10.0,M,9,4862
+3164,Hitech City,Auto,5,2.0,240.0,3.0,M,1,5834
+3165,Secunderabad,Auto,4,,337.5,5.0,M,5,5060
+3175,Gachibowli,Bike,3,,310.5,3.0,F,3,4909
+3179,Masab Tank,Bike,4,3.0,355.5,6.0,M,8,5588
+3184,Khairtabad,Bike,4,,369.0,3.0,F,5,4710
+3195,Secunderabad,Bike,3,,409.5,6.0,M,1,1293
+3196,Khairtabad,Bike,6,4.0,241.5,4.0,M,3,1747
+3197,Masab Tank,Bike,5,,309.0,,M,5,1149
+3207,Secunderabad,Bike,2,,264.0,2.0,F,2,5138
+3209,Masab Tank,Bike,5,1.0,223.5,2.0,M,9,5435
+3211,Gachibowli,Bike,3,,271.5,2.0,F,6,5410
+3212,Hitech City,Bike,3,5.0,376.5,2.0,M,4,4015
+3214,Khairtabad,Bike,3,4.0,315.0,3.0,M,10,4398
+3217,Gachibowli,Bike,3,4.0,231.0,,M,5,5735
+3219,Secunderabad,Bike,4,,315.0,3.0,F,1,4379
+3221,Masab Tank,Bike,3,1.0,394.5,2.0,M,9,4868
+3223,Gachibowli,Bike,3,4.0,334.5,2.0,M,9,4211
+3237,Secunderabad,Bike,2,,346.5,2.0,F,10,4406
+3244,Khairtabad,Bike,4,2.0,348.0,3.0,M,8,4658
+3245,Masab Tank,Bike,3,,346.5,,M,4,5510
+3246,Hitech City,Bike,3,4.0,204.0,3.0,M,2,4524
+3249,Secunderabad,Bike,4,3.0,222.0,,F,7,5034
+3251,Masab Tank,Bike,4,1.0,271.5,2.0,F,3,5877
+3254,Hitech City,Bike,3,3.0,352.5,3.0,F,10,4186
+3255,Secunderabad,Bike,3,4.0,150.0,3.0,M,4,4191
+3258,Hitech City,Bike,4,,333.0,3.0,F,9,5337
+3261,Secunderabad,Bike,4,5.0,409.5,3.0,F,1,5043
+3264,Hitech City,Car,4,3.0,313.5,3.0,M,7,4104
+3273,Secunderabad,Car,5,4.0,256.5,4.0,M,7,5359
+3274,Khairtabad,Car,3,,292.5,2.0,F,4,4864
+3275,Masab Tank,Car,3,5.0,355.5,3.0,M,4,5561
+3280,Khairtabad,Car,3,2.0,364.5,2.0,F,5,4769
+3281,Masab Tank,Car,4,3.0,294.0,2.0,F,7,4116
+3287,Masab Tank,Auto,4,5.0,331.5,3.0,F,6,5895
+3294,Hitech City,Auto,5,2.0,385.5,4.0,M,9,5088
+3301,Gachibowli,Auto,3,,345.0,,F,6,4392
+3306,Hitech City,Bike,5,1.0,312.0,2.0,F,8,5218
+3307,Gachibowli,Bike,4,,334.5,3.0,F,9,5897
+3312,Hitech City,Bike,4,2.0,309.0,2.0,M,4,5159
+3316,Khairtabad,Bike,3,,256.5,2.0,M,10,5379
+3319,Gachibowli,Bike,3,,381.0,2.0,M,1,4334
+3324,Hitech City,Bike,5,1.0,366.0,2.0,F,5,4125
+3326,Hitech City,Bike,3,,361.5,3.0,M,9,5184
+3330,Hitech City,Bike,4,5.0,252.0,2.0,M,2,5776
+3342,Hitech City,Bike,5,4.0,220.5,4.0,M,6,4369
+3343,Gachibowli,Bike,3,4.0,217.5,3.0,M,4,5361
+3355,Gachibowli,Bike,4,4.0,241.5,4.0,M,5,5038
+3356,Hitech City,Bike,2,4.0,243.0,3.0,F,2,5893
+3358,Khairtabad,Bike,3,3.0,316.5,6.0,M,5,5777
+3364,Khairtabad,Bike,5,2.0,366.0,3.0,M,2,4198
+3368,Hitech City,Bike,4,1.0,267.0,8.0,F,6,4872
+3378,Hitech City,Bike,4,4.0,285.0,3.0,M,2,4800
+3379,Gachibowli,Bike,4,2.0,241.5,4.0,F,10,5322
+3380,Hitech City,Bike,2,2.0,243.0,,M,10,4489
+3381,Secunderabad,Bike,4,1.0,244.5,8.0,F,9,5489
+3383,Masab Tank,Bike,3,4.0,307.5,8.0,F,5,4869
+3399,Secunderabad,Car,6,,360.0,4.0,M,9,4099
+3402,Hitech City,Car,4,5.0,250.5,2.0,F,7,4289
+3407,Masab Tank,Car,3,2.0,408.0,,M,2,4459
+3408,Hitech City,Car,3,2.0,379.5,3.0,F,7,4915
+3410,Hitech City,Car,3,,303.0,3.0,M,5,5169
+3414,Hitech City,Car,3,1.0,282.0,3.0,M,3,4222
+3415,Gachibowli,Car,3,1.0,387.0,4.0,F,6,5365
+3417,Secunderabad,Car,3,,222.0,,F,9,5301
+3419,Masab Tank,Car,4,4.0,399.0,3.0,F,2,5413
+3421,Gachibowli,Auto,5,1.0,342.0,2.0,M,6,4984
+3422,Hitech City,Auto,4,5.0,238.5,2.0,M,1,5671
+3423,Secunderabad,Auto,3,4.0,382.5,,M,10,4107
+3428,Hitech City,Auto,4,3.0,222.0,5.0,F,6,4802
+3431,Masab Tank,Auto,3,1.0,300.0,2.0,M,10,5178
+3434,Hitech City,Auto,3,3.0,301.5,,M,9,5895
+3438,Hitech City,Auto,4,,396.0,3.0,F,2,4279
+3443,Masab Tank,Bike,4,4.0,352.5,2.0,M,4,5671
+3446,Hitech City,Bike,3,1.0,378.0,2.0,M,4,5559
+3451,Gachibowli,Bike,4,3.0,369.0,,F,5,5118
+3456,Hitech City,Bike,5,3.0,309.0,4.0,F,1,4583
+3469,Gachibowli,Bike,4,5.0,331.5,3.0,F,3,4430
+3472,Khairtabad,Bike,3,4.0,388.5,,F,3,4154
+3480,Hitech City,Bike,3,,289.5,4.0,M,5,4700
+3482,Hitech City,Bike,4,3.0,381.0,4.0,M,9,4492
+3490,Khairtabad,Bike,3,1.0,366.0,4.0,M,6,4734
+3500,Hitech City,Bike,3,,292.5,2.0,M,9,5779
+3502,Khairtabad,Bike,4,2.0,370.5,3.0,M,8,4977
+3503,Masab Tank,Bike,3,,202.5,2.0,M,2,4163
+3507,Secunderabad,Bike,4,,288.0,3.0,F,10,4086
+3510,Hitech City,Bike,2,3.0,288.0,3.0,F,8,5787
+3512,Hitech City,Bike,4,,265.5,3.0,M,8,4904
+3513,Secunderabad,Bike,3,,364.5,3.0,F,2,4989
+3517,Gachibowli,Bike,3,4.0,348.0,3.0,F,1,4228
+3537,Secunderabad,Car,4,5.0,388.5,2.0,M,7,4390
+3542,Hitech City,Car,3,2.0,225.0,2.0,F,3,4174
+3544,Khairtabad,Car,5,5.0,397.5,3.0,F,3,5837
+3545,Masab Tank,Car,3,4.0,372.0,,M,8,4540
+3547,Gachibowli,Car,4,2.0,228.0,3.0,M,6,5764
+3550,Khairtabad,Car,4,3.0,153.0,3.0,F,3,4845
+3553,Gachibowli,Car,2,1.0,231.0,3.0,F,4,5100
+3555,Secunderabad,Car,3,4.0,273.0,3.0,F,7,5409
+3559,Gachibowli,Auto,4,,315.0,2.0,M,6,4076
+3573,Secunderabad,Auto,3,5.0,367.5,,M,8,4909
+3578,Hitech City,Auto,4,1.0,153.0,3.0,M,3,4179
+3596,Hitech City,Bike,4,2.0,349.5,2.0,F,5,4668
+3598,Khairtabad,Bike,3,5.0,177.0,4.0,F,10,5699
+3599,Masab Tank,Bike,3,4.0,274.5,2.0,M,3,4179
+3602,Hitech City,Bike,3,,214.5,4.0,F,7,4486
+3603,Secunderabad,Bike,3,2.0,223.5,3.0,F,7,4049
+3604,Khairtabad,Bike,4,2.0,412.5,6.0,M,9,1890
+3605,Masab Tank,Bike,7,4.0,423.0,,M,5,1149
+3607,Gachibowli,Bike,4,5.0,366.0,3.0,M,6,1360
+3608,Hitech City,Bike,5,5.0,387.0,4.0,M,7,5478
+3610,Khairtabad,Bike,4,2.0,292.5,5.0,M,9,5178
+3613,Gachibowli,Bike,4,1.0,372.0,2.0,M,4,5783
+3614,Hitech City,Bike,4,,411.0,2.0,F,2,4492
+3615,Secunderabad,Bike,3,3.0,304.5,,M,1,5244
+3621,Secunderabad,Bike,3,,237.0,,M,10,4061
+3625,Gachibowli,Bike,2,5.0,349.5,3.0,M,10,5211
+3628,Khairtabad,Bike,5,3.0,295.5,,F,6,4184
+3638,Hitech City,Bike,5,5.0,204.0,,M,4,4218
+3640,Khairtabad,Bike,5,2.0,388.5,2.0,M,1,4607
+3641,Masab Tank,Bike,3,2.0,238.5,,M,4,5577
+3642,Hitech City,Bike,5,1.0,243.0,,M,5,4064
+3643,Gachibowli,Bike,4,4.0,307.5,4.0,F,6,5064
+3646,Khairtabad,Bike,3,1.0,366.0,3.0,F,1,5695
+3648,Hitech City,Bike,4,2.0,220.5,3.0,F,5,5174
+3649,Gachibowli,Bike,3,2.0,367.5,,F,4,4514
+3656,Hitech City,Bike,4,1.0,286.5,3.0,F,6,5335
+3658,Khairtabad,Bike,3,,397.5,6.0,M,9,5936
+3659,Masab Tank,Bike,3,,364.5,3.0,F,8,4093
+3661,Gachibowli,Bike,5,3.0,373.5,2.0,M,3,4440
+3663,Secunderabad,Bike,4,3.0,408.0,2.0,F,5,4681
+3679,Gachibowli,Car,3,3.0,237.0,3.0,F,2,5205
+3685,Gachibowli,Car,4,3.0,387.0,2.0,F,2,4308
+3689,Masab Tank,Car,3,3.0,252.0,2.0,F,9,4608
+3692,Hitech City,Car,3,5.0,408.0,2.0,M,3,5638
+3694,Khairtabad,Car,5,5.0,252.0,3.0,M,6,4096
+3698,Hitech City,Auto,5,,316.5,2.0,M,1,5913
+3703,Gachibowli,Auto,5,3.0,226.5,2.0,M,8,4749
+3704,Hitech City,Auto,6,3.0,337.5,4.0,M,5,4184
+3708,Hitech City,Auto,5,,213.0,2.0,M,7,5341
+3712,Khairtabad,Auto,3,5.0,210.0,5.0,M,7,4370
+3716,Hitech City,Auto,5,,247.5,2.0,M,3,4005
+3717,Secunderabad,Bike,5,1.0,295.5,4.0,F,2,5594
+3722,Hitech City,Bike,5,2.0,345.0,4.0,F,4,4782
+3723,Secunderabad,Bike,4,2.0,261.0,3.0,F,10,4318
+3726,Hitech City,Bike,5,1.0,309.0,5.0,M,2,5766
+3731,Masab Tank,Bike,3,3.0,172.5,,F,6,5636
+3737,Masab Tank,Bike,4,4.0,234.0,2.0,M,7,5017
+3738,Hitech City,Bike,4,4.0,238.5,3.0,M,3,5545
+3750,Hitech City,Bike,4,4.0,409.5,2.0,M,9,5151
+3752,Hitech City,Bike,3,2.0,292.5,2.0,M,8,4365
+3755,Masab Tank,Bike,5,,166.5,4.0,F,2,5978
+3758,Hitech City,Bike,4,5.0,282.0,5.0,F,1,5999
+3759,Secunderabad,Bike,6,3.0,346.5,,F,7,4553
+3770,Hitech City,Bike,3,,294.0,3.0,M,8,4516
+3772,Khairtabad,Bike,2,2.0,304.5,4.0,M,10,5764
+3788,Hitech City,Bike,3,4.0,367.5,4.0,M,9,4139
+3789,Secunderabad,Bike,3,3.0,244.5,3.0,M,5,5638
+3796,Khairtabad,Bike,3,5.0,378.0,3.0,F,4,4248
+3803,Masab Tank,Bike,4,1.0,360.0,,F,7,5905
+3804,Hitech City,Bike,3,4.0,294.0,3.0,M,8,5204
+3805,Gachibowli,Bike,3,3.0,235.5,3.0,M,9,5807
+3806,Hitech City,Bike,2,1.0,304.5,4.0,F,4,4145
+3809,Masab Tank,Bike,4,,306.0,2.0,M,7,5795
+3817,Gachibowli,Car,4,4.0,235.5,2.0,M,8,5398
+3822,Hitech City,Car,3,4.0,367.5,4.0,M,4,5186
+3829,Gachibowli,Car,4,2.0,246.0,2.0,F,7,1116
+3832,Khairtabad,Auto,6,,201.0,3.0,M,10,1278
+3838,Khairtabad,Auto,6,,318.0,2.0,F,5,4804
+3846,Hitech City,Auto,5,2.0,394.5,3.0,M,9,4699
+3847,Gachibowli,Auto,3,4.0,234.0,3.0,M,7,4636
+3860,Hitech City,Bike,5,2.0,373.5,3.0,M,6,5212
+3863,Masab Tank,Bike,5,1.0,228.0,3.0,F,6,4735
+3867,Secunderabad,Bike,2,,235.5,2.0,M,9,5875
+3874,Khairtabad,Bike,4,,324.0,,M,1,5167
+3881,Masab Tank,Bike,3,2.0,390.0,4.0,F,3,4423
+3889,Gachibowli,Bike,5,,355.5,2.0,M,3,5113
+3896,Hitech City,Bike,5,5.0,394.5,2.0,M,8,4350
+3899,Masab Tank,Bike,4,4.0,232.5,2.0,F,9,4932
+3900,Hitech City,Bike,4,5.0,261.0,2.0,M,10,5764
+3908,Hitech City,Bike,3,1.0,343.5,3.0,M,5,4971
+3911,Masab Tank,Bike,4,5.0,369.0,3.0,F,7,4956
+3914,Hitech City,Bike,3,3.0,318.0,3.0,F,10,5935
+3916,Khairtabad,Bike,3,4.0,375.0,3.0,M,10,5688
+3921,Secunderabad,Bike,2,1.0,252.0,3.0,F,7,4008
+3925,Gachibowli,Bike,5,,271.5,2.0,F,4,5578
+3928,Khairtabad,Bike,3,,340.5,3.0,M,10,4305
+3932,Hitech City,Bike,2,4.0,280.5,6.0,F,9,4388
+3934,Khairtabad,Bike,6,3.0,420.0,3.0,M,7,4620
+3935,Masab Tank,Bike,6,5.0,267.0,3.0,F,5,4096
+3939,Secunderabad,Bike,3,5.0,388.5,3.0,F,10,5978
+3942,Hitech City,Bike,3,5.0,406.5,4.0,M,1,5852
+3949,Gachibowli,Car,4,,387.0,3.0,M,2,4188
+3953,Masab Tank,Car,3,,381.0,4.0,M,9,4571
+3960,Hitech City,Car,5,,384.0,,M,6,5604
+3962,Hitech City,Car,5,,298.5,,M,7,4660
+3963,Secunderabad,Car,3,4.0,279.0,3.0,M,7,4536
+3964,Khairtabad,Car,4,5.0,319.5,3.0,F,7,4114
+3974,Hitech City,Auto,5,2.0,247.5,2.0,F,6,4819
+3975,Secunderabad,Auto,4,1.0,225.0,3.0,F,10,4470
+3984,Hitech City,Auto,4,4.0,394.5,2.0,M,2,5797
+3987,Secunderabad,Auto,3,,340.5,2.0,M,9,4659
+3990,Hitech City,Auto,3,4.0,318.0,3.0,F,8,5214
+3993,Secunderabad,Bike,5,4.0,267.0,5.0,F,9,4729
+3995,Masab Tank,Bike,3,3.0,379.5,4.0,F,9,4682
+3998,Hitech City,Bike,3,4.0,259.5,2.0,M,5,4402
+4002,Hitech City,Bike,2,3.0,307.5,3.0,M,1,5137
+4003,Gachibowli,Bike,4,1.0,303.0,3.0,M,4,4029
+4009,Gachibowli,Bike,5,4.0,180.0,4.0,M,1,4183
+4010,Hitech City,Bike,5,1.0,277.5,2.0,F,10,5973
+4012,Khairtabad,Bike,2,4.0,357.0,3.0,M,4,5782
+4013,Masab Tank,Bike,4,2.0,268.5,3.0,M,3,5284
+4016,Hitech City,Bike,2,5.0,174.0,3.0,F,1,4091
+4019,Masab Tank,Bike,3,5.0,240.0,3.0,F,1,5062
+4021,Gachibowli,Bike,2,,381.0,3.0,M,6,5684
+4023,Secunderabad,Bike,5,5.0,291.0,4.0,F,4,4003
+4026,Hitech City,Bike,3,3.0,360.0,,F,4,5056
+4027,Gachibowli,Bike,2,,249.0,3.0,F,8,4255
+4031,Masab Tank,Bike,3,,231.0,2.0,M,4,5864
+4034,Hitech City,Bike,3,5.0,253.5,3.0,F,6,5397
+4037,Masab Tank,Bike,5,4.0,390.0,6.0,M,8,5440
+4051,Gachibowli,Bike,3,,343.5,7.0,F,4,5075
+4052,Hitech City,Bike,6,3.0,216.0,,F,8,5646
+4055,Masab Tank,Bike,3,3.0,273.0,4.0,M,7,1869
+4060,Khairtabad,Bike,4,3.0,391.5,,M,1,4590
+4063,Gachibowli,Bike,6,,147.0,,F,8,4651
+4066,Khairtabad,Bike,5,4.0,340.5,,M,10,4734
+4068,Hitech City,Bike,5,,390.0,6.0,F,10,4986
+4070,Hitech City,Bike,2,1.0,406.5,8.0,F,5,4924
+4071,Secunderabad,Bike,4,,193.5,,F,7,4873
+4075,Gachibowli,Bike,3,,277.5,3.0,M,4,4111
+4078,Khairtabad,Bike,4,5.0,349.5,,F,6,4705
+4080,Hitech City,Bike,5,4.0,240.0,3.0,M,2,5876
+4084,Khairtabad,Car,3,4.0,258.0,10.0,M,9,4883
+4088,Hitech City,Car,3,5.0,402.0,2.0,M,5,1707
+4091,Masab Tank,Car,3,4.0,282.0,4.0,M,2,1059
+4095,Secunderabad,Car,6,1.0,288.0,6.0,M,7,4014
+4099,Gachibowli,Car,3,2.0,375.0,3.0,F,4,5361
+4101,Secunderabad,Car,2,1.0,226.5,3.0,F,5,5982
+4106,Hitech City,Auto,3,2.0,409.5,3.0,F,2,4948
+4107,Secunderabad,Auto,6,1.0,411.0,5.0,F,8,4292
+4111,Gachibowli,Auto,3,2.0,360.0,,M,2,4804
+4112,Hitech City,Auto,3,5.0,159.0,2.0,F,3,5615
+4115,Masab Tank,Auto,2,1.0,234.0,3.0,M,3,5937
+4117,Gachibowli,Auto,3,4.0,388.5,4.0,F,5,4564
+4118,Hitech City,Auto,4,,337.5,,M,10,4486
+4120,Khairtabad,Auto,5,2.0,340.5,,M,2,4058
+4123,Gachibowli,Auto,4,1.0,327.0,2.0,M,7,4597
+4127,Masab Tank,Auto,4,3.0,373.5,3.0,M,5,5017
+4133,Masab Tank,Bike,4,5.0,247.5,3.0,M,5,4735
+4139,Masab Tank,Bike,3,4.0,244.5,2.0,F,7,5720
+4143,Secunderabad,Bike,3,1.0,223.5,2.0,F,7,4147
+4154,Hitech City,Bike,3,4.0,201.0,3.0,F,9,4436
+4155,Secunderabad,Bike,5,2.0,387.0,2.0,F,4,5965
+4156,Khairtabad,Bike,5,3.0,282.0,2.0,M,6,4840
+4164,Hitech City,Bike,2,5.0,331.5,3.0,M,2,5847
+4166,Hitech City,Bike,4,3.0,333.0,3.0,F,8,4861
+4167,Secunderabad,Bike,5,2.0,268.5,3.0,M,7,5496
+4169,Masab Tank,Bike,3,5.0,342.0,,M,6,5893
+4172,Hitech City,Bike,3,,238.5,2.0,F,3,4876
+4176,Hitech City,Bike,3,2.0,268.5,2.0,F,8,5589
+4178,Hitech City,Bike,4,5.0,223.5,3.0,M,9,4953
+4183,Gachibowli,Bike,6,4.0,414.0,6.0,F,8,5037
+4192,Khairtabad,Bike,3,3.0,408.0,3.0,M,2,4059
+4197,Secunderabad,Bike,4,3.0,324.0,2.0,F,6,4005
+4199,Masab Tank,Bike,4,3.0,300.0,4.0,F,7,4953
+4201,Gachibowli,Bike,4,,330.0,,M,3,5020
+4210,Khairtabad,Bike,5,4.0,378.0,3.0,M,6,5221
+4212,Hitech City,Bike,4,3.0,216.0,2.0,F,5,4882
+4216,Khairtabad,Bike,3,,387.0,3.0,F,2,5828
+4217,Masab Tank,Bike,3,5.0,291.0,4.0,M,1,5534
+4220,Hitech City,Bike,5,4.0,396.0,3.0,M,2,5716
+4223,Masab Tank,Car,5,4.0,252.0,4.0,M,5,5580
+4229,Masab Tank,Car,6,5.0,330.0,3.0,M,1,5508
+4231,Gachibowli,Car,3,2.0,393.0,,M,2,5910
+4232,Hitech City,Car,4,,291.0,,F,1,5300
+4233,Secunderabad,Car,3,,348.0,2.0,M,10,4719
+4234,Khairtabad,Car,4,5.0,388.5,3.0,M,3,4741
+4243,Gachibowli,Auto,5,,429.0,5.0,F,3,5208
+4245,Secunderabad,Auto,3,3.0,306.0,3.0,M,6,5296
+4246,Khairtabad,Auto,3,1.0,286.5,3.0,M,1,4705
+4250,Hitech City,Auto,4,3.0,364.5,,F,6,5892
+4253,Masab Tank,Auto,4,3.0,373.5,4.0,M,10,4933
+4261,Gachibowli,Auto,4,,304.5,3.0,F,4,5699
+4265,Masab Tank,Bike,5,4.0,267.0,6.0,M,10,5197
+4267,Gachibowli,Bike,3,2.0,253.5,3.0,F,3,5673
+4269,Secunderabad,Bike,4,,301.5,2.0,F,8,5790
+4277,Masab Tank,Bike,4,,262.5,4.0,F,4,5685
+4278,Hitech City,Bike,4,1.0,244.5,2.0,F,3,4099
+4280,Hitech City,Bike,4,3.0,286.5,3.0,M,1,4219
+4294,Khairtabad,Bike,4,2.0,387.0,3.0,M,10,4643
+4296,Hitech City,Bike,6,5.0,277.5,3.0,F,1,5399
+4300,Khairtabad,Bike,3,3.0,321.0,3.0,F,9,5856
+4307,Masab Tank,Bike,4,3.0,286.5,3.0,F,6,4563
+4308,Hitech City,Bike,4,5.0,202.5,3.0,F,6,5266
+4312,Khairtabad,Bike,5,,247.5,4.0,M,7,5091
+4315,Gachibowli,Bike,2,1.0,220.5,3.0,M,3,4120
+4328,Hitech City,Bike,5,3.0,156.0,4.0,M,3,4885
+4329,Secunderabad,Bike,3,4.0,319.5,2.0,F,6,5374
+4341,Secunderabad,Bike,5,3.0,333.0,3.0,F,6,4744
+4342,Khairtabad,Bike,5,3.0,390.0,2.0,M,10,5633
+4350,Hitech City,Bike,5,4.0,355.5,3.0,M,9,5401
+4351,Gachibowli,Bike,2,,316.5,4.0,M,1,5673
+4353,Secunderabad,Bike,5,1.0,201.0,2.0,M,8,5646
+4360,Khairtabad,Car,5,1.0,354.0,2.0,F,2,4987
+4367,Masab Tank,Car,2,5.0,324.0,3.0,F,2,5098
+4376,Hitech City,Car,3,5.0,292.5,3.0,F,10,5585
+4379,Masab Tank,Car,4,2.0,381.0,4.0,F,4,5137
+4383,Secunderabad,Auto,2,2.0,306.0,4.0,M,5,5382
+4386,Hitech City,Auto,3,,235.5,4.0,M,7,5974
+4388,Hitech City,Auto,5,2.0,247.5,3.0,F,10,5598
+4394,Hitech City,Auto,3,4.0,405.0,2.0,M,4,4681
+4396,Khairtabad,Auto,4,3.0,223.5,3.0,F,3,4781
+4398,Hitech City,Auto,5,2.0,214.5,,F,10,5400
+4400,Hitech City,Auto,4,4.0,247.5,,F,5,4640
+4411,Gachibowli,Bike,3,5.0,295.5,3.0,F,2,4018
+4418,Hitech City,Bike,3,2.0,310.5,2.0,M,9,4671
+4420,Khairtabad,Bike,2,,358.5,3.0,M,1,5910
+4422,Hitech City,Bike,4,1.0,238.5,4.0,M,5,5420
+4440,Hitech City,Bike,4,4.0,199.5,2.0,F,10,4768
+4443,Secunderabad,Bike,4,5.0,246.0,,F,9,5453
+4445,Masab Tank,Bike,2,2.0,225.0,2.0,F,9,4917
+4449,Secunderabad,Bike,5,1.0,369.0,2.0,F,4,5461
+4451,Masab Tank,Bike,4,,264.0,6.0,M,5,4494
+4455,Secunderabad,Bike,3,1.0,256.5,2.0,F,7,4010
+4456,Khairtabad,Bike,5,,336.0,2.0,M,4,5063
+4459,Gachibowli,Bike,4,4.0,391.5,6.0,F,10,4596
+4460,Hitech City,Bike,4,,343.5,3.0,F,3,5027
+4461,Secunderabad,Bike,4,,321.0,3.0,M,6,5646
+4468,Khairtabad,Bike,2,3.0,264.0,3.0,F,6,5006
+4476,Hitech City,Bike,2,2.0,417.0,2.0,F,9,4318
+4477,Gachibowli,Bike,3,3.0,295.5,2.0,M,10,5255
+4482,Hitech City,Bike,5,2.0,223.5,2.0,F,8,5396
+4494,Hitech City,Bike,5,2.0,328.5,4.0,F,7,4787
+4496,Hitech City,Car,5,5.0,198.0,,M,5,4195
+4501,Gachibowli,Car,2,,255.0,5.0,F,10,5621
+4502,Hitech City,Car,4,2.0,259.5,2.0,M,2,5327
+4504,Khairtabad,Car,3,5.0,261.0,6.0,F,7,4608
+4508,Hitech City,Car,6,1.0,261.0,,F,1,5784
+4514,Hitech City,Car,4,,295.5,5.0,M,8,4793
+4521,Secunderabad,Auto,4,4.0,334.5,4.0,M,3,5613
+4524,Hitech City,Auto,3,1.0,255.0,,M,3,4454
+4530,Hitech City,Auto,4,,213.0,10.0,F,5,4147
+4533,Secunderabad,Auto,4,5.0,210.0,3.0,F,7,5383
+4541,Masab Tank,Bike,3,2.0,382.5,7.0,F,3,5936
+4551,Secunderabad,Bike,4,,223.5,3.0,F,1,1448
+4558,Khairtabad,Bike,6,2.0,384.0,5.0,F,2,1449
+4571,Masab Tank,Bike,3,5.0,201.0,2.0,F,4,5291
+4585,Gachibowli,Bike,3,1.0,234.0,,M,9,4278
+4602,Hitech City,Bike,4,2.0,343.5,2.0,M,9,5026
+4603,Gachibowli,Bike,3,3.0,349.5,3.0,F,5,4976
+4612,Khairtabad,Bike,3,4.0,328.5,2.0,M,7,4883
+4614,Hitech City,Bike,3,,213.0,2.0,M,7,4082
+4616,Hitech City,Bike,2,2.0,381.0,2.0,F,8,5827
+4621,Gachibowli,Bike,3,3.0,253.5,3.0,F,9,4317
+4634,Hitech City,Car,4,3.0,201.0,4.0,M,3,5233
+4637,Masab Tank,Car,4,2.0,346.5,6.0,M,8,5227
+4641,Secunderabad,Car,4,4.0,276.0,3.0,M,2,4639
+4648,Khairtabad,Car,3,2.0,406.5,2.0,M,6,5280
+4651,Gachibowli,Car,3,2.0,270.0,2.0,F,8,4408
+4661,Masab Tank,Auto,4,4.0,358.5,2.0,M,4,4304
+4682,Hitech City,Bike,5,4.0,208.5,2.0,F,2,4217
+4692,Hitech City,Bike,4,1.0,216.0,4.0,M,8,4303
+4693,Gachibowli,Bike,5,3.0,325.5,4.0,M,3,5718
+4701,Secunderabad,Bike,3,,301.5,3.0,F,3,4556
+4705,Gachibowli,Bike,5,3.0,244.5,,M,9,4419
+4713,Secunderabad,Bike,4,1.0,226.5,6.0,M,7,4387
+4721,Masab Tank,Bike,4,,228.0,2.0,M,7,5026
+4725,Secunderabad,Bike,5,3.0,298.5,4.0,F,8,5362
+4726,Khairtabad,Bike,4,1.0,291.0,3.0,F,6,5282
+4734,Hitech City,Bike,3,5.0,397.5,3.0,F,8,5980
+4736,Hitech City,Bike,3,4.0,316.5,3.0,M,8,5191
+4738,Khairtabad,Bike,4,1.0,282.0,2.0,M,6,5894
+4744,Khairtabad,Bike,3,1.0,316.5,3.0,F,7,5178
+4745,Masab Tank,Bike,4,1.0,307.5,3.0,F,10,4923
+4753,Gachibowli,Bike,3,4.0,408.0,,F,10,4070
+4761,Secunderabad,Bike,6,5.0,435.0,,M,2,1867
+4768,Khairtabad,Bike,4,1.0,291.0,3.0,F,9,5804
+4769,Masab Tank,Car,4,5.0,409.5,2.0,F,9,5724
+4770,Hitech City,Car,4,,388.5,2.0,F,8,4672
+4771,Gachibowli,Car,4,5.0,270.0,3.0,F,1,5088
+4781,Masab Tank,Car,3,5.0,366.0,,M,8,5715
+4783,Gachibowli,Car,3,4.0,216.0,3.0,M,8,5867
+4786,Khairtabad,Car,3,4.0,316.5,3.0,M,1,5144
+4808,Hitech City,Auto,6,3.0,381.0,4.0,M,6,1335
+4810,Khairtabad,Auto,2,5.0,297.0,2.0,M,4,1913
+4811,Masab Tank,Auto,6,4.0,364.5,4.0,M,9,1353
+4814,Hitech City,Bike,6,1.0,454.5,4.0,F,10,1003
+4819,Gachibowli,Bike,4,3.0,390.0,,M,10,1832
+4824,Hitech City,Bike,6,1.0,394.5,4.0,F,6,1153
+4825,Gachibowli,Bike,5,1.0,427.5,4.0,F,10,1428
+4829,Masab Tank,Bike,5,4.0,324.0,2.0,F,6,4535
+4833,Secunderabad,Bike,4,5.0,210.0,3.0,F,8,4956
+4837,Gachibowli,Bike,4,3.0,309.0,2.0,F,4,5194
+4844,Hitech City,Bike,6,,426.0,,M,8,5346
+4850,Hitech City,Bike,4,5.0,391.5,2.0,M,3,4119
+4851,Secunderabad,Bike,5,3.0,225.0,3.0,M,10,4799
+4853,Masab Tank,Bike,4,4.0,381.0,4.0,F,10,4827
+4854,Hitech City,Bike,4,2.0,238.5,,M,5,4985
+4856,Hitech City,Bike,3,1.0,255.0,2.0,M,9,4112
+4857,Secunderabad,Bike,4,5.0,367.5,,F,7,4297
+4858,Khairtabad,Bike,4,5.0,228.0,,M,5,5191
+4861,Gachibowli,Bike,4,1.0,318.0,3.0,M,3,4896
+4867,Gachibowli,Bike,4,3.0,237.0,5.0,F,7,4344
+4869,Secunderabad,Bike,4,3.0,420.0,6.0,M,8,4525
+4870,Khairtabad,Bike,3,2.0,396.0,3.0,F,8,5831
+4873,Gachibowli,Bike,6,4.0,207.0,3.0,F,4,4225
+4875,Secunderabad,Bike,4,,357.0,5.0,M,1,4753
+4878,Hitech City,Bike,3,,247.5,3.0,F,4,5924
+4884,Hitech City,Bike,2,1.0,207.0,,M,8,4932
+4887,Secunderabad,Bike,4,2.0,240.0,,F,5,4343
+4888,Khairtabad,Bike,5,,337.5,,M,1,4328
+4889,Masab Tank,Bike,6,5.0,309.0,6.0,M,2,4014
+4891,Gachibowli,Bike,3,4.0,348.0,,F,6,4050
+4897,Gachibowli,Bike,3,1.0,396.0,4.0,M,10,4265
+4898,Hitech City,Bike,5,3.0,316.5,3.0,F,5,5087
+4900,Khairtabad,Bike,5,,249.0,2.0,F,2,4562
+4903,Gachibowli,Bike,5,,382.5,3.0,M,6,4044
+4908,Hitech City,Car,3,4.0,300.0,2.0,F,6,4751
+4917,Secunderabad,Car,3,,232.5,2.0,M,7,4221
+4921,Gachibowli,Car,4,3.0,312.0,3.0,F,3,4837
+4923,Secunderabad,Car,3,,313.5,2.0,F,1,5779
+4926,Hitech City,Car,4,4.0,384.0,3.0,M,8,4398
+4927,Gachibowli,Car,4,5.0,238.5,4.0,F,4,4816
+4933,Gachibowli,Auto,5,1.0,399.0,3.0,M,10,5858
+4937,Masab Tank,Auto,5,,297.0,3.0,F,7,5768
+4939,Gachibowli,Auto,4,4.0,277.5,3.0,F,6,4238
+4942,Khairtabad,Auto,5,,412.5,5.0,F,9,5168
+4946,Hitech City,Auto,5,1.0,360.0,3.0,M,10,5277
+4949,Masab Tank,Auto,5,4.0,412.5,4.0,F,7,4597
+4959,Secunderabad,Bike,5,4.0,375.0,6.0,F,1,4343
+4964,Hitech City,Bike,5,1.0,246.0,3.0,M,7,4540
+4968,Hitech City,Bike,3,1.0,402.0,3.0,M,2,4746
+4970,Hitech City,Bike,4,3.0,412.5,3.0,F,3,4824
+4971,Secunderabad,Bike,5,5.0,349.5,3.0,M,5,5330
+4974,Hitech City,Bike,3,2.0,201.0,3.0,F,3,5232
+4984,Khairtabad,Bike,4,3.0,394.5,3.0,M,4,4150
+4995,Secunderabad,Bike,3,,403.5,3.0,F,6,4260
+4997,Masab Tank,Bike,5,2.0,349.5,3.0,M,7,5323
+4999,Gachibowli,Bike,3,3.0,358.5,6.0,M,7,4501
+5004,Hitech City,Bike,4,5.0,381.0,10.0,M,7,5524
+5009,Masab Tank,Bike,3,2.0,393.0,7.0,M,5,5985
+5012,Hitech City,Bike,6,2.0,228.0,2.0,M,6,1711
+5013,Secunderabad,Bike,7,,417.0,4.0,F,8,1909
+5016,Hitech City,Bike,2,,226.5,4.0,F,3,1353
+5023,Gachibowli,Bike,6,,412.5,4.0,F,3,1182
+5026,Khairtabad,Bike,6,5.0,438.0,4.0,M,4,1762
+5030,Hitech City,Bike,6,5.0,441.0,4.0,F,2,1273
+5034,Hitech City,Bike,6,5.0,414.0,4.0,F,6,1005
+5036,Hitech City,Bike,4,5.0,201.0,3.0,F,1,1008
+5048,Hitech City,Car,4,4.0,399.0,3.0,M,4,5905
+5066,Hitech City,Auto,5,,228.0,4.0,M,6,5596
+5071,Gachibowli,Auto,5,,385.5,,M,7,4133
+5078,Hitech City,Auto,3,,300.0,4.0,F,4,4918
+5085,Secunderabad,Auto,4,5.0,199.5,3.0,M,4,5180
+5086,Khairtabad,Auto,4,3.0,207.0,3.0,F,2,5593
+5091,Secunderabad,Bike,4,4.0,252.0,3.0,M,6,5488
+5102,Hitech City,Bike,4,,408.0,3.0,F,4,5654
+5109,Secunderabad,Bike,4,3.0,204.0,3.0,M,10,4299
+5113,Gachibowli,Bike,4,3.0,294.0,2.0,F,4,4203
+5115,Secunderabad,Bike,5,3.0,295.5,3.0,F,2,4678
+5116,Khairtabad,Bike,3,2.0,310.5,3.0,F,1,4369
+5123,Masab Tank,Bike,4,5.0,264.0,4.0,M,6,5061
+5125,Gachibowli,Bike,3,,231.0,,F,1,5746
+5130,Hitech City,Bike,2,,162.0,,M,4,5924
+5141,Masab Tank,Bike,4,,346.5,4.0,M,9,5528
+5143,Gachibowli,Bike,4,1.0,228.0,3.0,M,10,5974
+5145,Secunderabad,Bike,2,3.0,411.0,4.0,F,10,4798
+5150,Hitech City,Bike,3,,325.5,4.0,F,1,5761
+5153,Masab Tank,Bike,3,,201.0,3.0,M,10,4200
+5160,Hitech City,Bike,5,2.0,294.0,5.0,M,10,5111
+5177,Masab Tank,Bike,5,4.0,361.5,,M,6,4412
+5186,Hitech City,Car,5,4.0,258.0,,F,3,5064
+5190,Hitech City,Car,5,1.0,256.5,5.0,F,8,4699
+5191,Gachibowli,Car,4,,346.5,2.0,F,4,5825
+5192,Hitech City,Car,5,5.0,280.5,4.0,F,9,5326
+5194,Khairtabad,Car,4,,402.0,6.0,F,3,4834
+5200,Khairtabad,Car,5,4.0,373.5,3.0,F,2,4397
+5208,Hitech City,Auto,5,3.0,201.0,3.0,M,8,5016
+5221,Gachibowli,Auto,6,3.0,438.0,4.0,F,10,1270
+5232,Hitech City,Bike,3,4.0,426.0,10.0,M,5,5479
+5241,Secunderabad,Bike,5,3.0,372.0,3.0,M,10,5567
+5245,Gachibowli,Bike,4,2.0,276.0,3.0,M,10,4931
+5258,Hitech City,Bike,6,1.0,412.5,4.0,F,5,1228
+5260,Khairtabad,Bike,7,5.0,421.5,4.0,M,8,1987
+5263,Gachibowli,Bike,6,4.0,427.5,4.0,M,6,1582
+5265,Secunderabad,Bike,6,1.0,456.0,4.0,F,4,1236
+5267,Masab Tank,Bike,6,2.0,456.0,5.0,M,6,1178
+5268,Hitech City,Bike,6,2.0,451.5,5.0,M,3,1844
+5275,Gachibowli,Bike,7,5.0,438.0,5.0,M,5,1932
+5277,Secunderabad,Bike,6,,441.0,4.0,M,4,1302
+5287,Gachibowli,Bike,3,5.0,327.0,2.0,M,4,5142
+5295,Secunderabad,Bike,5,3.0,343.5,2.0,M,10,5149
+5304,Hitech City,Bike,5,1.0,304.5,5.0,M,2,4845
+5322,Hitech City,Car,3,4.0,409.5,3.0,M,3,5163
+5326,Khairtabad,Car,4,2.0,378.0,6.0,M,2,5476
+5328,Hitech City,Car,3,2.0,381.0,2.0,F,10,5608
+5334,Hitech City,Car,3,2.0,237.0,3.0,M,4,5335
+5335,Gachibowli,Car,5,3.0,166.5,4.0,F,8,4575
+5337,Secunderabad,Car,6,3.0,349.5,3.0,F,9,4293
+5338,Khairtabad,Car,4,4.0,306.0,3.0,M,8,5614
+5340,Hitech City,Auto,5,1.0,243.0,3.0,F,1,5537
+5350,Khairtabad,Auto,4,1.0,381.0,2.0,M,10,4230
+5353,Gachibowli,Auto,5,,352.5,2.0,M,9,5549
+5354,Hitech City,Auto,4,3.0,250.5,,F,1,4621
+5364,Hitech City,Bike,4,5.0,339.0,,F,5,4833
+5366,Hitech City,Bike,3,4.0,319.5,3.0,F,4,5996
+5369,Masab Tank,Bike,3,,262.5,,M,9,5643
+5370,Hitech City,Bike,4,2.0,295.5,3.0,F,6,5826
+5372,Hitech City,Bike,4,2.0,385.5,,M,7,5325
+5376,Hitech City,Bike,3,,406.5,4.0,M,3,5831
+5377,Gachibowli,Bike,4,4.0,354.0,2.0,F,5,5266
+5392,Khairtabad,Bike,4,,333.0,2.0,M,7,4343
+5393,Masab Tank,Bike,2,3.0,385.5,2.0,F,1,5331
+5394,Hitech City,Bike,5,1.0,279.0,4.0,M,5,5239
+5402,Hitech City,Bike,5,3.0,367.5,,M,8,4129
+5403,Secunderabad,Bike,4,5.0,213.0,2.0,F,7,4594
+5414,Hitech City,Bike,4,5.0,298.5,,F,8,4463
+5415,Secunderabad,Bike,5,,370.5,3.0,F,3,4698
+5419,Gachibowli,Bike,5,5.0,313.5,2.0,F,3,4348
+5420,Hitech City,Bike,5,,334.5,,M,6,5977
+5423,Masab Tank,Bike,6,5.0,301.5,5.0,M,3,5771
+5437,Gachibowli,Bike,4,5.0,379.5,2.0,M,8,5652
+5440,Khairtabad,Bike,4,,297.0,6.0,F,6,5380
+5441,Masab Tank,Bike,3,1.0,337.5,2.0,M,6,5274
+5449,Gachibowli,Bike,6,4.0,235.5,,F,9,5354
+5453,Masab Tank,Bike,3,,202.5,7.0,F,5,4716
+5454,Hitech City,Car,4,,294.0,5.0,M,7,5380
+5459,Masab Tank,Car,5,2.0,307.5,3.0,F,3,5182
+5461,Gachibowli,Car,7,3.0,421.5,4.0,F,4,1480
+5463,Secunderabad,Car,6,2.0,456.0,4.0,M,2,1256
+5474,Hitech City,Car,4,5.0,399.0,3.0,M,8,4889
+5480,Hitech City,Auto,3,,313.5,2.0,M,6,5095
+5489,Masab Tank,Auto,5,5.0,402.0,3.0,M,2,4459
+5495,Masab Tank,Auto,3,,360.0,8.0,F,9,4908
+5501,Masab Tank,Bike,6,,456.0,,M,7,1226
+5509,Gachibowli,Bike,6,5.0,396.0,,F,4,1822
+5511,Secunderabad,Bike,6,,457.5,4.0,M,8,1015
+5515,Gachibowli,Bike,5,3.0,430.5,4.0,M,2,1437
+5516,Hitech City,Bike,6,5.0,402.0,4.0,M,10,1170
+5518,Khairtabad,Bike,7,4.0,436.5,4.0,M,4,1248
+5520,Hitech City,Bike,3,,333.0,2.0,M,9,1321
+5525,Masab Tank,Bike,5,5.0,456.0,5.0,F,8,1949
+5526,Hitech City,Bike,6,1.0,390.0,4.0,M,9,1698
+5536,Khairtabad,Bike,7,1.0,366.0,,F,3,1418
+5552,Hitech City,Bike,3,5.0,379.5,,M,9,5979
+5563,Gachibowli,Bike,4,,342.0,,M,1,5573
+5564,Hitech City,Bike,3,,363.0,2.0,F,10,5559
+5566,Khairtabad,Bike,4,1.0,259.5,2.0,F,8,4893
+5574,Hitech City,Bike,5,1.0,180.0,3.0,M,7,4381
+5578,Khairtabad,Bike,3,1.0,363.0,6.0,M,10,5493
+5581,Gachibowli,Bike,3,1.0,331.5,4.0,F,8,5971
+5582,Hitech City,Bike,5,5.0,399.0,2.0,M,7,5712
+5585,Masab Tank,Bike,3,3.0,390.0,,M,7,5738
+5589,Secunderabad,Bike,4,4.0,283.5,4.0,F,9,5838
+5592,Hitech City,Car,2,3.0,301.5,3.0,M,5,5733
+5594,Hitech City,Car,3,2.0,270.0,,M,10,4024
+5595,Secunderabad,Car,3,,330.0,3.0,F,6,5572
+5596,Khairtabad,Car,5,1.0,169.5,3.0,F,6,5509
+5600,Hitech City,Car,4,4.0,246.0,4.0,F,1,4365
+5607,Secunderabad,Car,5,,202.5,2.0,M,4,5405
+5610,Hitech City,Car,4,4.0,357.0,2.0,F,4,4337
+5611,Gachibowli,Car,2,2.0,238.5,6.0,F,6,4044
+5612,Hitech City,Car,3,,339.0,2.0,M,3,4208
+5625,Secunderabad,Auto,5,3.0,214.5,2.0,M,5,5612
+5626,Khairtabad,Auto,4,2.0,174.0,3.0,F,2,5602
+5629,Gachibowli,Auto,5,4.0,202.5,2.0,M,5,5834
+5638,Khairtabad,Bike,3,2.0,322.5,3.0,F,10,4198
+5639,Masab Tank,Bike,4,1.0,265.5,,F,5,4382
+5647,Gachibowli,Bike,3,4.0,298.5,,F,6,5207
+5649,Secunderabad,Bike,3,3.0,348.0,4.0,F,4,4662
+5655,Secunderabad,Bike,5,,399.0,2.0,M,3,4030
+5656,Khairtabad,Bike,4,4.0,297.0,2.0,M,2,5725
+5657,Masab Tank,Bike,4,5.0,216.0,2.0,M,2,4978
+5658,Hitech City,Bike,4,4.0,325.5,5.0,M,6,5891
+5663,Masab Tank,Bike,4,2.0,355.5,3.0,M,2,5277
+5665,Gachibowli,Bike,4,5.0,324.0,4.0,F,1,4458
+5666,Hitech City,Bike,3,,279.0,3.0,F,4,5501
+5667,Secunderabad,Bike,5,,420.0,4.0,F,4,5192
+5669,Masab Tank,Bike,3,2.0,337.5,3.0,M,3,5529
+5672,Hitech City,Bike,4,2.0,369.0,3.0,F,1,5815
+5678,Hitech City,Bike,4,,430.5,6.0,M,6,5282
+5679,Secunderabad,Bike,3,,318.0,2.0,F,3,5761
+5680,Khairtabad,Bike,3,4.0,307.5,3.0,F,1,5407
+5681,Masab Tank,Bike,3,1.0,270.0,2.0,M,10,4200
+5690,Hitech City,Bike,4,4.0,202.5,2.0,M,4,4684
+5692,Khairtabad,Bike,4,,324.0,2.0,F,5,5059
+5702,Hitech City,Bike,4,4.0,220.5,4.0,F,8,5882
+5703,Secunderabad,Bike,4,4.0,282.0,3.0,M,6,4174
+5705,Masab Tank,Bike,3,1.0,367.5,2.0,F,8,4594
+5709,Secunderabad,Bike,3,,261.0,3.0,M,3,4132
+5716,Khairtabad,Bike,4,4.0,268.5,3.0,F,1,5242
+5717,Masab Tank,Bike,5,,375.0,4.0,M,10,5306
+5720,Hitech City,Bike,3,1.0,358.5,8.0,M,6,5023
+5725,Gachibowli,Bike,5,,430.5,,M,4,1509
+5726,Hitech City,Bike,6,,402.0,4.0,F,7,1274
+5730,Hitech City,Car,4,,262.5,,F,5,4194
+5733,Secunderabad,Car,3,4.0,370.5,3.0,M,10,5749
+5745,Secunderabad,Car,4,,201.0,3.0,F,4,5423
+5746,Khairtabad,Car,4,3.0,283.5,3.0,F,4,4410
+5747,Masab Tank,Car,6,5.0,394.5,7.0,M,9,5991
+5752,Khairtabad,Auto,4,1.0,318.0,2.0,F,7,5864
+5753,Masab Tank,Auto,4,4.0,354.0,3.0,M,10,4347
+5756,Hitech City,Auto,6,,463.5,,F,6,1866
+5757,Secunderabad,Auto,6,1.0,399.0,4.0,F,2,1862
+5758,Khairtabad,Auto,4,,349.5,4.0,M,7,1861
+5759,Masab Tank,Auto,5,1.0,430.5,4.0,F,4,1579
+5760,Hitech City,Auto,6,5.0,402.0,4.0,F,2,1324
+5767,Gachibowli,Auto,6,1.0,373.5,4.0,M,2,1189
+5770,Khairtabad,Auto,6,5.0,366.0,4.0,F,4,1648
+5771,Masab Tank,Auto,4,2.0,358.5,6.0,F,7,1934
+5773,Gachibowli,Bike,6,4.0,405.0,4.0,F,10,1199
+5774,Hitech City,Bike,6,5.0,385.5,4.0,F,1,1957
+5778,Hitech City,Bike,6,5.0,456.0,,M,8,1755
+5780,Hitech City,Bike,6,,408.0,4.0,M,5,1355
+5782,Khairtabad,Bike,7,3.0,400.5,4.0,M,7,1384
+5783,Masab Tank,Bike,6,,376.5,4.0,M,2,1679
+5789,Masab Tank,Bike,5,3.0,330.0,6.0,F,6,1830
+5792,Hitech City,Bike,5,1.0,397.5,5.0,F,3,1514
+5796,Hitech City,Bike,4,5.0,213.0,2.0,F,9,5425
+5800,Khairtabad,Bike,4,3.0,262.5,3.0,F,2,5208
+5803,Gachibowli,Bike,3,4.0,280.5,3.0,M,7,5417
+5804,Hitech City,Bike,4,,214.5,3.0,F,8,4142
+5815,Gachibowli,Bike,5,2.0,430.5,3.0,F,3,4903
+5817,Secunderabad,Bike,3,,319.5,3.0,F,6,5535
+5826,Hitech City,Bike,4,4.0,408.0,3.0,M,9,5458
+5827,Gachibowli,Bike,3,3.0,229.5,,M,8,5487
+5828,Hitech City,Bike,4,2.0,369.0,4.0,M,7,5056
+5833,Gachibowli,Bike,4,3.0,376.5,3.0,M,8,5986
+5834,Hitech City,Bike,4,2.0,378.0,4.0,F,3,4956
+5835,Secunderabad,Bike,3,5.0,202.5,2.0,F,4,5275
+5837,Masab Tank,Bike,4,,252.0,,M,3,4653
+5838,Hitech City,Bike,2,4.0,349.5,2.0,F,6,4758
+5843,Masab Tank,Bike,4,,291.0,3.0,F,10,5171
+5854,Khairtabad,Bike,6,1.0,277.5,4.0,F,10,5254
+5855,Masab Tank,Bike,5,,408.0,3.0,M,5,4972
+5860,Khairtabad,Bike,4,4.0,238.5,2.0,M,4,4648
+5863,Gachibowli,Bike,3,3.0,403.5,3.0,M,4,4309
+5866,Khairtabad,Car,4,5.0,388.5,,M,4,5344
+5871,Secunderabad,Car,3,,199.5,3.0,M,6,5464
+5875,Gachibowli,Car,4,2.0,303.0,3.0,M,8,4575
+5876,Hitech City,Car,4,3.0,264.0,2.0,F,6,5149
+5878,Khairtabad,Car,4,3.0,310.5,4.0,M,5,5008
+5881,Gachibowli,Car,3,5.0,201.0,3.0,F,10,4693
+5884,Khairtabad,Car,3,,235.5,2.0,F,7,5228
+5888,Hitech City,Auto,3,2.0,340.5,2.0,M,10,4290
+5889,Secunderabad,Auto,5,2.0,243.0,,M,7,5477
+5898,Hitech City,Auto,5,4.0,226.5,5.0,F,1,4122
+5904,Hitech City,Auto,2,,331.5,5.0,M,4,4034
+5907,Secunderabad,Auto,3,5.0,381.0,3.0,M,6,4703
+5910,Hitech City,Bike,4,1.0,297.0,4.0,F,5,5182
+5911,Gachibowli,Bike,4,,385.5,3.0,F,2,5198
+5921,Masab Tank,Bike,5,5.0,231.0,,M,3,4669
+5922,Hitech City,Bike,5,4.0,400.5,,M,4,4053
+5928,Hitech City,Bike,5,2.0,276.0,3.0,F,8,4581
+5941,Gachibowli,Bike,4,5.0,318.0,2.0,M,10,4552
+5944,Khairtabad,Bike,5,,237.0,,M,8,4743
+5948,Hitech City,Bike,4,1.0,403.5,,F,8,4930
+5950,Khairtabad,Bike,4,3.0,297.0,7.0,F,1,5315
+5955,Secunderabad,Bike,4,5.0,201.0,3.0,F,8,5694
+5961,Secunderabad,Bike,6,1.0,375.0,4.0,M,10,1623
+5968,Khairtabad,Bike,6,,405.0,4.0,F,7,1079
+5969,Masab Tank,Bike,6,2.0,385.5,4.0,M,1,1513
+5972,Hitech City,Bike,6,3.0,303.0,4.0,F,6,4249
+5977,Gachibowli,Bike,4,2.0,366.0,3.0,F,3,4103
+5978,Hitech City,Bike,4,2.0,378.0,3.0,F,4,5782
+5979,Secunderabad,Bike,5,,237.0,2.0,M,4,5736
+5991,Secunderabad,Bike,3,2.0,229.5,3.0,M,6,4056
+5995,Gachibowli,Bike,3,5.0,199.5,8.0,F,8,5002
+6001,Gachibowli,Bike,4,5.0,358.5,6.0,M,4,1451
+6017,Masab Tank,Car,5,3.0,373.5,4.0,M,1,1014
+6018,Hitech City,Car,6,3.0,403.5,4.0,M,3,1006
+6019,Gachibowli,Car,6,5.0,417.0,4.0,F,6,1140
+6026,Hitech City,Auto,5,3.0,400.5,,M,6,1119
+6027,Secunderabad,Auto,4,1.0,405.0,5.0,M,9,1280
+6030,Hitech City,Auto,4,2.0,367.5,5.0,M,8,1122
+6032,Hitech City,Auto,5,1.0,393.0,5.0,M,1,1488
+6035,Masab Tank,Auto,7,5.0,387.0,,F,4,1677
+6040,Khairtabad,Auto,6,,363.0,5.0,F,5,1555
+6044,Hitech City,Auto,6,2.0,375.0,,F,3,1777
+6047,Masab Tank,Bike,5,,412.5,5.0,M,9,1373
+6051,Secunderabad,Bike,6,4.0,406.5,4.0,M,8,1867
+6054,Hitech City,Bike,6,2.0,439.5,6.0,F,10,1919
+6060,Hitech City,Bike,3,4.0,252.0,3.0,M,5,5964
+6062,Hitech City,Bike,3,5.0,406.5,2.0,M,7,4958
+6063,Secunderabad,Bike,3,4.0,246.0,3.0,F,4,4796
+6067,Gachibowli,Bike,5,1.0,400.5,4.0,M,5,4440
+6090,Hitech City,Bike,4,1.0,198.0,6.0,M,8,4902
+6092,Hitech City,Bike,3,3.0,337.5,4.0,F,9,5468
+6097,Gachibowli,Bike,4,2.0,234.0,2.0,M,5,4467
+6102,Hitech City,Bike,4,2.0,292.5,3.0,M,8,5198
+6103,Gachibowli,Bike,4,,255.0,2.0,M,3,4587
+6105,Secunderabad,Bike,5,2.0,256.5,6.0,F,5,5981
+6109,Gachibowli,Bike,2,5.0,283.5,2.0,M,9,5245
+6122,Hitech City,Bike,5,5.0,354.0,2.0,M,2,5210
+6124,Khairtabad,Bike,3,,216.0,2.0,M,2,4629
+6126,Hitech City,Bike,3,2.0,390.0,3.0,M,9,4591
+6127,Gachibowli,Bike,3,4.0,360.0,3.0,M,8,4410
+6137,Masab Tank,Bike,3,,265.5,2.0,M,4,4417
+6138,Hitech City,Bike,3,3.0,252.0,4.0,F,4,4096
+6150,Hitech City,Car,4,5.0,378.0,2.0,F,6,4147
+6151,Gachibowli,Car,4,,268.5,3.0,F,3,5495
+6155,Masab Tank,Car,3,,222.0,3.0,F,7,5685
+6157,Gachibowli,Car,3,4.0,409.5,4.0,M,4,5361
+6159,Secunderabad,Car,4,,273.0,3.0,F,2,4473
+6162,Hitech City,Auto,4,1.0,361.5,3.0,M,6,4558
+6165,Secunderabad,Auto,3,5.0,226.5,3.0,F,1,4088
+6171,Secunderabad,Auto,4,,328.5,,M,3,5223
+6188,Hitech City,Bike,4,,420.0,,M,9,5288
+6195,Secunderabad,Bike,5,2.0,259.5,,F,9,4307
+6202,Khairtabad,Bike,4,4.0,376.5,2.0,F,6,4376
+6203,Masab Tank,Bike,4,2.0,378.0,3.0,M,8,4262
+6211,Gachibowli,Bike,4,1.0,367.5,3.0,F,5,4523
+6218,Hitech City,Bike,6,4.0,366.0,4.0,M,1,1130
+6222,Hitech City,Bike,5,,340.5,,M,6,1667
+6223,Gachibowli,Bike,7,,414.0,4.0,F,9,1519
+6225,Secunderabad,Bike,4,2.0,325.5,6.0,F,3,1732
+6232,Khairtabad,Bike,6,1.0,450.0,,F,2,1790
+6236,Hitech City,Bike,5,4.0,259.5,4.0,F,8,5284
+6242,Hitech City,Bike,4,5.0,229.5,2.0,M,1,4492
+6247,Gachibowli,Bike,3,3.0,189.0,,M,10,4128
+6256,Khairtabad,Bike,6,5.0,442.5,4.0,M,5,1963
+6259,Gachibowli,Bike,6,1.0,366.0,4.0,M,5,1867
+6260,Hitech City,Bike,6,3.0,459.0,4.0,M,10,1372
+6262,Khairtabad,Bike,4,1.0,397.5,6.0,F,9,1753
+6272,Hitech City,Bike,5,5.0,348.0,3.0,M,4,1716
+6276,Hitech City,Car,7,5.0,199.5,5.0,F,3,1544
+6278,Hitech City,Car,7,,444.0,4.0,M,8,1686
+6282,Hitech City,Car,6,4.0,430.5,4.0,F,9,1936
+6283,Gachibowli,Car,6,2.0,376.5,4.0,F,9,1322
+6285,Secunderabad,Car,5,,373.5,5.0,M,6,1298
+6286,Khairtabad,Car,5,3.0,366.0,5.0,F,3,1174
+6295,Gachibowli,Car,7,5.0,375.0,4.0,F,2,1296
+6302,Hitech City,Auto,5,3.0,367.5,,M,3,1851
+6305,Masab Tank,Auto,6,,378.0,4.0,F,2,1249
+6308,Hitech City,Auto,5,3.0,370.5,5.0,M,10,1699
+6311,Masab Tank,Auto,5,,340.5,5.0,M,9,1917
+6315,Secunderabad,Auto,5,1.0,454.5,5.0,F,9,1203
+6322,Khairtabad,Bike,4,3.0,312.0,2.0,F,4,4767
+6325,Gachibowli,Bike,5,5.0,156.0,,M,2,5235
+6339,Secunderabad,Bike,3,,231.0,,F,2,4219
+6351,Secunderabad,Bike,5,4.0,289.5,3.0,M,4,5873
+6354,Hitech City,Bike,3,1.0,198.0,3.0,F,2,4785
+6355,Gachibowli,Bike,5,4.0,210.0,4.0,M,3,4018
+6370,Khairtabad,Bike,3,,231.0,3.0,M,1,5322
+6374,Hitech City,Bike,3,5.0,309.0,3.0,F,6,4620
+6376,Khairtabad,Bike,4,5.0,295.5,2.0,M,3,4379
+6381,Secunderabad,Bike,3,3.0,226.5,3.0,M,7,4611
+6384,Hitech City,Bike,6,5.0,391.5,5.0,M,1,5442
+6385,Gachibowli,Bike,3,1.0,249.0,2.0,F,6,5905
+6387,Secunderabad,Bike,3,2.0,250.5,3.0,M,5,5995
+6394,Khairtabad,Bike,5,1.0,259.5,,F,4,4242
+6395,Masab Tank,Bike,4,,330.0,3.0,F,6,4894
+6397,Gachibowli,Bike,4,,255.0,2.0,M,5,4996
+6398,Hitech City,Bike,4,3.0,375.0,,F,4,5272
+6406,Khairtabad,Bike,5,1.0,205.5,4.0,F,1,4042
+6407,Masab Tank,Bike,4,2.0,318.0,,M,3,5427
+6409,Gachibowli,Bike,3,,334.5,3.0,F,7,5336
+6411,Secunderabad,Bike,3,3.0,330.0,3.0,F,6,5269
+6413,Masab Tank,Car,3,2.0,322.5,2.0,M,7,5988
+6427,Gachibowli,Car,5,1.0,280.5,2.0,F,7,4792
+6428,Hitech City,Car,3,5.0,258.0,3.0,M,1,5024
+6435,Secunderabad,Auto,4,2.0,357.0,2.0,F,9,4937
+6438,Hitech City,Auto,4,1.0,256.5,4.0,M,2,5082
+6450,Hitech City,Auto,5,2.0,360.0,3.0,M,7,4744
+6451,Gachibowli,Auto,3,3.0,208.5,,F,4,5958
+6452,Hitech City,Auto,3,3.0,376.5,3.0,M,2,5972
+6455,Masab Tank,Auto,5,5.0,196.5,5.0,F,1,5299
+6466,Khairtabad,Bike,4,1.0,379.5,4.0,F,1,5621
+6471,Secunderabad,Bike,3,5.0,405.0,3.0,M,1,4078
+6475,Gachibowli,Bike,3,1.0,220.5,8.0,M,6,4575
+6479,Masab Tank,Bike,4,,265.5,6.0,F,3,4392
+6482,Hitech City,Bike,4,4.0,279.0,7.0,M,9,5418
+6488,Hitech City,Bike,4,3.0,363.0,2.0,M,3,4811
+6492,Hitech City,Bike,6,4.0,376.5,4.0,F,10,1568
+6498,Hitech City,Bike,6,2.0,429.0,4.0,F,3,1959
+6500,Hitech City,Bike,6,1.0,430.5,4.0,F,1,1581
+6505,Gachibowli,Bike,7,1.0,396.0,,F,9,1829
+6507,Secunderabad,Bike,4,,396.0,6.0,F,6,1758
+6508,Khairtabad,Bike,6,,463.5,4.0,M,9,1771
+6509,Masab Tank,Bike,5,1.0,447.0,4.0,F,4,1853
+6511,Gachibowli,Bike,6,2.0,369.0,4.0,M,7,1071
+6513,Secunderabad,Bike,7,5.0,375.0,4.0,M,1,1690
+6519,Secunderabad,Bike,4,4.0,399.0,3.0,M,10,5221
+6529,Gachibowli,Bike,4,5.0,279.0,7.0,F,1,4357
+6530,Hitech City,Bike,3,3.0,265.5,3.0,M,10,5374
+6536,Hitech City,Bike,3,2.0,291.0,3.0,F,3,5779
+6540,Hitech City,Bike,6,2.0,450.0,5.0,M,3,1696
+6541,Gachibowli,Bike,7,5.0,199.5,5.0,F,7,1239
+6544,Khairtabad,Bike,6,1.0,391.5,4.0,F,8,1524
+6546,Hitech City,Bike,6,,447.0,4.0,M,3,1520
+6548,Hitech City,Bike,6,2.0,376.5,4.0,F,6,1864
+6551,Masab Tank,Car,5,5.0,366.0,,M,5,1787
+6554,Hitech City,Car,4,1.0,396.0,6.0,M,7,1007
+6555,Secunderabad,Car,6,2.0,463.5,4.0,F,6,1335
+6560,Hitech City,Car,7,,375.0,4.0,M,9,1890
+6562,Khairtabad,Car,6,2.0,241.5,4.0,F,9,1377
+6566,Hitech City,Car,5,2.0,388.5,,F,3,1724
+6568,Khairtabad,Car,6,2.0,433.5,4.0,F,3,1116
+6583,Gachibowli,Auto,7,2.0,418.5,4.0,F,1,1480
+6589,Gachibowli,Auto,6,1.0,409.5,,F,6,1524
+6590,Hitech City,Auto,5,3.0,327.0,5.0,F,6,1278
+6591,Secunderabad,Auto,5,4.0,400.5,5.0,F,10,1837
+6592,Khairtabad,Auto,6,2.0,388.5,4.0,M,6,1066
+6595,Gachibowli,Bike,6,2.0,400.5,4.0,F,1,1935
+6596,Hitech City,Bike,6,4.0,390.0,,F,10,1927
+6597,Secunderabad,Bike,7,2.0,391.5,,M,9,1918
+6599,Masab Tank,Bike,4,3.0,396.0,,M,3,1639
+6604,Khairtabad,Bike,5,3.0,331.5,6.0,F,3,1960
+6610,Khairtabad,Bike,5,1.0,400.5,5.0,M,10,1505
+6614,Hitech City,Bike,5,1.0,414.0,,M,5,1358
+6624,Hitech City,Bike,3,4.0,240.0,4.0,M,9,4733
+6630,Hitech City,Bike,2,5.0,270.0,,F,7,4907
+6642,Hitech City,Bike,5,5.0,202.5,,F,1,4324
+6645,Secunderabad,Bike,4,3.0,387.0,2.0,F,3,4555
+6658,Khairtabad,Bike,3,,282.0,2.0,F,2,4336
+6662,Hitech City,Bike,3,1.0,300.0,2.0,M,8,4337
+6664,Khairtabad,Bike,2,1.0,214.5,3.0,M,4,4512
+6666,Hitech City,Bike,4,5.0,235.5,3.0,M,2,5791
+6676,Khairtabad,Bike,3,3.0,225.0,3.0,M,5,5328
+6684,Hitech City,Bike,4,,235.5,2.0,M,9,4491
+6688,Khairtabad,Car,5,,331.5,5.0,M,6,5059
+6689,Masab Tank,Car,3,1.0,354.0,6.0,F,10,4858
+6692,Hitech City,Car,6,1.0,388.5,3.0,F,3,5683
+6693,Secunderabad,Car,4,2.0,285.0,,M,7,4766
+6696,Hitech City,Car,3,,381.0,3.0,M,5,4946
+6697,Gachibowli,Car,3,4.0,226.5,4.0,F,1,4587
+6712,Khairtabad,Auto,4,,276.0,3.0,M,8,4453
+6717,Secunderabad,Auto,3,5.0,390.0,3.0,M,7,5379
+6721,Gachibowli,Auto,2,1.0,304.5,3.0,M,6,4234
+6722,Hitech City,Auto,4,2.0,270.0,4.0,M,9,4329
+6726,Hitech City,Auto,4,1.0,228.0,3.0,F,3,4250
+6727,Gachibowli,Auto,4,1.0,397.5,2.0,F,10,5418
+6739,Gachibowli,Bike,5,5.0,288.0,2.0,M,10,5564
+6742,Khairtabad,Bike,3,2.0,313.5,2.0,F,2,4635
+6743,Masab Tank,Bike,4,2.0,300.0,3.0,M,7,4323
+6747,Secunderabad,Bike,4,5.0,303.0,3.0,M,8,5416
+6755,Masab Tank,Bike,4,1.0,240.0,5.0,F,10,4018
+6756,Hitech City,Bike,2,5.0,283.5,3.0,F,5,5320
+6757,Gachibowli,Bike,4,3.0,358.5,3.0,M,9,5897
+6770,Hitech City,Bike,5,,292.5,4.0,F,1,4393
+6772,Khairtabad,Bike,4,4.0,292.5,4.0,M,2,5464
+6781,Gachibowli,Bike,5,5.0,369.0,3.0,F,9,4107
+6789,Secunderabad,Bike,3,4.0,375.0,6.0,M,1,4543
+6799,Gachibowli,Bike,4,,258.0,3.0,F,10,5434
+6806,Hitech City,Bike,3,1.0,288.0,3.0,F,9,5004
+6814,Khairtabad,Bike,6,3.0,462.0,5.0,F,4,1118
+6818,Hitech City,Bike,7,,453.0,4.0,M,6,1632
+6821,Masab Tank,Bike,4,,409.5,5.0,M,10,1316
+6825,Secunderabad,Car,5,,360.0,6.0,F,3,1321
+6827,Masab Tank,Car,5,,372.0,5.0,F,3,1471
+6833,Masab Tank,Car,5,2.0,373.5,3.0,M,2,4696
+6835,Gachibowli,Car,4,4.0,283.5,2.0,M,5,4553
+6842,Hitech City,Car,3,4.0,310.5,2.0,M,6,5852
+6843,Secunderabad,Car,3,2.0,321.0,2.0,F,7,4938
+6846,Hitech City,Auto,4,2.0,279.0,2.0,M,2,5604
+6847,Gachibowli,Auto,4,2.0,375.0,3.0,M,5,4488
+6849,Secunderabad,Auto,3,5.0,397.5,10.0,M,6,4380
+6850,Khairtabad,Auto,3,1.0,237.0,7.0,F,6,4166
+6856,Khairtabad,Auto,6,3.0,427.5,7.0,M,7,5030
+6858,Hitech City,Auto,3,5.0,363.0,2.0,M,1,5803
+6866,Hitech City,Auto,6,3.0,399.0,4.0,F,9,1876
+6870,Hitech City,Bike,4,2.0,409.5,5.0,F,4,1223
+6871,Gachibowli,Bike,6,3.0,390.0,4.0,F,10,1140
+6875,Masab Tank,Bike,6,5.0,457.5,4.0,F,9,1072
+6878,Hitech City,Bike,5,2.0,366.0,6.0,M,5,1702
+6883,Gachibowli,Bike,5,3.0,334.5,5.0,M,10,1170
+6884,Hitech City,Bike,5,5.0,412.5,5.0,F,3,1145
+6886,Khairtabad,Bike,4,,367.5,6.0,F,3,1155
+6888,Hitech City,Bike,5,,364.5,5.0,M,2,1776
+6895,Gachibowli,Bike,6,5.0,462.0,4.0,M,2,1125
+6897,Secunderabad,Bike,6,2.0,436.5,4.0,M,9,1241
+6903,Secunderabad,Bike,5,2.0,381.0,5.0,M,6,1491
+6907,Gachibowli,Bike,4,5.0,373.5,5.0,M,3,1530
+6918,Hitech City,Bike,2,2.0,271.5,2.0,F,6,1324
+6923,Masab Tank,Bike,4,1.0,439.5,3.0,M,8,1326
+6925,Gachibowli,Bike,6,,367.5,4.0,F,10,1606
+6926,Hitech City,Bike,6,4.0,370.5,4.0,M,3,1946
+6927,Secunderabad,Bike,5,4.0,411.0,5.0,M,7,1371
+6932,Hitech City,Bike,4,,301.5,3.0,F,6,5616
+6937,Gachibowli,Bike,4,,286.5,,M,1,4318
+6943,Gachibowli,Bike,5,,277.5,3.0,M,10,4354
+6948,Hitech City,Bike,4,1.0,294.0,4.0,F,3,5496
+6950,Hitech City,Bike,3,4.0,280.5,,F,9,4725
+6954,Hitech City,Bike,3,1.0,310.5,2.0,F,7,5596
+6955,Gachibowli,Bike,3,2.0,367.5,2.0,F,7,4692
+6963,Secunderabad,Car,3,1.0,403.5,,F,7,5107
+6965,Masab Tank,Car,2,4.0,162.0,,M,5,4874
+6966,Hitech City,Car,4,,402.0,,F,7,4709
+6968,Hitech City,Car,4,1.0,253.5,4.0,M,1,5323
+6969,Secunderabad,Car,3,,247.5,,F,4,4482
+6972,Hitech City,Car,3,5.0,226.5,2.0,M,8,4408
+6973,Gachibowli,Car,3,4.0,225.0,3.0,F,5,4950
+6974,Hitech City,Car,4,3.0,375.0,3.0,M,10,4316
+6976,Khairtabad,Car,4,1.0,205.5,2.0,M,3,4657
+6978,Hitech City,Car,6,,322.5,,F,7,4057
+6992,Hitech City,Auto,4,5.0,207.0,,M,10,4788
+6993,Secunderabad,Auto,3,4.0,297.0,3.0,M,7,4020
+6998,Hitech City,Auto,3,,322.5,4.0,F,3,4042
+7000,Khairtabad,Auto,5,3.0,400.5,4.0,F,1,4837
+7001,Masab Tank,Auto,5,5.0,352.5,5.0,F,4,5908
+7007,Masab Tank,Bike,4,1.0,357.0,3.0,F,4,4910
+7009,Gachibowli,Bike,4,1.0,294.0,2.0,M,3,4752
+7012,Khairtabad,Bike,4,2.0,297.0,6.0,M,5,4659
+7016,Hitech City,Bike,4,1.0,373.5,3.0,M,4,5253
+7022,Hitech City,Bike,4,,340.5,2.0,M,8,4878
+7025,Masab Tank,Bike,5,1.0,229.5,2.0,F,7,4944
+7027,Gachibowli,Bike,6,,171.0,4.0,F,10,5865
+7028,Hitech City,Bike,4,,321.0,2.0,F,1,4117
+7031,Masab Tank,Bike,3,2.0,387.0,2.0,M,1,5862
+7033,Gachibowli,Bike,6,2.0,348.0,3.0,F,7,5219
+7037,Masab Tank,Bike,4,2.0,334.5,3.0,F,7,5977
+7046,Hitech City,Bike,4,4.0,229.5,5.0,M,9,5818
+7054,Khairtabad,Bike,4,5.0,205.5,2.0,F,6,5208
+7056,Hitech City,Bike,3,,391.5,4.0,M,3,5722
+7062,Hitech City,Bike,3,,385.5,4.0,M,10,4415
+7063,Gachibowli,Bike,3,2.0,240.0,4.0,F,9,5112
+7065,Secunderabad,Bike,3,,151.5,5.0,F,3,4807
+7070,Hitech City,Bike,4,,214.5,2.0,M,1,4402
+7072,Khairtabad,Bike,3,,297.0,2.0,F,8,4940
+7075,Gachibowli,Bike,4,,319.5,3.0,F,1,4266
+7084,Khairtabad,Bike,5,,297.0,4.0,F,5,5719
+7095,Secunderabad,Bike,3,2.0,273.0,10.0,M,1,4303
+7097,Masab Tank,Bike,4,1.0,229.5,,F,8,5198
+7100,Hitech City,Car,3,4.0,270.0,7.0,M,4,5500
+7102,Khairtabad,Car,5,2.0,334.5,5.0,M,5,1484
+7105,Gachibowli,Car,4,1.0,367.5,6.0,F,7,1884
+7113,Secunderabad,Car,6,2.0,463.5,4.0,M,10,1782
+7121,Masab Tank,Auto,4,4.0,390.0,,M,9,4224
+7123,Gachibowli,Auto,5,1.0,297.0,,F,5,5025
+7127,Masab Tank,Auto,3,1.0,358.5,3.0,M,2,4425
+7132,Khairtabad,Auto,3,5.0,250.5,2.0,M,5,5042
+7136,Hitech City,Auto,4,4.0,229.5,3.0,M,5,4624
+7137,Secunderabad,Auto,5,,357.0,3.0,F,5,5907
+7138,Khairtabad,Auto,5,,357.0,8.0,M,3,4046
+7143,Secunderabad,Bike,6,5.0,208.5,6.0,F,10,1081
+7146,Hitech City,Bike,5,4.0,364.5,5.0,F,2,1637
+7151,Masab Tank,Bike,5,5.0,411.0,5.0,M,7,1875
+7156,Khairtabad,Bike,4,,358.5,5.0,F,7,1001
+7162,Khairtabad,Bike,6,2.0,459.0,4.0,F,6,1123
+7167,Secunderabad,Bike,5,,391.5,,M,2,1409
+7173,Secunderabad,Bike,5,3.0,367.5,,F,3,1409
+7179,Secunderabad,Bike,5,,363.0,5.0,F,1,1004
+7183,Gachibowli,Bike,4,,276.0,3.0,M,4,1330
+7195,Gachibowli,Bike,5,1.0,364.5,5.0,M,3,1066
+7197,Secunderabad,Bike,4,2.0,352.5,6.0,M,6,1386
+7211,Masab Tank,Bike,6,5.0,372.0,,F,10,1005
+7212,Hitech City,Bike,7,5.0,448.5,,M,4,1052
+7215,Secunderabad,Bike,6,1.0,409.5,4.0,M,3,1361
+7218,Hitech City,Bike,7,4.0,376.5,5.0,M,3,1433
+7225,Gachibowli,Bike,3,1.0,406.5,,M,4,4108
+7233,Secunderabad,Bike,5,2.0,261.0,,M,8,5627
+7236,Hitech City,Car,3,4.0,286.5,3.0,M,6,4586
+7246,Khairtabad,Car,3,5.0,307.5,4.0,M,2,5294
+7247,Masab Tank,Car,3,1.0,279.0,2.0,M,3,5818
+7252,Khairtabad,Car,3,,285.0,3.0,F,1,5065
+7255,Gachibowli,Car,3,2.0,343.5,3.0,M,2,4447
+7257,Secunderabad,Auto,5,4.0,231.0,2.0,M,10,5670
+7262,Hitech City,Auto,4,3.0,222.0,,M,2,4065
+7267,Gachibowli,Auto,4,5.0,334.5,3.0,M,7,5832
+7271,Masab Tank,Auto,4,3.0,232.5,3.0,F,2,4534
+7274,Hitech City,Auto,3,3.0,358.5,,F,5,4084
+7277,Masab Tank,Auto,4,2.0,400.5,2.0,M,7,5746
+7281,Secunderabad,Bike,4,3.0,274.5,3.0,M,4,5866
+7285,Gachibowli,Bike,5,4.0,385.5,2.0,M,10,5095
+7286,Hitech City,Bike,3,4.0,298.5,3.0,F,3,4067
+7287,Secunderabad,Bike,4,,286.5,2.0,F,4,5851
+7289,Masab Tank,Bike,4,3.0,325.5,3.0,F,7,4723
+7293,Secunderabad,Bike,3,2.0,331.5,,M,10,4715
+7300,Khairtabad,Bike,5,4.0,375.0,4.0,M,2,4183
+7304,Hitech City,Bike,5,,372.0,3.0,F,2,4075
+7315,Gachibowli,Bike,3,1.0,274.5,4.0,M,5,5326
+7318,Khairtabad,Bike,3,,270.0,4.0,F,9,5105
+7334,Hitech City,Bike,3,,237.0,2.0,M,7,4744
+7343,Masab Tank,Bike,4,4.0,357.0,3.0,F,7,4709
+7345,Gachibowli,Bike,3,4.0,277.5,2.0,M,4,5926
+7351,Gachibowli,Bike,4,2.0,393.0,3.0,M,2,4015
+7353,Secunderabad,Bike,5,1.0,244.5,,F,1,5194
+7357,Gachibowli,Bike,3,1.0,301.5,,F,6,4953
+7368,Hitech City,Bike,3,,210.0,,M,9,4558
+7372,Khairtabad,Car,4,4.0,271.5,3.0,M,1,5444
+7381,Gachibowli,Car,5,2.0,256.5,2.0,M,6,4236
+7386,Hitech City,Car,3,,219.0,10.0,F,5,4032
+7394,Hitech City,Auto,4,5.0,228.0,7.0,M,9,4224
+7399,Gachibowli,Auto,7,3.0,442.5,4.0,F,9,1235
+7403,Masab Tank,Auto,6,3.0,459.0,4.0,F,5,1490
+7408,Khairtabad,Auto,5,1.0,391.5,5.0,F,10,1713
+7409,Masab Tank,Auto,5,,382.5,5.0,M,4,1634
+7413,Secunderabad,Auto,6,5.0,375.0,4.0,M,8,1689
+7418,Hitech City,Bike,7,5.0,423.0,5.0,M,7,1260
+7419,Secunderabad,Bike,4,4.0,381.0,5.0,M,9,1654
+7420,Khairtabad,Bike,5,5.0,363.0,,M,3,1444
+7421,Masab Tank,Bike,5,4.0,394.5,,F,10,1995
+7425,Secunderabad,Bike,6,2.0,385.5,,M,2,1012
+7426,Khairtabad,Bike,3,2.0,321.0,2.0,M,7,1693
+7437,Secunderabad,Bike,6,1.0,348.0,5.0,M,10,4345
+7439,Masab Tank,Bike,3,,412.5,4.0,M,10,5066
+7442,Hitech City,Bike,4,,235.5,7.0,F,3,4878
+7445,Masab Tank,Bike,3,1.0,334.5,7.0,M,5,4439
+7449,Secunderabad,Bike,4,5.0,334.5,5.0,M,4,4704
+7452,Hitech City,Bike,4,,369.0,6.0,M,4,1489
+7457,Masab Tank,Bike,6,4.0,459.0,4.0,F,5,1703
+7458,Hitech City,Bike,4,5.0,339.0,6.0,F,10,1348
+7467,Secunderabad,Bike,6,4.0,375.0,4.0,M,2,1969
+7477,Gachibowli,Bike,7,3.0,376.5,5.0,F,8,1616
+7490,Hitech City,Bike,7,3.0,400.5,4.0,M,8,1892
+7494,Hitech City,Bike,3,3.0,358.5,3.0,F,4,1399
+7495,Gachibowli,Bike,4,5.0,403.5,5.0,F,3,1118
+7504,Khairtabad,Bike,4,,397.5,5.0,M,8,1555
+7507,Gachibowli,Bike,7,5.0,379.5,4.0,F,6,1344
+7513,Gachibowli,Car,5,2.0,402.0,5.0,F,5,1876
+7515,Secunderabad,Car,6,,441.0,4.0,M,10,1148
+7519,Gachibowli,Car,6,2.0,390.0,3.0,M,2,4071
+7528,Khairtabad,Car,4,2.0,265.5,,F,4,4550
+7534,Khairtabad,Auto,5,2.0,348.0,3.0,M,5,5607
+7536,Hitech City,Auto,4,2.0,405.0,,F,4,5566
+7537,Gachibowli,Auto,2,5.0,394.5,,F,4,4042
+7539,Secunderabad,Auto,3,,229.5,3.0,M,9,4404
+7542,Hitech City,Auto,4,,397.5,3.0,M,9,5508
+7544,Hitech City,Auto,4,4.0,232.5,3.0,M,6,5033
+7551,Secunderabad,Auto,3,3.0,325.5,2.0,F,9,5554
+7552,Khairtabad,Auto,4,1.0,307.5,2.0,M,10,4086
+7565,Masab Tank,Bike,3,4.0,276.0,3.0,M,7,5438
+7573,Gachibowli,Bike,3,5.0,291.0,3.0,M,6,4295
+7577,Masab Tank,Bike,5,3.0,234.0,,F,9,4098
+7582,Khairtabad,Bike,5,4.0,298.5,4.0,F,7,5740
+7606,Khairtabad,Bike,3,1.0,354.0,3.0,M,2,4298
+7614,Hitech City,Bike,5,,196.5,6.0,M,8,4005
+7619,Masab Tank,Bike,4,2.0,262.5,6.0,F,5,5445
+7628,Hitech City,Bike,5,5.0,334.5,,M,5,4373
+7629,Secunderabad,Bike,4,4.0,382.5,3.0,F,3,5616
+7637,Masab Tank,Bike,3,4.0,243.0,4.0,M,10,4235
+7643,Masab Tank,Bike,5,2.0,201.0,4.0,M,5,5090
+7644,Hitech City,Bike,3,,283.5,2.0,F,4,4160
+7652,Hitech City,Car,5,2.0,349.5,4.0,F,9,5539
+7653,Secunderabad,Car,3,1.0,246.0,10.0,F,6,5603
+7660,Khairtabad,Car,3,,238.5,2.0,F,9,4099
+7665,Secunderabad,Car,2,,223.5,4.0,M,7,4598
+7670,Hitech City,Auto,4,1.0,394.5,5.0,F,8,1257
+7679,Masab Tank,Auto,3,2.0,283.5,2.0,F,3,4617
+7694,Hitech City,Bike,5,,324.0,10.0,F,2,5672
+7697,Masab Tank,Bike,4,1.0,360.0,8.0,M,1,4638
+7702,Khairtabad,Bike,4,3.0,366.0,3.0,M,7,4761
+7711,Gachibowli,Bike,5,3.0,375.0,4.0,F,4,1111
+7715,Masab Tank,Bike,5,2.0,342.0,5.0,M,6,1726
+7722,Hitech City,Bike,5,1.0,343.5,6.0,M,9,1883
+7744,Khairtabad,Bike,4,5.0,331.5,,F,5,1608
+7747,Gachibowli,Bike,4,3.0,342.0,5.0,F,9,1044
+7748,Hitech City,Bike,5,,393.0,5.0,F,5,1916
+7759,Gachibowli,Bike,5,4.0,325.5,5.0,F,5,1360
+7763,Masab Tank,Bike,6,2.0,388.5,5.0,M,1,1357
+7766,Hitech City,Bike,5,,385.5,5.0,M,7,1090
+7773,Secunderabad,Bike,4,3.0,295.5,4.0,M,9,4429
+7778,Hitech City,Bike,5,3.0,211.5,3.0,M,2,4124
+7784,Hitech City,Car,6,,366.0,3.0,M,9,5634
+7805,Masab Tank,Auto,3,3.0,366.0,4.0,M,10,5181
+7812,Hitech City,Auto,5,4.0,342.0,4.0,F,7,5913
+7813,Gachibowli,Auto,3,2.0,207.0,2.0,M,8,5714
+7820,Hitech City,Auto,5,4.0,399.0,6.0,F,7,4486
+7822,Khairtabad,Auto,5,,213.0,4.0,M,8,5372
+7828,Khairtabad,Bike,2,2.0,259.5,3.0,F,10,4736
+7832,Hitech City,Bike,2,1.0,249.0,3.0,F,7,5990
+7838,Hitech City,Bike,3,5.0,280.5,4.0,F,4,5640
+7841,Masab Tank,Bike,3,2.0,301.5,3.0,M,7,4890
+7846,Khairtabad,Bike,3,1.0,339.0,3.0,M,2,4831
+7847,Masab Tank,Bike,3,,378.0,2.0,F,6,4040
+7848,Hitech City,Bike,4,5.0,265.5,,F,7,4243
+7878,Hitech City,Bike,4,5.0,412.5,,M,1,5394
+7880,Hitech City,Bike,4,,294.0,,M,10,4433
+7882,Khairtabad,Bike,4,4.0,228.0,3.0,M,8,4430
+7883,Masab Tank,Bike,3,2.0,279.0,2.0,M,7,5522
+7885,Gachibowli,Bike,3,1.0,333.0,3.0,M,1,5362
+7890,Hitech City,Bike,3,5.0,345.0,,F,5,4450
+7894,Khairtabad,Bike,4,2.0,394.5,3.0,F,7,5395
+7902,Hitech City,Bike,5,2.0,273.0,3.0,F,10,4128
+7904,Hitech City,Bike,5,2.0,231.0,4.0,F,8,4820
+7908,Hitech City,Bike,3,2.0,376.5,4.0,F,7,4038
+7916,Hitech City,Bike,3,1.0,319.5,2.0,M,6,4747
+7917,Secunderabad,Bike,3,,345.0,3.0,M,4,4018
+7921,Gachibowli,Car,4,,391.5,2.0,F,9,4158
+7922,Hitech City,Car,4,,372.0,2.0,F,10,5783
+7925,Masab Tank,Car,3,,213.0,4.0,M,5,4429
+7928,Hitech City,Car,5,5.0,327.0,5.0,M,5,4303
+7937,Masab Tank,Car,4,3.0,229.5,4.0,M,4,5161
+7938,Hitech City,Car,6,1.0,375.0,2.0,M,4,4016
+7944,Hitech City,Auto,4,5.0,259.5,4.0,M,7,4978
+7959,Secunderabad,Auto,6,2.0,439.5,,F,7,1477
+7963,Gachibowli,Auto,5,3.0,411.0,6.0,M,7,1293
+7967,Masab Tank,Bike,4,4.0,391.5,2.0,M,8,5006
+7969,Gachibowli,Bike,4,5.0,253.5,4.0,F,6,4213
+7971,Secunderabad,Bike,3,1.0,213.0,4.0,M,7,4780
+7976,Hitech City,Bike,4,3.0,145.5,6.0,F,4,4375
+7980,Hitech City,Bike,4,4.0,408.0,2.0,M,7,4042
+7984,Khairtabad,Bike,6,,375.0,,F,1,4747
+7988,Hitech City,Bike,4,2.0,337.5,8.0,F,8,5623
+7989,Secunderabad,Bike,4,2.0,403.5,10.0,M,2,5616
+7992,Hitech City,Bike,4,,363.0,2.0,F,2,4806
+7993,Gachibowli,Bike,3,2.0,382.5,7.0,M,2,5282
+7998,Hitech City,Bike,6,1.0,459.0,4.0,F,4,1449
+8001,Secunderabad,Bike,5,,358.5,5.0,M,1,1518
+8002,Khairtabad,Bike,7,2.0,427.5,4.0,M,2,1491
+8003,Masab Tank,Bike,5,4.0,343.5,6.0,F,9,1733
+8006,Hitech City,Bike,6,,370.5,4.0,F,6,1537
+8013,Secunderabad,Bike,5,3.0,378.0,5.0,M,3,1474
+8014,Khairtabad,Bike,6,,381.0,4.0,M,9,1594
+8016,Hitech City,Bike,5,,384.0,5.0,M,6,1551
+8017,Gachibowli,Bike,6,,396.0,4.0,M,8,1755
+8020,Khairtabad,Bike,7,5.0,433.5,4.0,M,3,1656
+8021,Masab Tank,Bike,7,4.0,421.5,4.0,M,9,1970
+8026,Khairtabad,Bike,7,3.0,429.0,4.0,F,5,1866
+8027,Masab Tank,Bike,6,,378.0,2.0,M,1,1756
+8029,Gachibowli,Bike,7,1.0,435.0,4.0,M,4,1488
+8030,Hitech City,Bike,7,1.0,370.5,4.0,M,6,1297
+8035,Gachibowli,Bike,7,2.0,433.5,5.0,M,1,1178
+8037,Secunderabad,Bike,6,2.0,430.5,4.0,F,7,1837
+8046,Hitech City,Bike,5,1.0,460.5,4.0,M,8,1511
+8055,Secunderabad,Bike,5,,400.5,,F,10,1818
+8061,Secunderabad,Car,5,,279.0,4.0,M,3,4287
+8072,Hitech City,Car,4,,361.5,2.0,M,3,5672
+8075,Masab Tank,Car,4,4.0,298.5,3.0,F,9,5016
+8077,Gachibowli,Car,2,4.0,151.5,,F,6,5080
+8078,Hitech City,Car,4,,232.5,4.0,F,10,5483
+8082,Hitech City,Auto,5,4.0,213.0,3.0,F,8,5468
+8089,Gachibowli,Auto,3,,393.0,2.0,M,4,5738
+8090,Hitech City,Auto,3,,393.0,2.0,F,7,4422
+8094,Hitech City,Auto,5,1.0,339.0,4.0,F,2,5600
+8095,Gachibowli,Auto,4,1.0,316.5,3.0,F,2,5851
+8098,Khairtabad,Auto,4,3.0,229.5,3.0,M,5,5743
+8100,Hitech City,Auto,5,1.0,423.0,5.0,M,6,5182
+8112,Hitech City,Bike,3,,325.5,4.0,F,3,5602
+8115,Secunderabad,Bike,4,,373.5,3.0,F,9,5459
+8119,Gachibowli,Bike,4,,244.5,2.0,F,10,5529
+8121,Secunderabad,Bike,3,,226.5,3.0,M,5,4767
+8123,Masab Tank,Bike,6,,232.5,2.0,F,1,4182
+8124,Hitech City,Bike,3,5.0,228.0,4.0,M,2,4809
+8126,Hitech City,Bike,3,,153.0,4.0,F,4,5936
+8129,Masab Tank,Bike,3,4.0,411.0,3.0,F,7,5036
+8140,Khairtabad,Bike,3,3.0,271.5,,F,10,5337
+8142,Hitech City,Bike,3,5.0,364.5,,F,4,4130
+8151,Secunderabad,Bike,3,3.0,246.0,3.0,M,9,5070
+8152,Khairtabad,Bike,4,3.0,244.5,3.0,F,10,5002
+8158,Khairtabad,Bike,4,5.0,151.5,6.0,M,8,4146
+8161,Gachibowli,Bike,4,3.0,313.5,5.0,M,6,4384
+8167,Gachibowli,Bike,3,1.0,199.5,3.0,F,5,5213
+8185,Gachibowli,Bike,4,4.0,282.0,4.0,F,10,4571
+8188,Khairtabad,Bike,3,1.0,327.0,4.0,M,6,5480
+8189,Masab Tank,Bike,5,5.0,258.0,2.0,M,5,5791
+8197,Gachibowli,Car,4,4.0,292.5,,F,6,5783
+8203,Gachibowli,Car,3,3.0,382.5,2.0,F,10,5632
+8207,Masab Tank,Car,4,5.0,309.0,3.0,M,5,5785
+8212,Khairtabad,Car,3,4.0,309.0,3.0,F,5,5915
+8215,Gachibowli,Car,3,5.0,258.0,3.0,F,7,4929
+8219,Masab Tank,Auto,4,2.0,262.5,3.0,M,4,4426
+8223,Secunderabad,Auto,4,2.0,304.5,,F,9,4217
+8226,Hitech City,Auto,5,1.0,393.0,,M,9,5146
+8231,Masab Tank,Auto,5,,399.0,3.0,M,8,4786
+8235,Secunderabad,Auto,6,3.0,343.5,8.0,M,6,4600
+8247,Secunderabad,Bike,3,2.0,322.5,4.0,M,1,4158
+8248,Khairtabad,Bike,4,5.0,405.0,10.0,M,9,5085
+8256,Hitech City,Bike,5,3.0,381.0,6.0,M,8,1932
+8268,Hitech City,Bike,5,3.0,367.5,5.0,F,1,1605
+8271,Secunderabad,Bike,6,,378.0,2.0,M,6,1470
+8272,Khairtabad,Bike,6,5.0,451.5,4.0,F,4,1707
+8277,Secunderabad,Bike,4,,367.5,3.0,F,5,5226
+8283,Secunderabad,Bike,3,1.0,232.5,3.0,F,7,5709
+8287,Gachibowli,Bike,5,5.0,396.0,6.0,M,8,4644
+8291,Masab Tank,Bike,4,5.0,331.5,10.0,M,9,4646
+8301,Secunderabad,Bike,5,2.0,276.0,3.0,F,4,4552
+8306,Hitech City,Bike,5,4.0,381.0,6.0,M,4,1850
+8308,Khairtabad,Bike,6,,381.0,4.0,F,9,1626
+8310,Hitech City,Bike,5,,384.0,5.0,F,10,1333
+8312,Hitech City,Bike,4,,355.5,5.0,F,5,1041
+8326,Khairtabad,Bike,6,4.0,417.0,4.0,M,3,1141
+8329,Gachibowli,Bike,4,2.0,342.0,5.0,M,6,1718
+8341,Gachibowli,Car,5,5.0,391.5,6.0,F,1,1082
+8343,Secunderabad,Car,6,,393.0,5.0,M,9,1369
+8349,Secunderabad,Car,6,1.0,417.0,4.0,M,6,1576
+8355,Secunderabad,Auto,6,4.0,418.5,4.0,F,10,1462
+8360,Hitech City,Auto,6,,382.5,4.0,F,8,1805
+8361,Secunderabad,Auto,6,2.0,364.5,4.0,M,2,1665
+8366,Hitech City,Auto,5,1.0,372.0,4.0,F,6,1944
+8368,Khairtabad,Auto,4,3.0,360.0,,F,8,4423
+8369,Masab Tank,Auto,4,4.0,220.5,3.0,M,9,4534
+8370,Hitech City,Auto,4,,333.0,,F,10,4714
+8375,Masab Tank,Bike,4,,217.5,3.0,M,8,4915
+8378,Hitech City,Bike,3,3.0,318.0,2.0,M,2,5125
+8383,Gachibowli,Bike,4,3.0,259.5,4.0,M,9,5672
+8389,Gachibowli,Bike,2,,223.5,,F,7,5541
+8392,Khairtabad,Bike,5,2.0,285.0,2.0,M,1,5005
+8395,Gachibowli,Bike,3,4.0,373.5,3.0,F,10,5629
+8401,Gachibowli,Bike,5,1.0,225.0,4.0,F,1,5098
+8403,Secunderabad,Bike,4,1.0,279.0,3.0,F,6,4758
+8406,Hitech City,Bike,5,3.0,202.5,3.0,F,5,4484
+8409,Secunderabad,Bike,4,1.0,403.5,5.0,M,3,4534
+8416,Khairtabad,Bike,4,1.0,390.0,5.0,M,1,5559
+8421,Secunderabad,Bike,5,3.0,298.5,3.0,F,3,4885
+8425,Gachibowli,Bike,3,,240.0,4.0,F,7,5147
+8426,Hitech City,Bike,3,,292.5,3.0,F,3,5961
+8439,Secunderabad,Bike,6,5.0,369.0,5.0,F,3,4660
+8440,Khairtabad,Bike,4,1.0,426.0,4.0,F,4,4795
+8443,Gachibowli,Bike,3,,378.0,2.0,M,4,4098
+8445,Secunderabad,Bike,6,4.0,421.5,3.0,F,7,5180
+8447,Masab Tank,Bike,3,1.0,313.5,2.0,F,2,4855
+8450,Hitech City,Bike,5,5.0,265.5,5.0,F,1,4379
+8452,Khairtabad,Bike,4,3.0,370.5,3.0,F,4,4962
+8453,Masab Tank,Bike,3,,402.0,4.0,M,10,5226
+8454,Hitech City,Bike,5,3.0,363.0,3.0,F,6,5013
+8455,Gachibowli,Bike,2,4.0,264.0,,M,1,4509
+8459,Masab Tank,Bike,4,3.0,310.5,3.0,F,7,4220
+8461,Gachibowli,Bike,3,5.0,250.5,2.0,F,8,5083
+8462,Hitech City,Bike,3,2.0,364.5,4.0,M,5,4670
+8465,Masab Tank,Bike,4,3.0,361.5,2.0,M,3,4636
+8468,Hitech City,Car,4,4.0,399.0,3.0,F,6,5758
+8482,Khairtabad,Car,3,,340.5,2.0,M,10,5401
+8484,Hitech City,Car,3,,240.0,2.0,M,4,4376
+8485,Gachibowli,Car,6,3.0,169.5,2.0,F,4,5130
+8487,Secunderabad,Car,4,4.0,309.0,3.0,M,2,5572
+8488,Khairtabad,Car,3,1.0,310.5,3.0,F,5,4643
+8500,Khairtabad,Auto,4,,351.0,3.0,F,10,4204
+8503,Gachibowli,Auto,5,1.0,268.5,2.0,M,8,5301
+8508,Hitech City,Auto,3,4.0,294.0,4.0,M,5,4749
+8510,Hitech City,Auto,3,2.0,349.5,,M,1,5886
+8512,Khairtabad,Bike,5,3.0,277.5,2.0,M,2,5420
+8513,Masab Tank,Bike,3,5.0,276.0,3.0,F,2,4357
+8514,Hitech City,Bike,6,3.0,147.0,6.0,M,9,4787
+8517,Secunderabad,Bike,3,3.0,247.5,2.0,M,1,4768
+8521,Gachibowli,Bike,3,5.0,286.5,,M,4,4008
+8524,Khairtabad,Bike,4,,351.0,2.0,M,4,5066
+8530,Khairtabad,Bike,4,5.0,379.5,3.0,F,9,4205
+8535,Secunderabad,Bike,4,,201.0,4.0,F,5,4507
+8541,Secunderabad,Bike,3,4.0,292.5,10.0,M,5,5950
+8546,Hitech City,Bike,2,4.0,367.5,2.0,F,3,5850
+8550,Hitech City,Bike,6,5.0,417.0,4.0,M,2,1167
+8558,Hitech City,Bike,4,,393.0,6.0,M,10,1156
+8559,Secunderabad,Bike,6,1.0,412.5,,M,7,1767
+8562,Hitech City,Bike,5,1.0,406.5,5.0,F,5,1869
+8566,Khairtabad,Bike,3,4.0,247.5,2.0,M,1,5745
+8571,Secunderabad,Bike,3,1.0,247.5,,M,10,5823
+8574,Hitech City,Bike,4,,378.0,3.0,F,10,5802
+8578,Khairtabad,Bike,5,4.0,345.0,,M,6,4257
+8584,Khairtabad,Bike,4,3.0,201.0,4.0,M,8,4879
+8593,Gachibowli,Bike,4,1.0,250.5,4.0,M,7,5264
+8602,Khairtabad,Bike,4,5.0,342.0,5.0,M,5,1373
+8606,Hitech City,Car,6,5.0,369.0,4.0,M,2,1581
+8615,Masab Tank,Car,6,,390.0,4.0,M,4,1358
+8629,Gachibowli,Auto,5,5.0,337.5,5.0,M,7,1168
+8633,Masab Tank,Auto,7,1.0,382.5,4.0,F,3,1450
+8643,Secunderabad,Auto,4,,409.5,5.0,M,2,1441
+8644,Khairtabad,Auto,6,4.0,454.5,5.0,M,5,1195
+8655,Secunderabad,Bike,7,5.0,451.5,4.0,F,7,1727
+8658,Hitech City,Bike,4,4.0,378.0,5.0,M,2,1995
+8660,Hitech City,Bike,6,,403.5,,F,10,1166
+8665,Gachibowli,Bike,3,,303.0,,F,9,4917
+8680,Khairtabad,Bike,4,5.0,294.0,2.0,F,3,5505
+8684,Hitech City,Bike,6,,400.5,4.0,M,2,5917
+8687,Masab Tank,Bike,3,2.0,225.0,2.0,M,5,5264
+8688,Hitech City,Bike,5,1.0,264.0,3.0,M,3,5919
+8691,Secunderabad,Bike,3,5.0,364.5,,M,1,4623
+8699,Masab Tank,Bike,5,5.0,363.0,4.0,F,2,5359
+8713,Gachibowli,Bike,4,2.0,199.5,6.0,F,9,4879
+8716,Khairtabad,Bike,2,1.0,297.0,2.0,M,8,4323
+8725,Gachibowli,Bike,3,2.0,211.5,2.0,F,7,5231
+8729,Masab Tank,Bike,3,4.0,357.0,2.0,M,7,5974
+8732,Hitech City,Bike,5,,357.0,2.0,M,5,5703
+8734,Khairtabad,Bike,4,5.0,213.0,2.0,M,10,5428
+8745,Secunderabad,Car,3,1.0,342.0,2.0,F,7,4977
+8747,Masab Tank,Car,4,2.0,168.0,2.0,F,8,4599
+8753,Masab Tank,Car,5,1.0,387.0,3.0,M,3,4908
+8755,Gachibowli,Car,6,,330.0,4.0,M,5,5465
+8756,Hitech City,Car,5,,240.0,3.0,F,10,4416
+8760,Hitech City,Car,3,,298.5,2.0,F,7,5531
+8761,Gachibowli,Car,4,3.0,280.5,6.0,F,9,5872
+8771,Masab Tank,Auto,3,4.0,376.5,3.0,M,5,5608
+8777,Masab Tank,Auto,3,1.0,151.5,3.0,M,7,4275
+8778,Hitech City,Auto,5,,339.0,3.0,F,1,5451
+8784,Hitech City,Auto,4,5.0,343.5,4.0,F,6,4157
+8787,Secunderabad,Bike,5,1.0,319.5,2.0,F,10,5607
+8788,Khairtabad,Bike,3,,226.5,3.0,F,3,4938
+8789,Masab Tank,Bike,4,2.0,318.0,,M,5,5413
+8792,Hitech City,Bike,5,2.0,316.5,2.0,F,2,5077
+8809,Gachibowli,Bike,4,,394.5,3.0,M,1,5283
+8813,Masab Tank,Bike,3,1.0,363.0,8.0,F,8,5401
+8814,Hitech City,Bike,4,,397.5,4.0,F,3,4120
+8818,Khairtabad,Bike,6,,205.5,8.0,F,6,5992
+8820,Hitech City,Bike,5,4.0,363.0,5.0,M,1,1571
+8825,Masab Tank,Bike,5,2.0,381.0,6.0,M,5,1885
+8830,Khairtabad,Bike,4,4.0,391.5,5.0,F,2,1690
+8833,Gachibowli,Bike,5,1.0,355.5,5.0,F,8,1150
+8842,Khairtabad,Bike,7,,403.5,4.0,M,4,1118
+8845,Gachibowli,Bike,4,5.0,312.0,,M,1,4039
+8846,Hitech City,Bike,3,5.0,264.0,2.0,F,8,5597
+8854,Khairtabad,Bike,4,,397.5,4.0,F,10,4575
+8861,Masab Tank,Bike,7,1.0,460.5,4.0,M,4,1371
+8864,Hitech City,Bike,6,2.0,457.5,4.0,M,2,1196
+8866,Khairtabad,Bike,2,,387.0,5.0,F,6,1727
+8871,Secunderabad,Bike,5,3.0,358.5,5.0,M,10,1784
+8884,Khairtabad,Car,5,3.0,405.0,5.0,M,9,1764
+8886,Hitech City,Car,6,,379.5,4.0,F,6,1961
+8893,Gachibowli,Car,5,,334.5,5.0,F,6,1883
+8906,Hitech City,Auto,5,3.0,357.0,5.0,M,1,1871
+8919,Secunderabad,Auto,5,,361.5,5.0,F,2,1834
+8922,Hitech City,Auto,4,5.0,375.0,5.0,M,6,1662
+8926,Khairtabad,Bike,7,,387.0,4.0,F,3,1482
+8929,Gachibowli,Bike,5,5.0,397.5,6.0,M,4,1937
+8934,Hitech City,Bike,5,3.0,210.0,5.0,F,6,1823
+8943,Secunderabad,Bike,3,1.0,399.0,3.0,F,8,4574
+8946,Hitech City,Bike,4,1.0,256.5,2.0,F,1,5717
+8954,Hitech City,Bike,2,2.0,147.0,5.0,M,10,4368
+8956,Khairtabad,Bike,2,2.0,370.5,3.0,F,4,4686
+8958,Hitech City,Bike,5,,273.0,4.0,M,5,4770
+8967,Secunderabad,Bike,4,4.0,387.0,3.0,M,10,4958
+8971,Gachibowli,Bike,4,5.0,370.5,2.0,F,9,4656
+8980,Khairtabad,Bike,3,3.0,397.5,3.0,F,10,4093
+8981,Masab Tank,Bike,4,3.0,373.5,3.0,M,4,4811
+8985,Secunderabad,Bike,3,1.0,165.0,4.0,F,6,5474
+8986,Khairtabad,Bike,4,3.0,402.0,2.0,F,4,5280
+8987,Masab Tank,Bike,4,3.0,219.0,3.0,F,10,5372
+8990,Hitech City,Bike,4,4.0,261.0,,F,1,4541
+8993,Masab Tank,Bike,4,,243.0,2.0,F,9,5345
+8994,Hitech City,Bike,3,,390.0,3.0,F,8,5215
+8997,Secunderabad,Bike,4,,390.0,3.0,F,6,4221
+9000,Hitech City,Bike,5,1.0,283.5,2.0,M,10,5248
+9011,Masab Tank,Bike,4,2.0,315.0,,M,8,5672
+9012,Hitech City,Bike,3,5.0,396.0,4.0,F,8,4324
+9016,Khairtabad,Car,4,3.0,211.5,2.0,F,8,4331
+9019,Gachibowli,Car,3,4.0,277.5,4.0,F,6,5322
+9020,Hitech City,Car,4,1.0,361.5,3.0,M,6,5836
+9028,Khairtabad,Car,3,4.0,234.0,3.0,M,4,4628
+9029,Masab Tank,Car,4,,280.5,4.0,M,4,4757
+9030,Hitech City,Car,6,3.0,256.5,3.0,F,1,4952
+9033,Secunderabad,Car,4,5.0,270.0,4.0,F,10,5176
+9035,Masab Tank,Car,3,1.0,243.0,4.0,F,4,5683
+9039,Secunderabad,Auto,4,1.0,268.5,2.0,F,7,4605
+9043,Gachibowli,Auto,3,5.0,357.0,2.0,F,8,5769
+9050,Hitech City,Auto,3,4.0,357.0,2.0,M,5,4349
+9052,Khairtabad,Auto,2,1.0,406.5,3.0,M,1,4537
+9055,Gachibowli,Auto,5,5.0,253.5,3.0,M,2,5942
+9058,Khairtabad,Auto,4,,292.5,3.0,M,7,4835
+9060,Hitech City,Bike,3,,298.5,3.0,F,10,5768
+9077,Masab Tank,Bike,3,2.0,313.5,3.0,M,5,4999
+9084,Hitech City,Bike,4,5.0,349.5,3.0,F,7,5604
+9085,Gachibowli,Bike,2,5.0,306.0,10.0,F,1,4709
+9089,Masab Tank,Bike,3,4.0,337.5,4.0,M,10,4460
+9108,Hitech City,Bike,5,2.0,294.0,,M,4,4868
+9110,Hitech City,Bike,5,,346.5,2.0,F,7,5491
+9114,Hitech City,Bike,5,,205.5,2.0,F,2,4077
+9115,Gachibowli,Bike,3,1.0,373.5,2.0,F,1,5190
+9123,Secunderabad,Bike,3,1.0,370.5,2.0,M,7,5557
+9128,Hitech City,Bike,6,3.0,327.0,6.0,F,5,4352
+9129,Secunderabad,Bike,3,1.0,375.0,3.0,F,7,4760
+9133,Gachibowli,Bike,4,,376.5,5.0,F,7,1381
+9143,Masab Tank,Bike,5,5.0,334.5,5.0,M,8,1132
+9145,Gachibowli,Bike,5,3.0,402.0,5.0,M,5,1365
+9149,Masab Tank,Bike,5,5.0,243.0,,M,8,1311
+9151,Gachibowli,Bike,7,5.0,382.5,,F,9,1367
+9152,Hitech City,Bike,6,2.0,429.0,4.0,M,6,1556
+9158,Hitech City,Car,6,4.0,430.5,4.0,F,10,1811
+9159,Secunderabad,Car,6,1.0,424.5,5.0,F,10,1304
+9165,Secunderabad,Car,4,2.0,348.0,,M,3,1197
+9168,Hitech City,Car,6,,390.0,,F,1,1883
+9189,Secunderabad,Auto,5,5.0,328.5,5.0,M,6,1234
+9194,Hitech City,Auto,7,4.0,396.0,4.0,M,6,1265
+9197,Masab Tank,Bike,5,5.0,393.0,5.0,M,2,1304
+9198,Hitech City,Bike,5,,382.5,6.0,F,1,5874
+9201,Secunderabad,Bike,4,2.0,322.5,2.0,F,10,4061
+9203,Masab Tank,Bike,4,5.0,204.0,2.0,M,4,5512
+9204,Hitech City,Bike,3,4.0,337.5,4.0,F,9,5575
+9207,Secunderabad,Bike,3,2.0,339.0,2.0,M,10,4254
+9211,Gachibowli,Bike,5,1.0,372.0,,M,6,5081
+9212,Hitech City,Bike,3,2.0,226.5,2.0,F,3,4759
+9219,Secunderabad,Bike,3,3.0,336.0,4.0,M,10,4147
+9224,Hitech City,Bike,4,5.0,211.5,2.0,F,10,5907
+9233,Masab Tank,Bike,3,3.0,396.0,2.0,M,6,4102
+9236,Hitech City,Bike,4,,364.5,3.0,M,3,5703
+9250,Khairtabad,Bike,2,,342.0,2.0,F,2,5435
+9252,Hitech City,Bike,5,5.0,334.5,3.0,F,3,4382
+9253,Gachibowli,Bike,3,4.0,385.5,4.0,F,8,4780
+9267,Secunderabad,Bike,3,3.0,325.5,,M,10,5439
+9271,Gachibowli,Bike,3,1.0,226.5,,M,2,5016
+9272,Hitech City,Bike,4,1.0,303.0,3.0,M,10,4454
+9274,Khairtabad,Bike,3,,225.0,3.0,M,9,5852
+9276,Hitech City,Bike,4,5.0,213.0,4.0,F,6,5027
+9281,Masab Tank,Bike,4,3.0,324.0,4.0,M,3,4750
+9283,Gachibowli,Bike,2,,288.0,3.0,M,4,5524
+9284,Hitech City,Bike,3,4.0,277.5,2.0,M,5,4574
+9291,Secunderabad,Car,3,2.0,268.5,3.0,M,9,5224
+9295,Gachibowli,Car,4,2.0,325.5,2.0,M,4,5539
+9306,Hitech City,Car,6,,298.5,4.0,F,1,5204
+9307,Gachibowli,Car,4,1.0,396.0,4.0,F,6,4863
+9309,Secunderabad,Car,4,4.0,232.5,3.0,F,6,5778
+9315,Secunderabad,Auto,3,1.0,345.0,2.0,F,4,4387
+9316,Khairtabad,Auto,5,4.0,390.0,4.0,M,4,5911
+9318,Hitech City,Auto,5,,325.5,2.0,F,6,4120
+9319,Gachibowli,Auto,4,2.0,328.5,3.0,F,9,5703
+9327,Secunderabad,Auto,4,5.0,294.0,,F,2,5840
+9332,Hitech City,Auto,4,5.0,250.5,4.0,M,3,4658
+9335,Masab Tank,Bike,5,,363.0,4.0,F,5,5375
+9338,Hitech City,Bike,4,3.0,276.0,7.0,M,5,5920
+9340,Khairtabad,Bike,4,1.0,262.5,3.0,M,2,5861
+9341,Masab Tank,Bike,3,,265.5,3.0,F,5,5941
+9346,Khairtabad,Bike,4,1.0,235.5,2.0,F,7,4690
+9352,Khairtabad,Bike,7,1.0,400.5,4.0,M,9,1261
+9355,Gachibowli,Bike,6,4.0,414.0,,M,4,1662
+9361,Gachibowli,Bike,7,,366.0,4.0,F,8,1477
+9368,Hitech City,Bike,4,2.0,378.0,4.0,M,1,4705
+9369,Secunderabad,Bike,3,,283.5,3.0,F,1,5896
+9370,Khairtabad,Bike,5,3.0,238.5,3.0,M,7,5462
+9373,Gachibowli,Bike,4,,406.5,4.0,M,9,5057
+9375,Secunderabad,Bike,4,1.0,391.5,6.0,F,6,5861
+9377,Masab Tank,Bike,5,4.0,352.5,4.0,M,10,4880
+9379,Gachibowli,Bike,4,,250.5,4.0,M,2,5908
+9381,Secunderabad,Bike,5,2.0,291.0,4.0,M,8,5650
+9382,Khairtabad,Bike,5,3.0,363.0,4.0,F,8,4410
+9384,Hitech City,Bike,5,4.0,235.5,7.0,M,3,4723
+9396,Hitech City,Bike,6,3.0,382.5,4.0,M,6,1654
+9401,Masab Tank,Bike,6,4.0,427.5,4.0,M,4,1244
+9405,Secunderabad,Bike,6,1.0,424.5,5.0,F,5,1298
+9407,Masab Tank,Bike,4,,411.0,5.0,F,5,1581
+9411,Secunderabad,Bike,4,4.0,387.0,5.0,M,7,1261
+9412,Khairtabad,Bike,5,,354.0,5.0,F,7,1137
+9413,Masab Tank,Bike,6,,456.0,4.0,F,9,1401
+9418,Khairtabad,Bike,6,3.0,429.0,,M,4,1169
+9432,Hitech City,Car,6,,427.5,4.0,M,8,1028
+9442,Khairtabad,Car,4,1.0,357.0,5.0,F,3,1913
+9451,Gachibowli,Auto,7,,444.0,4.0,F,10,1033
+9456,Hitech City,Auto,4,2.0,405.0,5.0,F,5,1747
+9469,Gachibowli,Auto,4,,234.0,2.0,F,7,5938
+9481,Gachibowli,Bike,3,5.0,276.0,2.0,M,3,4883
+9492,Hitech City,Bike,3,5.0,234.0,2.0,F,8,5848
+9501,Secunderabad,Bike,4,2.0,301.5,,F,4,4613
+9503,Masab Tank,Bike,3,4.0,289.5,6.0,M,2,5584
+9505,Gachibowli,Bike,4,4.0,376.5,3.0,F,9,5350
+9508,Khairtabad,Bike,3,,379.5,3.0,M,4,4269
+9512,Hitech City,Bike,4,5.0,256.5,3.0,F,10,4752
+9513,Secunderabad,Bike,4,5.0,153.0,5.0,F,3,5767
+9520,Khairtabad,Bike,2,2.0,151.5,,F,6,4196
+9523,Gachibowli,Bike,3,1.0,199.5,4.0,F,6,5162
+9528,Hitech City,Bike,4,,246.0,4.0,M,3,5318
+9533,Masab Tank,Bike,2,,267.0,4.0,F,8,4620
+9539,Masab Tank,Bike,3,2.0,318.0,3.0,M,10,4117
+9544,Khairtabad,Bike,3,5.0,370.5,,F,7,4966
+9546,Hitech City,Bike,3,,285.0,,F,9,5279
+9548,Hitech City,Bike,3,2.0,229.5,4.0,M,7,4750
+9556,Khairtabad,Bike,3,,343.5,,F,8,4549
+9559,Gachibowli,Bike,3,5.0,235.5,4.0,F,2,4640
+9561,Secunderabad,Bike,3,2.0,354.0,,M,2,4239
+9564,Hitech City,Car,4,5.0,286.5,2.0,M,10,5068
+9570,Hitech City,Car,3,,199.5,5.0,M,9,5744
+9573,Secunderabad,Car,3,1.0,292.5,5.0,F,4,4034
+9574,Khairtabad,Car,4,4.0,306.0,3.0,F,9,4757
+9582,Hitech City,Car,4,4.0,420.0,3.0,M,5,5624
+9585,Secunderabad,Car,6,5.0,372.0,3.0,F,3,5709
+9589,Gachibowli,Auto,2,1.0,271.5,4.0,F,2,4747
+9597,Secunderabad,Auto,4,3.0,265.5,3.0,F,7,4834
+9601,Gachibowli,Auto,4,4.0,198.0,3.0,F,5,4613
+9602,Hitech City,Auto,3,1.0,369.0,3.0,F,10,4707
+9606,Hitech City,Auto,5,,382.5,,M,9,5609
+9614,Hitech City,Bike,4,4.0,384.0,3.0,F,5,5399
+9615,Secunderabad,Bike,5,1.0,264.0,6.0,M,9,4839
+9617,Masab Tank,Bike,4,,408.0,2.0,M,1,5666
+9622,Khairtabad,Bike,3,2.0,237.0,2.0,F,8,5907
+9623,Masab Tank,Bike,5,2.0,399.0,10.0,M,9,4784
+9626,Hitech City,Bike,7,4.0,451.5,,F,1,1150
+9627,Secunderabad,Bike,4,2.0,412.5,5.0,M,5,1900
+9629,Masab Tank,Bike,6,1.0,429.0,4.0,M,10,1177
+9630,Hitech City,Bike,5,5.0,357.0,6.0,M,3,1351
+9631,Gachibowli,Bike,7,1.0,450.0,4.0,F,10,1148
+9635,Masab Tank,Bike,7,3.0,433.5,4.0,F,3,1037
+9639,Secunderabad,Bike,4,4.0,210.0,2.0,M,6,4703
+9641,Masab Tank,Bike,4,3.0,346.5,,M,8,4991
+9642,Hitech City,Bike,3,,396.0,,M,6,5702
+9644,Hitech City,Bike,5,,255.0,3.0,M,6,5226
+9657,Secunderabad,Bike,7,2.0,451.5,4.0,M,1,1339
+9662,Hitech City,Bike,7,,450.0,4.0,M,3,1070
+9663,Secunderabad,Bike,6,4.0,438.0,4.0,F,1,1372
+9666,Hitech City,Bike,7,5.0,433.5,,F,10,1074
+9675,Secunderabad,Bike,6,5.0,402.0,4.0,M,2,1462
+9684,Hitech City,Bike,4,1.0,351.0,5.0,M,3,1134
+9689,Masab Tank,Bike,6,,400.5,4.0,M,1,1942
+9690,Hitech City,Bike,7,1.0,451.5,4.0,F,6,1052
+9693,Secunderabad,Bike,6,4.0,438.0,4.0,M,5,1793
+9695,Masab Tank,Bike,6,,451.5,5.0,F,2,1452
+9711,Secunderabad,Car,7,,396.0,4.0,F,2,1540
+9719,Masab Tank,Car,3,4.0,385.5,5.0,M,10,4901
+9731,Masab Tank,Auto,3,5.0,207.0,2.0,M,1,4881
+9736,Khairtabad,Auto,5,,391.5,3.0,M,3,5303
+9748,Khairtabad,Bike,5,4.0,246.0,3.0,M,9,5135
+9757,Gachibowli,Bike,5,,202.5,3.0,F,10,5301
+9761,Masab Tank,Bike,3,2.0,402.0,4.0,M,6,4415
+9766,Khairtabad,Bike,4,,232.5,,F,6,5942
+9767,Masab Tank,Bike,5,,273.0,4.0,F,9,5159
+9768,Hitech City,Bike,5,5.0,186.0,,M,10,4331
+9773,Masab Tank,Bike,2,1.0,351.0,,F,9,5075
+9777,Secunderabad,Bike,3,1.0,288.0,3.0,M,4,4997
+9782,Hitech City,Bike,3,,252.0,2.0,M,1,5097
+9787,Gachibowli,Bike,4,4.0,270.0,3.0,M,3,5031
+9789,Secunderabad,Bike,4,2.0,324.0,,M,10,4636
+9791,Masab Tank,Bike,3,2.0,243.0,3.0,M,4,4812
+9792,Hitech City,Bike,3,1.0,375.0,3.0,F,6,5832
+9794,Hitech City,Bike,3,4.0,339.0,3.0,F,7,4411
+9798,Hitech City,Bike,4,,334.5,,F,5,5654
+9811,Gachibowli,Bike,3,1.0,348.0,2.0,F,3,4562
+9816,Hitech City,Bike,4,,187.5,3.0,F,10,5883
+9818,Hitech City,Bike,4,4.0,310.5,,F,1,4019
+9823,Gachibowli,Bike,3,3.0,223.5,4.0,F,2,5282
+9826,Khairtabad,Bike,3,3.0,198.0,2.0,F,8,5810
+9832,Khairtabad,Bike,2,3.0,403.5,2.0,M,3,5976
+9834,Hitech City,Bike,4,,199.5,2.0,F,10,4195
+9837,Secunderabad,Bike,4,1.0,295.5,3.0,M,9,4917
+9842,Hitech City,Car,5,4.0,312.0,,M,8,5098
+9846,Hitech City,Car,4,1.0,241.5,3.0,M,3,4590
+9853,Gachibowli,Car,3,2.0,325.5,,M,7,5910
+9856,Khairtabad,Car,2,2.0,390.0,,F,6,4747
+9857,Masab Tank,Car,4,4.0,277.5,2.0,F,1,4729
+9865,Gachibowli,Auto,3,4.0,406.5,3.0,M,1,4444
+9874,Khairtabad,Auto,3,,303.0,4.0,F,7,4458
+9883,Gachibowli,Bike,6,5.0,402.0,4.0,F,1,1248
+9886,Khairtabad,Bike,5,1.0,412.5,5.0,M,6,1156
+9888,Hitech City,Bike,5,2.0,364.5,5.0,F,4,1385
+9891,Secunderabad,Bike,3,4.0,370.5,3.0,F,4,5844
+9897,Secunderabad,Bike,4,5.0,330.0,3.0,F,1,4912
+9898,Khairtabad,Bike,3,5.0,330.0,3.0,F,5,4407
+9899,Masab Tank,Bike,2,1.0,427.5,3.0,F,7,4999
+9900,Hitech City,Bike,3,1.0,163.5,6.0,F,6,5457
+9907,Gachibowli,Bike,6,2.0,259.5,3.0,F,4,5970
+9913,Gachibowli,Bike,6,1.0,402.0,4.0,M,10,1958
+9917,Masab Tank,Bike,6,,447.0,4.0,M,2,1648
+9920,Hitech City,Bike,6,3.0,415.5,4.0,M,6,1623
+9923,Masab Tank,Bike,7,1.0,381.0,4.0,F,5,1865
+9924,Hitech City,Bike,5,4.0,394.5,5.0,M,8,1548
+9925,Gachibowli,Bike,6,,400.5,4.0,M,10,1580
+9935,Masab Tank,Bike,4,,411.0,6.0,M,10,1355
+9938,Hitech City,Bike,7,,465.0,4.0,F,8,1601
+9943,Gachibowli,Bike,4,4.0,399.0,6.0,F,2,1776
+9944,Hitech City,Bike,6,2.0,460.5,4.0,F,9,1674
+9945,Secunderabad,Bike,7,,402.0,,F,9,1754
+9946,Khairtabad,Bike,6,5.0,235.5,5.0,F,10,1133
+9950,Hitech City,Bike,6,3.0,388.5,4.0,F,7,1208
+9956,Hitech City,Bike,4,3.0,396.0,5.0,F,2,1541
+9961,Gachibowli,Bike,6,5.0,381.0,4.0,F,10,1217
+9972,Hitech City,Bike,3,,205.5,3.0,F,8,4742
+9977,Masab Tank,Car,4,2.0,213.0,3.0,M,2,4790
+9980,Hitech City,Car,3,,385.5,2.0,M,8,4242
+9988,Khairtabad,Car,3,,366.0,5.0,F,10,4163
+9992,Hitech City,Car,3,1.0,384.0,3.0,F,5,5643
+9997,Gachibowli,Auto,3,1.0,397.5,,F,10,4244
+10001,Masab Tank,Auto,4,,351.0,2.0,F,4,5164
+10002,Hitech City,Auto,6,4.0,336.0,5.0,M,10,5602
+10005,Secunderabad,Auto,4,1.0,306.0,3.0,M,3,4310
+10006,Khairtabad,Auto,3,1.0,298.5,3.0,M,3,5127
+10015,Gachibowli,Auto,3,3.0,277.5,2.0,M,4,4746
+10017,Secunderabad,Auto,3,5.0,276.0,3.0,F,9,4969
+10020,Hitech City,Bike,4,,217.5,2.0,M,9,5070
+10028,Hitech City,Bike,5,5.0,310.5,4.0,F,1,5035
+10032,Hitech City,Bike,4,1.0,208.5,3.0,F,7,4275
+10035,Secunderabad,Bike,4,4.0,153.0,3.0,F,9,5644
+10041,Secunderabad,Bike,5,2.0,219.0,3.0,F,5,4725
+10043,Masab Tank,Bike,4,,300.0,3.0,F,7,5807
+10046,Hitech City,Bike,5,4.0,360.0,4.0,M,7,4552
+10048,Khairtabad,Bike,5,,358.5,3.0,F,7,4960
+10054,Khairtabad,Bike,3,,405.0,,F,10,5417
+10058,Hitech City,Bike,4,2.0,315.0,2.0,F,1,5437
+10062,Hitech City,Bike,3,,283.5,3.0,M,1,4886
+10065,Secunderabad,Bike,3,,387.0,2.0,F,4,5262
+10067,Masab Tank,Bike,3,,313.5,3.0,M,1,5186
+10075,Gachibowli,Bike,4,3.0,204.0,4.0,M,10,5911
+10076,Hitech City,Bike,4,4.0,331.5,4.0,F,2,5595
+10080,Hitech City,Bike,5,,258.0,3.0,F,3,4056
+10082,Hitech City,Bike,3,,322.5,2.0,F,7,4305
+10083,Secunderabad,Bike,3,4.0,246.0,2.0,M,1,4067
+10084,Khairtabad,Bike,5,1.0,349.5,3.0,F,6,5560
+10089,Secunderabad,Bike,4,1.0,400.5,4.0,M,2,4024
+10090,Khairtabad,Bike,5,,205.5,4.0,F,9,4754
+10094,Hitech City,Bike,3,1.0,259.5,2.0,F,1,5927
+10098,Hitech City,Bike,4,4.0,336.0,,F,2,4503
+10099,Gachibowli,Bike,3,2.0,211.5,3.0,M,7,4682
+10110,Hitech City,Bike,2,3.0,324.0,3.0,M,9,4032
+10120,Khairtabad,Car,3,4.0,385.5,3.0,F,4,4883
+10129,Gachibowli,Car,5,,195.0,4.0,M,4,4371
+10136,Hitech City,Auto,4,1.0,294.0,3.0,F,9,5216
+10142,Hitech City,Auto,5,5.0,394.5,5.0,M,10,1789
+10144,Khairtabad,Auto,6,4.0,370.5,4.0,M,2,1858
+10146,Hitech City,Auto,7,5.0,381.0,4.0,F,6,1014
+10147,Gachibowli,Auto,6,3.0,433.5,5.0,F,1,1949
+10148,Hitech City,Auto,6,2.0,423.0,4.0,F,9,1385
+10149,Secunderabad,Auto,5,,364.5,6.0,F,10,1189
+10151,Masab Tank,Auto,4,,342.0,5.0,M,2,1996
+10152,Hitech City,Auto,5,,352.5,,F,8,1549
+10153,Gachibowli,Auto,4,1.0,411.0,6.0,M,8,1141
+10154,Hitech City,Auto,6,,381.0,5.0,F,7,1615
+10165,Gachibowli,Bike,4,3.0,220.5,2.0,M,2,5431
+10166,Hitech City,Bike,6,,429.0,4.0,F,4,4889
+10167,Secunderabad,Bike,2,5.0,406.5,,M,9,4185
+10171,Gachibowli,Bike,5,2.0,312.0,,M,5,4751
+10175,Masab Tank,Bike,4,4.0,294.0,3.0,F,2,4320
+10180,Khairtabad,Bike,7,2.0,381.0,4.0,M,6,1006
+10184,Hitech City,Bike,5,3.0,349.5,5.0,F,3,1398
+10185,Secunderabad,Bike,7,5.0,381.0,4.0,F,1,1347
+10196,Hitech City,Bike,4,3.0,396.0,,F,10,1962
+10199,Masab Tank,Bike,5,5.0,358.5,6.0,M,1,1384
+10200,Hitech City,Bike,4,3.0,372.0,5.0,F,7,1789
+10201,Gachibowli,Bike,6,1.0,402.0,4.0,F,1,1654
+10204,Khairtabad,Bike,5,1.0,367.5,5.0,M,9,1694
+10211,Masab Tank,Bike,5,5.0,405.0,,M,5,1852
+10213,Gachibowli,Bike,5,5.0,355.5,5.0,F,9,1709
+10217,Masab Tank,Bike,5,1.0,406.5,5.0,F,4,1557
+10222,Khairtabad,Bike,4,,355.5,5.0,F,9,1978
+10224,Hitech City,Bike,5,3.0,363.0,5.0,F,6,1681
+10227,Secunderabad,Bike,6,,397.5,4.0,F,1,1345
+10232,Hitech City,Bike,2,1.0,348.0,6.0,F,2,5281
+10243,Gachibowli,Bike,4,2.0,240.0,3.0,M,5,4492
+10245,Secunderabad,Bike,3,5.0,424.5,2.0,M,2,4207
+10248,Hitech City,Bike,4,3.0,292.5,,M,5,5863
+10249,Gachibowli,Car,3,1.0,238.5,2.0,M,5,4906
+10253,Masab Tank,Car,4,,358.5,3.0,F,9,4930
+10254,Hitech City,Car,3,1.0,394.5,3.0,M,10,4911
+10255,Gachibowli,Car,3,5.0,325.5,3.0,M,3,5433
+10258,Khairtabad,Car,5,,348.0,5.0,F,2,5561
+10261,Gachibowli,Car,5,4.0,300.0,3.0,M,3,4225
+10276,Khairtabad,Auto,3,,219.0,3.0,M,8,5637
+10282,Khairtabad,Auto,3,2.0,228.0,3.0,F,7,4244
+10285,Gachibowli,Auto,4,4.0,222.0,3.0,M,4,5716
+10289,Masab Tank,Auto,4,5.0,390.0,,M,10,4331
+10291,Gachibowli,Auto,4,,399.0,2.0,M,4,5116
+10293,Secunderabad,Bike,4,,315.0,3.0,F,10,5354
+10302,Hitech City,Bike,4,1.0,342.0,3.0,M,4,5347
+10303,Gachibowli,Bike,3,,241.5,,M,2,4174
+10304,Hitech City,Bike,4,,388.5,2.0,F,10,5265
+10306,Khairtabad,Bike,4,4.0,231.0,3.0,M,4,5393
+10308,Hitech City,Bike,4,,337.5,2.0,F,5,5943
+10318,Khairtabad,Bike,2,2.0,241.5,3.0,F,5,5999
+10320,Hitech City,Bike,3,,253.5,2.0,F,8,4281
+10325,Masab Tank,Bike,4,1.0,403.5,,F,7,5211
+10327,Gachibowli,Bike,4,1.0,357.0,3.0,F,10,4172
+10328,Hitech City,Bike,5,,258.0,5.0,F,5,4805
+10329,Secunderabad,Bike,4,4.0,201.0,5.0,M,2,5865
+10330,Khairtabad,Bike,4,2.0,286.5,2.0,F,8,4806
+10331,Masab Tank,Bike,5,3.0,315.0,,M,6,4203
+10341,Secunderabad,Bike,6,5.0,430.5,5.0,M,2,5611
+10342,Khairtabad,Bike,3,5.0,309.0,2.0,M,3,5113
+10351,Gachibowli,Bike,5,,361.5,2.0,F,2,5448
+10352,Hitech City,Bike,2,5.0,342.0,3.0,M,8,5643
+10358,Hitech City,Bike,2,4.0,339.0,3.0,M,9,4098
+10369,Gachibowli,Bike,5,2.0,319.5,3.0,M,9,5526
+10371,Secunderabad,Bike,4,1.0,388.5,3.0,M,9,5148
+10372,Khairtabad,Bike,4,5.0,255.0,3.0,M,2,5671
+10375,Gachibowli,Bike,4,1.0,387.0,3.0,F,10,4906
+10378,Khairtabad,Bike,4,3.0,247.5,2.0,M,2,5210
+10381,Gachibowli,Bike,2,5.0,357.0,4.0,M,9,4086
+10385,Masab Tank,Bike,3,,378.0,2.0,M,9,4278
+10392,Hitech City,Car,4,3.0,270.0,,M,4,5471
+10394,Hitech City,Car,3,5.0,361.5,,M,10,5099
+10400,Hitech City,Car,4,,283.5,10.0,F,5,5470
+10402,Khairtabad,Car,4,2.0,280.5,3.0,F,5,4897
+10408,Khairtabad,Auto,4,3.0,372.0,5.0,M,3,1093
+10412,Hitech City,Auto,5,1.0,367.5,5.0,F,7,1092
+10414,Khairtabad,Auto,5,1.0,351.0,5.0,M,2,1030
+10422,Hitech City,Auto,4,,310.5,2.0,M,4,5227
+10424,Hitech City,Auto,3,3.0,378.0,2.0,M,1,5707
+10433,Masab Tank,Bike,3,3.0,361.5,3.0,F,10,5275
+10438,Khairtabad,Bike,4,4.0,219.0,10.0,M,1,4351
+10443,Secunderabad,Bike,4,3.0,396.0,6.0,F,7,1178
+10450,Khairtabad,Bike,4,3.0,349.5,,M,5,1799
+10455,Secunderabad,Bike,5,5.0,388.5,6.0,M,5,1382
+10457,Masab Tank,Bike,5,,325.5,,M,6,1483
+10458,Hitech City,Bike,4,,363.0,6.0,M,5,1411
+10463,Masab Tank,Bike,4,5.0,388.5,5.0,F,9,1951
+10466,Hitech City,Bike,5,1.0,382.5,,F,3,1014
+10470,Hitech City,Bike,4,2.0,393.0,6.0,F,4,1644
+10471,Gachibowli,Bike,4,2.0,394.5,,F,4,1644
+10472,Hitech City,Bike,4,3.0,349.5,,M,4,1668
+10480,Khairtabad,Bike,4,1.0,414.0,5.0,F,2,1246
+10487,Masab Tank,Bike,6,4.0,309.0,5.0,F,10,1680
+10491,Secunderabad,Bike,3,1.0,291.0,4.0,F,8,4308
+10496,Hitech City,Bike,4,2.0,321.0,6.0,M,9,4736
+10500,Hitech City,Bike,3,4.0,358.5,2.0,F,10,5674
+10506,Hitech City,Bike,4,2.0,204.0,,F,3,4190
+10510,Khairtabad,Bike,3,,370.5,2.0,M,2,4975
+10513,Gachibowli,Bike,4,5.0,339.0,2.0,M,10,4706
+10516,Khairtabad,Bike,2,,412.5,3.0,M,10,4183
+10517,Masab Tank,Bike,3,4.0,231.0,2.0,F,2,4998
+10528,Khairtabad,Car,5,,355.5,3.0,M,5,4285
+10529,Masab Tank,Car,6,1.0,352.5,6.0,M,3,5591
+10532,Hitech City,Car,5,4.0,354.0,4.0,M,6,4457
+10536,Hitech City,Car,4,1.0,316.5,3.0,F,7,4083
+10538,Hitech City,Car,4,4.0,270.0,4.0,F,7,5609
+10542,Hitech City,Car,5,4.0,342.0,4.0,F,8,4831
+10543,Gachibowli,Car,3,4.0,237.0,,M,8,4086
+10551,Secunderabad,Auto,6,,247.5,4.0,F,10,5965
+10556,Hitech City,Auto,3,5.0,285.0,,M,4,5069
+10560,Hitech City,Auto,4,5.0,201.0,3.0,M,3,5000
+10563,Secunderabad,Auto,3,5.0,285.0,5.0,F,7,4457
+10567,Gachibowli,Bike,3,4.0,381.0,,M,2,5957
+10568,Hitech City,Bike,3,5.0,349.5,4.0,F,9,4541
+10571,Masab Tank,Bike,5,,393.0,2.0,M,4,5761
+10583,Masab Tank,Bike,4,3.0,276.0,4.0,M,4,4030
+10585,Gachibowli,Bike,5,5.0,280.5,3.0,F,5,4613
+10587,Secunderabad,Bike,4,2.0,387.0,3.0,F,5,5393
+10595,Masab Tank,Bike,3,2.0,274.5,,F,6,4313
+10602,Hitech City,Bike,3,3.0,237.0,3.0,F,6,5261
+10603,Gachibowli,Bike,5,2.0,264.0,4.0,M,1,5810
+10605,Secunderabad,Bike,4,2.0,357.0,,F,3,5265
+10617,Secunderabad,Bike,4,,379.5,3.0,F,7,5813
+10625,Masab Tank,Bike,4,1.0,387.0,3.0,M,10,5916
+10637,Masab Tank,Bike,5,,198.0,3.0,F,2,5552
+10640,Hitech City,Bike,3,3.0,264.0,,F,1,4895
+10643,Masab Tank,Bike,5,3.0,276.0,5.0,M,3,5219
+10645,Gachibowli,Bike,2,2.0,355.5,5.0,F,6,4622
+10652,Hitech City,Bike,3,,333.0,3.0,M,6,5819
+10655,Masab Tank,Bike,5,1.0,376.5,4.0,M,1,5011
+10663,Gachibowli,Car,5,2.0,382.5,6.0,M,6,1610
+10670,Hitech City,Car,5,2.0,331.5,5.0,F,2,1855
+10684,Khairtabad,Auto,3,,264.0,8.0,M,10,4376
+10685,Masab Tank,Auto,3,5.0,253.5,3.0,F,4,5659
+10686,Hitech City,Auto,3,5.0,199.5,,M,10,4151
+10700,Hitech City,Auto,4,,382.5,6.0,F,9,1322
+10708,Khairtabad,Bike,5,,393.0,,F,7,1774
+10719,Secunderabad,Bike,5,,369.0,,F,4,1072
+10721,Masab Tank,Bike,4,3.0,385.5,5.0,F,9,1080
+10722,Hitech City,Bike,5,1.0,351.0,5.0,M,8,1837
+10730,Hitech City,Bike,5,4.0,348.0,5.0,M,5,1861
+10731,Secunderabad,Bike,4,1.0,379.5,5.0,F,1,1235
+10733,Masab Tank,Bike,4,1.0,391.5,5.0,F,6,1129
+10736,Hitech City,Bike,4,4.0,343.5,6.0,F,8,1175
+10740,Hitech City,Bike,5,3.0,363.0,,F,9,1716
+10746,Hitech City,Bike,5,1.0,385.5,,M,2,1258
+10747,Gachibowli,Bike,4,4.0,378.0,,M,1,1539
+10750,Khairtabad,Bike,3,1.0,303.0,,M,5,1556
+10754,Hitech City,Bike,4,,367.5,5.0,M,8,1841
+10760,Hitech City,Bike,4,,379.5,5.0,M,6,1367
+10761,Secunderabad,Bike,4,5.0,327.0,,M,8,1574
+10762,Khairtabad,Bike,5,1.0,330.0,,F,4,1156
+10764,Hitech City,Bike,5,1.0,388.5,,F,7,1871
+10770,Hitech City,Bike,4,,409.5,6.0,M,1,1826
+10777,Gachibowli,Bike,5,2.0,339.0,6.0,F,5,1981
+10785,Secunderabad,Bike,5,3.0,205.5,4.0,F,2,1034
+10795,Gachibowli,Bike,5,5.0,336.0,5.0,F,7,1505
+10800,Hitech City,Car,4,3.0,367.5,,M,2,1727
+10813,Gachibowli,Car,3,,208.5,3.0,F,7,5199
+10819,Gachibowli,Auto,4,1.0,202.5,4.0,F,5,5934
+10821,Secunderabad,Auto,4,1.0,235.5,5.0,M,10,4871
+10824,Hitech City,Auto,5,,304.5,2.0,M,10,4790
+10826,Hitech City,Auto,4,4.0,387.0,3.0,M,8,5324
+10829,Masab Tank,Auto,3,,288.0,3.0,F,4,4339
+10830,Hitech City,Auto,4,4.0,298.5,4.0,M,1,4163
+10831,Gachibowli,Auto,5,,213.0,4.0,M,5,5749
+10832,Hitech City,Auto,5,,217.5,2.0,M,2,4753
+10835,Masab Tank,Auto,2,4.0,171.0,5.0,M,3,4423
+10838,Hitech City,Auto,3,4.0,318.0,2.0,M,7,4742
+10840,Khairtabad,Auto,4,3.0,222.0,3.0,M,8,4240
+10843,Gachibowli,Bike,5,5.0,376.5,2.0,F,5,5178
+10849,Gachibowli,Bike,3,2.0,301.5,,M,10,5565
+10860,Hitech City,Bike,3,1.0,187.5,3.0,M,9,5489
+10861,Gachibowli,Bike,5,3.0,355.5,3.0,M,7,4208
+10873,Gachibowli,Bike,3,4.0,265.5,,M,3,4240
+10878,Hitech City,Bike,4,4.0,226.5,2.0,M,8,5724
+10893,Secunderabad,Bike,4,,250.5,2.0,F,7,5800
+10894,Khairtabad,Bike,4,2.0,316.5,3.0,M,4,5989
+10898,Hitech City,Bike,4,3.0,363.0,,M,9,4876
+10901,Masab Tank,Bike,5,5.0,294.0,4.0,M,8,4604
+10906,Khairtabad,Bike,2,2.0,315.0,3.0,F,10,4324
+10912,Khairtabad,Bike,4,,340.5,,M,7,4403
+10914,Hitech City,Bike,3,,246.0,4.0,F,10,4560
+10916,Hitech City,Bike,4,4.0,330.0,,F,7,4598
+10929,Secunderabad,Bike,3,5.0,417.0,4.0,F,8,1785
+10933,Gachibowli,Bike,4,2.0,391.5,5.0,F,8,1235
+10936,Khairtabad,Car,4,2.0,343.5,6.0,F,5,1689
+10937,Masab Tank,Car,5,3.0,385.5,5.0,M,8,1981
+10939,Gachibowli,Car,4,2.0,382.5,5.0,M,2,1186
+10940,Hitech City,Car,5,4.0,363.0,5.0,F,10,1365
+10944,Hitech City,Car,5,3.0,391.5,5.0,M,10,1434
+10945,Gachibowli,Car,5,4.0,354.0,5.0,F,4,1948
+10946,Hitech City,Car,5,2.0,385.5,6.0,M,3,1379
+10948,Khairtabad,Car,4,1.0,348.0,5.0,M,9,1145
+10951,Gachibowli,Car,4,3.0,342.0,5.0,M,8,1753
+10952,Hitech City,Car,5,2.0,366.0,6.0,M,1,1199
+10958,Hitech City,Auto,4,3.0,343.5,,F,7,4829
+10972,Khairtabad,Auto,5,5.0,331.5,5.0,M,8,1718
+10973,Masab Tank,Auto,4,1.0,373.5,5.0,F,10,1762
+10975,Gachibowli,Auto,5,2.0,328.5,5.0,F,9,1505
+10977,Secunderabad,Auto,3,2.0,417.0,4.0,M,9,1631
+10978,Khairtabad,Bike,5,4.0,348.0,5.0,F,4,1561
+10983,Secunderabad,Bike,5,1.0,412.5,5.0,M,7,1623
+10984,Khairtabad,Bike,4,,343.5,6.0,M,1,1235
+10990,Khairtabad,Bike,5,1.0,327.0,5.0,F,9,1603
+10996,Khairtabad,Bike,4,1.0,348.0,5.0,F,6,1247
+10999,Gachibowli,Bike,2,5.0,232.5,5.0,F,6,1639
